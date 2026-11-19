@@ -97,6 +97,7 @@ didn't complete it in the time. It's the first item below.
 
 ## Using AI tools
 
-I used Claude (Anthropic) throughout: to write most of the code and tests, debug the setup on my machine, and draft
-this case study from the decisions and results. I ran the model comparison myself on Gemini's free tier, checked the
-flagged numbers against the raw records, and decided what goes in. I can walk through every part of it.
+I used Claude (Anthropic) throughout: to write most of the code and tests, debug the setup on my machine, check
+each flagged number against the raw records, and draft this case study from the decisions and results. I ran the
+generation and evaluation on my own machine with Gemini's free tier and decided what goes in. I can walk through
+every part of it.
