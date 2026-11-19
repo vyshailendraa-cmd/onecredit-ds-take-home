@@ -1,3 +1,9 @@
+> **My solution:** [CASE_STUDY.md](CASE_STUDY.md) (write-up), [DECISIONS.md](DECISIONS.md) (the calls behind it),
+> code in [`summariser/`](summariser/). Run it: `just setup`, `just test`, `just baseline`, then set `LLM_BASE_URL`,
+> `LLM_API_KEY` and `LLM_MODEL` and run `just generate v1-raw`, `just generate v2-grounded`,
+> `just evaluate summaries/v1-raw.jsonl summaries/v2-grounded.jsonl`, and `just up` to compare them in the viewer.
+> The original brief follows.
+
 # DS Take-Home: Company Summaries
 
 **tl;dr:** Build a system that writes a short summary of a company, then write a case study on how you built it and how you know it works. We give you 50 companies, and you can use all of them or just a sample. Plan for 6 to 8 hours, ideally over a weekend. Free LLM APIs are all you need.
