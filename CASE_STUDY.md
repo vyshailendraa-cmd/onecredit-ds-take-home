@@ -80,10 +80,10 @@ asked "which would you rather read first, and why?", wrote down anything that lo
 
 - **I preferred v1-raw 6 times out of 10.** The reasons were all about context: it names the disputes, shows trends
   (equity falling, leverage rising, a turnaround), and adds figures like the cash cycle. v2 is safer but thinner.
-- **But I noted a factual problem in 5 of the 10 v1 summaries, and none in v2.** Checked against the records:
-  v1 calls a 49.22% holder "majority owned" (SYN-001560), labels the net loss as the operating loss (SYN-001158),
-  rates a company with no financial statements as low risk (SYN-000333), overstates a need for outside funding,
-  and blurs total liabilities with borrowings.
+- **But I noted a problem in 5 of the 10 v1 summaries, and none in v2.** Three are plain errors, confirmed against
+  the records: v1 calls a 49.22% holder "majority owned" (SYN-001560), labels the net loss as the operating loss
+  (SYN-001158), and rates a company with no financial statements as low risk (SYN-000333). Two are judgement
+  calls: it overstates a need for outside funding, and blurs total liabilities with borrowings.
 - **In one case I picked v1 even though I'd spotted its error** (the 49.22% "majority"). That's the real risk:
   richer, confident text wins the reader even when it's wrong, and the automatic checks didn't catch any of
   these five, because they're wrong *claims* built from right numbers.
