@@ -50,9 +50,11 @@ RISK = re.compile(r"\b(high|medium|moderate|low)[- ]risk\b|\brisk(?: level| rati
 MASKS = [
     r"SYN-\d+",
     r"CASE-[\d-]+",
+    r"\b(?:19|20)\d\d-\d{3,5}\b",  # case numbers written without the CASE- prefix
+    r"\b(?:Directors?|Shareholders?)\s+\d+(?:\s*(?:,|and|&)\s*\d+(?![\d.%]))*",  # "Directors 1, 5, 3 and 2"
     r"\d{4}-\d{2}-\d{2}",
     r"\bFY\s?\d{2,4}",
-    r"\b(Director|Shareholder|Audit Firm)\s+\d+",
+    r"\bAudit Firm\s+\d+",
     r"\b(19[5-9]\d|20[0-2]\d)\b",  # years
 ]
 NUMBER = re.compile(
@@ -73,6 +75,7 @@ class Score:
     medium_flags: int = 0
     medium_missed: list[str] = field(default_factory=list)
     invented_numbers: list[str] = field(default_factory=list)
+    imprecise_numbers: list[str] = field(default_factory=list)  # right figure, truncated instead of rounded
     unsupported_relationships: list[str] = field(default_factory=list)
     words: int = 0
 
@@ -103,6 +106,21 @@ def allowed_values(record: dict[str, Any], facts: Facts) -> list[float]:
             if a[key]:
                 values.append(b[key] / a[key] - 1)
             values.append(b[key] - a[key])
+    if len(years) >= 3:  # first-to-last changes ("down 80% since 2022")
+        first, last = years[0], years[-1]
+        for key in ("revenue", "profit_after_tax", "operating_cash_flow", "total_equity", "borrowings"):
+            if first[key]:
+                values.append(last[key] / first[key] - 1)
+    for key in ("operatingProfit", "grossProfit", "totalLiabilities", "cash"):  # changes in other statement lines
+        series = [y["statements"][key] for y in sorted(record["financials"]["years"], key=lambda y: y["financialYear"])]
+        values.extend(b / a - 1 for a, b in zip(series, series[1:], strict=False) if a)
+        if len(series) >= 3 and series[0]:
+            values.append(series[-1] / series[0] - 1)
+    groups: dict[tuple[str, str], float] = {}
+    for c in record["litigation"]["cases"]:  # totals a summary may quote, e.g. "two pending tenancy claims of RM681,600"
+        for key in ((c["caseType"], c["status"]), ("*", c["status"]), (c["caseType"], "*"), (c["role"], c["status"])):
+            groups[key] = groups.get(key, 0.0) + c["claimAmount"]
+    values.extend(groups.values())
     values.extend([len(record["relationships"]["directors"]), len(record["relationships"]["shareholders"]), len(years)])
     values.append(facts.age_years)
     values.append(date(2025, 12, 31).year - int(facts.incorporated[:4]))
@@ -112,9 +130,14 @@ def allowed_values(record: dict[str, Any], facts: Facts) -> list[float]:
 
 def _numbers(text: str) -> list[tuple[float, float]]:
     """(value, tolerance) for each figure in the text. Tolerance is half the last written digit, times the unit."""
+    return [(v, t) for v, t, _ in _figures(text)]
+
+
+def _figures(text: str) -> list[tuple[float, float, bool]]:
+    """(value, tolerance, scaled) for each figure; scaled means it has decimals or a k/m/bn unit."""
     for mask in MASKS:
         text = re.sub(mask, " ", text, flags=re.I)
-    found = []
+    found: list[tuple[float, float, bool]] = []
     for m in NUMBER.finditer(text):
         digits = m["num"].replace(",", "") + (m["dec"] or "")
         value = float(digits)
@@ -122,13 +145,20 @@ def _numbers(text: str) -> list[tuple[float, float]]:
         unit = (m["unit"] or "").lower()
         scale = SCALE.get(unit, 1.0)
         tolerance = 0.5 * 10 ** (-decimals) * scale
-        found.append((value * scale, tolerance))
+        found.append((value * scale, tolerance, bool(decimals) or scale > 1))
     return found
 
 
 def _matches(value: float, tolerance: float, allowed: list[float]) -> bool:
     # Signs are ignored: "a loss of RM1.08m" is written positive for a negative figure.
     return any(abs(abs(value) - abs(a)) <= tolerance + 1e-9 for a in allowed)
+
+
+def _truncated(value: float, tolerance: float, allowed: list[float], scaled: bool) -> bool:
+    """Right figure, wrongly rounded: 'RM674k' for 674,614 (truncated, should be 675k).
+
+    Only for scaled or decimal figures. A count or an age that's off by one is simply wrong."""
+    return scaled and any(abs(abs(value) - abs(a)) <= 2 * tolerance + 1e-9 for a in allowed)
 
 
 def score(record: dict[str, Any], summary: str, others: dict[str, str]) -> Score:
@@ -147,10 +177,14 @@ def score(record: dict[str, Any], summary: str, others: dict[str, str]) -> Score
                 s.medium_missed.append(fl.code)
 
     allowed = allowed_values(record, facts)
-    for value, tolerance in _numbers(summary):
+    for value, tolerance, scaled in _figures(summary):
         if value <= 1 and tolerance >= 0.5:  # "1 case", "0 judgments": counts too small to be worth checking
             continue
-        if not _matches(value, tolerance, allowed):
+        if _matches(value, tolerance, allowed):
+            continue
+        if _truncated(value, tolerance, allowed, scaled):
+            s.imprecise_numbers.append(f"{value:g}")
+        else:
             s.invented_numbers.append(f"{value:g}")
 
     own = {facts.registration_number}
@@ -189,6 +223,7 @@ def report(path: Path, scores: list[Score]) -> dict[str, float]:
         "medium-flag recall": 1 - sum(len(s.medium_missed) for s in scores) / medium if medium else 1.0,
         "summaries with an invented number": sum(bool(s.invented_numbers) for s in scores) / n,
         "invented numbers (total)": sum(len(s.invented_numbers) for s in scores),
+        "imprecise (truncated) numbers": sum(len(s.imprecise_numbers) for s in scores),
         "unsupported relationship claims": sum(len(s.unsupported_relationships) for s in scores),
         "states a risk level": len(stated) / n,
         "risk level matches facts": sum(s.stated_risk == s.risk for s in stated) / len(stated) if stated else 0.0,
@@ -198,9 +233,9 @@ def report(path: Path, scores: list[Score]) -> dict[str, float]:
     out.parent.mkdir(exist_ok=True)
     with out.open("w", newline="", encoding="utf-8") as fh:
         writer = csv.writer(fh)
-        writer.writerow(["registrationNumber", "risk", "stated_risk", "high_missed", "medium_missed", "invented_numbers", "unsupported_relationships", "words"])
+        writer.writerow(["registrationNumber", "risk", "stated_risk", "high_missed", "medium_missed", "invented_numbers", "imprecise_numbers", "unsupported_relationships", "words"])
         for s in scores:
-            writer.writerow([s.registration_number, s.risk, s.stated_risk, " ".join(s.high_missed), " ".join(s.medium_missed), " ".join(s.invented_numbers), " ".join(s.unsupported_relationships), s.words])
+            writer.writerow([s.registration_number, s.risk, s.stated_risk, " ".join(s.high_missed), " ".join(s.medium_missed), " ".join(s.invented_numbers), " ".join(s.imprecise_numbers), " ".join(s.unsupported_relationships), s.words])
     print(f"\n{path.name}  (details: results/{out.name})")
     for key, value in metrics.items():
         print(f"  {key:<36} {value:.1%}" if isinstance(value, float) else f"  {key:<36} {value}")
