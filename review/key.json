@@ -1,0 +1,42 @@
+{
+ "SYN-000397": {
+  "A": "v2-grounded",
+  "B": "v1-raw"
+ },
+ "SYN-001158": {
+  "A": "v2-grounded",
+  "B": "v1-raw"
+ },
+ "SYN-000785": {
+  "A": "v2-grounded",
+  "B": "v1-raw"
+ },
+ "SYN-001389": {
+  "A": "v2-grounded",
+  "B": "v1-raw"
+ },
+ "SYN-001560": {
+  "A": "v1-raw",
+  "B": "v2-grounded"
+ },
+ "SYN-000333": {
+  "A": "v2-grounded",
+  "B": "v1-raw"
+ },
+ "SYN-000783": {
+  "A": "v1-raw",
+  "B": "v2-grounded"
+ },
+ "SYN-001529": {
+  "A": "v2-grounded",
+  "B": "v1-raw"
+ },
+ "SYN-001969": {
+  "A": "v1-raw",
+  "B": "v2-grounded"
+ },
+ "SYN-001645": {
+  "A": "v1-raw",
+  "B": "v2-grounded"
+ }
+}

@@ -75,14 +75,30 @@ Other limits: flag coverage is checked by keywords, so an unusual phrasing count
 wrong number that happens to equal another figure in the record passes (missed error). The automatic checks prove
 **safety**, not **usefulness**: that's the blind review.
 
-**Not done yet: a blind human review.** The checks above prove the summaries are safe; they don't prove the team
-finds them useful. `just review v1-raw v2-grounded` builds a blind A/B sheet for 10 companies (5 high-risk), but I
-didn't complete it in the time. It's the first item below.
+**Blind human review** (`review/blind_review.md`): 10 companies (5 high-risk), v1 and v2 shuffled as A/B. For each I
+asked "which would you rather read first, and why?", wrote down anything that looked wrong, and only then unblinded.
+
+- **I preferred v1-raw 6 times out of 10.** The reasons were all about context: it names the disputes, shows trends
+  (equity falling, leverage rising, a turnaround), and adds figures like the cash cycle. v2 is safer but thinner.
+- **But I noted a factual problem in 5 of the 10 v1 summaries, and none in v2.** Checked against the records:
+  v1 calls a 49.22% holder "majority owned" (SYN-001560), labels the net loss as the operating loss (SYN-001158),
+  rates a company with no financial statements as low risk (SYN-000333), overstates a need for outside funding,
+  and blurs total liabilities with borrowings.
+- **In one case I picked v1 even though I'd spotted its error** (the 49.22% "majority"). That's the real risk:
+  richer, confident text wins the reader even when it's wrong, and the automatic checks didn't catch any of
+  these five, because they're wrong *claims* built from right numbers.
+
+So the two methods agree on safety and disagree on usefulness, which is exactly why both are needed. The next
+version is clear: keep v2's grounding, and give it more checked facts to work with (trends, named disputes,
+ownership stated precisely). One reviewer and ten companies is a small sample, so this is a direction, not a result.
 
 ## 4. What I'd do next, and how I'd keep improving it
 
-1. **Ask the readers.** Run the blind A/B review with people from the vetting team, not just me: which summary
-   would you rather read first, and did either one mislead you? Usefulness can only be measured by its readers.
+1. **v3: grounded, but richer.** Add the context I preferred in v1 to the checked facts (multi-year trends,
+   named disputes, exact ownership wording such as "largest shareholder" vs "majority"), and keep the rule that
+   the model only uses those facts. Success means v3 matches v2 on the automatic checks and beats v1 in the blind
+   review. Extend the checker to claims as well as numbers ("majority owned" requires over 50%).
+   Then **ask the readers**: repeat the blind review with people from the vetting team, on more companies.
 2. **Calibrate the risk rules with the team.** The thresholds in `facts.py` are my judgement. The model's
    disagreements (e.g. one year of interest cover below 1x at a two-year-old company) are a good list of edge
    cases to settle with them. Then track which flags they actually act on, and re-tune.
