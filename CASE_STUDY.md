@@ -32,7 +32,7 @@ All 50 companies, scored automatically (`just evaluate`):
 | Version | High-flag recall | Medium-flag recall | Wrong numbers | Truncated numbers | Risk level matches | Median words |
 |---|---|---|---|---|---|---|
 | v0-template (no model) | 100% | 100% | 0 | 0 | 100% | 34 |
-| v1-raw | 96.7% | 100% | 4 (in 4 summaries) | 8 | **64%** | 98 |
+| v1-raw | 96.7% | 100% | 4 (3 real, 1 false alarm; see below) | 8 | **64%** | 98 |
 | v2-grounded | **100%** | **100%** | **0** | **0** | **100%** | 56 |
 
 **Grounding is what makes the model safe.** Given only the raw record, the model:
