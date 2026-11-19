@@ -1,0 +1,49 @@
+[project]
+name = "company-summaries"
+version = "0.0.0"
+description = "Build, experiment with and evaluate a system that summarises company records."
+requires-python = ">=3.14,<3.15"
+dependencies = [
+  "fastapi",
+  "pydantic",
+  "uvicorn",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "pyrefly>=1.4.1",
+    "ruff>=0.17.5",
+]
+
+[tool.ruff]
+line-length = 128
+target-version = "py314"
+include = ["app/**/*.py"]
+
+[tool.ruff.lint]
+select = [
+  "E", "W", "F",  # pycodestyle, pyflakes
+  "I",            # import order
+  "UP",           # modern syntax for the target Python
+  "B",            # likely bugs
+  "S",            # security
+  "BLE",          # blind `except Exception`
+  "FAST",         # FastAPI
+  "PTH",          # pathlib over os.path
+  "N",            # naming
+  "SIM", "C4", "PIE", "RET", "PERF",  # simpler code
+  "ARG",          # unused arguments
+  "ERA",          # commented-out code
+  "TRY",          # exception handling
+  "PLE", "PLW",   # pylint errors and warnings
+  "RUF",
+]
+ignore = ["TRY003"]  # long messages in exceptions are fine
+
+[tool.pyrefly]
+preset = "strict"
+project-includes = ["app"]
+python-version = "3.14"
