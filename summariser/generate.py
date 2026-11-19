@@ -79,7 +79,8 @@ def call(messages: list[dict[str, str]], *, retries: int = 5) -> dict[str, Any]:
                 print(f"  {exc.code}, retrying in {wait}s")
                 time.sleep(wait)
                 continue
-            raise
+            detail = exc.read().decode("utf-8", errors="replace")[:500]
+            raise SystemExit(f"API error {exc.code} for model {os.environ['LLM_MODEL']!r}: {detail}") from None
     raise RuntimeError("unreachable")
 
 
