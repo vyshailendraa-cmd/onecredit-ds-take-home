@@ -1,12 +1,26 @@
 # Case study: company summaries for a vetting team
 
-> Draft skeleton. Sections marked TODO need real results and your own reasoning. Write them in your own words.
-
 ## 1. What a good summary is for this team, and why
 
-TODO (from DECISIONS.md §1). Start from the reader: a team triaging companies before a closer look, accountable
-for what they miss. Then the five properties in priority order, and *why that order*: the cost of a missed red flag
-vs the cost of a clumsy sentence.
+The reader is a team vetting companies before choosing them as suppliers or partners. They're busy and
+sceptical, and they're accountable for what they miss. The summary isn't a description of the company; it's a
+**triage tool**: it should tell them in 30 seconds whether the full record deserves a closer look.
+
+So, in priority order:
+
+1. **Never miss a red flag.** A missed winding-up petition can cost far more than a clumsy sentence. A summary
+   that hides one is worse than no summary, because it makes the team skip a record they should have read.
+2. **Never invent or distort a figure.** If the team can't trust one number, they go back to the full record and
+   the summary has saved nothing. A truncated figure ("RM674k" for 674,614) counts against it too: they can't tell
+   an imprecise number from an invented one.
+3. **Decision first.** The first line gives a risk level (high / medium / low) and the single main reason. I chose
+   a risk level, not a recommendation such as "avoid": the decision stays with the team.
+4. **Short.** Around 120 words at most, so it's read before the record, not instead of it.
+5. **Plain language.** "Losses in all 3 years" rather than "negative net margin trajectory".
+
+The order matters because the failures aren't equal. A clumsy sentence costs seconds; a missed red flag or a wrong
+number costs the team's trust in every summary. That's why the first two are tested on every summary, and why the
+risk level is decided by explicit rules (DECISIONS.md §2) rather than left to the model.
 
 ## 2. What I built
 
@@ -61,16 +75,28 @@ Other limits: flag coverage is checked by keywords, so an unusual phrasing count
 wrong number that happens to equal another figure in the record passes (missed error). The automatic checks prove
 **safety**, not **usefulness**: that's the blind review.
 
-**Blind review** (10 companies, 5 high-risk, versions shuffled as A/B): TODO, after `just review v1-raw v2-grounded`.
+**Not done yet: a blind human review.** The checks above prove the summaries are safe; they don't prove the team
+finds them useful. `just review v1-raw v2-grounded` builds a blind A/B sheet for 10 companies (5 high-risk), but I
+didn't complete it in the time. It's the first item below.
 
 ## 4. What I'd do next, and how I'd keep improving it
 
-TODO. Ideas to choose from: have the team label 50 summaries to calibrate the checks; track which flags they act
-on and re-tune thresholds; add a "what changed since last review" line; a second-model checker for phrasing the
-regex misses; monitor flag recall and invented-number rate on every new batch as a release gate.
+1. **Ask the readers.** Run the blind A/B review with people from the vetting team, not just me: which summary
+   would you rather read first, and did either one mislead you? Usefulness can only be measured by its readers.
+2. **Calibrate the risk rules with the team.** The thresholds in `facts.py` are my judgement. The model's
+   disagreements (e.g. one year of interest cover below 1x at a two-year-old company) are a good list of edge
+   cases to settle with them. Then track which flags they actually act on, and re-tune.
+3. **Make the checker smarter where it's weak.** It reads "over 80%" as a rounded value rather than a bound, and
+   checks flag coverage with keywords. A small labelled set of summaries would show how often each causes a false
+   alarm or a miss, before deciding whether a second model as checker is worth its cost.
+4. **Use the checks as a release gate.** Every new prompt or model version is scored on the same 50 companies;
+   it ships only if flag recall stays at 100% and wrong numbers at 0. That's how it keeps improving without
+   quietly getting worse.
+5. **Add what the team would want next**, if they ask for it: a "what changed since the last review" line, and
+   links from each flag to the part of the record it comes from.
 
 ## Using AI tools
 
-TODO: say exactly what you used and for what. Draft: *I used Claude (Anthropic) to help write the code and
-evaluator and to draft this document's structure. I chose the definition of "good", set the thresholds, ran the
-experiments and did the blind review myself.* Edit this so it's true.
+I used Claude (Anthropic) throughout: to write most of the code and tests, debug the setup on my machine, and draft
+this case study from the decisions and results. I ran the model comparison myself on Gemini's free tier, checked the
+flagged numbers against the raw records, and decided what goes in. I can walk through every part of it.
