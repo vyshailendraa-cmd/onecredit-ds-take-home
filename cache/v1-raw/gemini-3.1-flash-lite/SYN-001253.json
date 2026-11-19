@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "87d98e121f02873b",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance with no reported litigation or adverse audit findings.\n\n*   No red flags identified: The company has no reported legal cases, winding-up petitions, or judgments.\n*   Audit status: Latest financial statements (FY2024) received an unqualified opinion.\n*   Profitability: Consistent net profit generation over the last two reported years.\n*   Liquidity: Maintains positive operating cash flow and sufficient working capital to cover current liabilities.\n\nFY2024: Revenue MYR 6.52M, Net Profit MYR 0.27M, Total Assets MYR 5.83M.\nHospitality, Selangor, incorporated 1989, majority-owned by Director 4 (90.66%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqYECqMEAWkUfRPrps70pE4rR/NoZCVvLac/BcWIyrgy/x57+C2Z78e/gHpwTnW8+gKudjntUX2C37hgOAlqY+73PZX6A5R4raDhWIWAc+6f3h+J8vVe1e9Dp9WExHmBXDMKKpsMWyQA6Ikxou4sjPtQ7T+n421SHD9TIfzP15wfFmtS+OQ/4SBIXyk37H7NdiCyXH5PMZVLJV13c8S4Asn1kpUt8zLwkDauYsmczQEQH31/o5FL4KHmGxCcWiM5hAgHhATZmMU3ivwHqpjgPRyrz/ymZ7mYuLQKOc+jCLFPu/p5r4myCEH/U7H9o2sv4+I1LTGyGHg6tQs5AbKkoSFTBz2br+ym0PJuF4r6ATE3pqMMQNHEVI/HqUSS5QxDPNydYSYlg2unQXJS0K6qDUBShwEGJfaHHIxLQY33u09pOeqflTtPGZfjBhrNSqyXlVP1+sG5twdC1AmkqgxZA0XeyF5ijDA25ECUKnLeIO/a7PQyjVIEQoKTCt0+E8Ke/rmse01n7r5DD+vwlCYH4BfqEDkqfp1TpjZjZfUomov8fLGt0yYZjY0HS6UYF3qcWvhb2pEXx/QUhKmlfG9vDMCmeaatgVJ+YoE3AY6rioZXNBBtIxCTwnaZwIStHDCMULVuxeD30Mcfj+Un4NjhIJ2LlwOoKdI4cTK7jlcRQdG+klYr91ohYq4lcZDi4g468B3e8+lLWZEwTAAi0O+TN90R5/drWTMQEg=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116159,
+  "id": "e0z_aozHDevE694P08qB8AE",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 164,
+   "prompt_tokens": 2034,
+   "total_tokens": 2320
+  }
+ }
+}

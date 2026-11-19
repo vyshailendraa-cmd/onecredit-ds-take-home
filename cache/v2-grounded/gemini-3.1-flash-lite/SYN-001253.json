@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "fb19528c37480ef9",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance and no adverse legal or operational indicators.\n\n*   No red flags identified.\n\n**Financial Snapshot (2024):** Revenue 6,520,818; Profit After Tax 268,761; Quick Ratio 1.7193; Interest Cover 3.6213.\n\n**Profile:** Hospitality (Boutique hotel), Selangor, 36 years old, majority owned by Director 4 (90.66%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsUECsIEAWkUfRM2uFIEnoPhuHsMkLBlxKOs9IxmHHlKHMNjDCZ8Ie5IFhvzPBFlBPxGzPJt8DvANe+oe2CI9vZdrxStN+z83VaEqhUFeBzpkzccrry5sR7Y9cn+IVU9/kyfiMLe+VWUeGUPLRbUvIJZis5hFuHY/fxphRS8yqPLnDI7vDhJQrjdYm6lbF7XXgHUvhqGRMmSDs6MzaQrYOf7VFnRiBP27s7kAqyvUB36qlU9NxXONGnhFDyqGOSjdP74Wv3pD6SVA/+Buyalb+0V7/lCTcH1Vgexce3mP24kEwUQrfEscVDi9aS8xRwsS/p5WkuyYk9M3kiOHSmMCmT8A7UN78B7IUSNA1BbBNG9ChcBr5rNydJL89LupJWbVd3HBGzldKnxyteptXqsbOu91z1yyqk3QiFa8BWieNqG83nPys0BCT+xWRIXB0U8kNLEl5FdnlkubFHW4mTzjcmmV/tR/Og8toJwJC/6pyC8tthVD9xQKHKwjO14hHC/FQ0zlv8Nm9VJ4M9rQRKUI+H782XdJ1yqxU2Z7QraabnT6CklTvTbRi6Q9983YM4nFDtiofr+rk55us8oKhIL7iSXWmno9pM2oAW0y37Npp1MP1+Qc5xoHRTCB+3TXFOCeDfyRVMF7nECqTohwmQh1TUG9fD8C5xfuO0C6S3P6CI/m9qR37f4tWi9B3px2GqUKEF5p3QRjNJetOju/3ULJxd6r1vIQJIIQOlbaebvMssaL812/FUsfNgUBHFDecHiCgy4dahMWMQ="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115626,
+  "id": "Z0r_aqyGK9LKv_gPjszaYQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 110,
+   "prompt_tokens": 2245,
+   "total_tokens": 2478
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "3859e2d68502c625",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Lack of financial transparency.\n\n*   No financial statements on record.\n\nFinancials: No data available.\nProfile: Professional Services, Perak, 11 years old, majority-owned by Director 2 (58.7%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EowFCokFAWkUfRNqPBxIDeyNxPe46Q9CtM647iIRO7EXpynE2jBJ8jS+rqRPUmfJgvg1igYuL076M/xLKCLTcTqO3Z5Ja/675FTMfAYsNiC8cocKL9YB1iPSouO9lc6GF8OTTw4V19sfob/+JyPL3+DKsoLQvDWJn2ldoU1Uts5S94sKIhxBu7MJW7cFloy8lC/Z9dJ4mIPnSJP/v638j4bW5DAGgFO0bqy9qxFJg56TDfJVNEe8WdTIUP1Hx4TtkoDPZQUHZvdbWm/GX3R0OJHfaKSXlH/GVe+kTva3viIdl6iYyRboRO2OZZAj24ZnBQlN/A0m+d765xlF640CibwxOfSfOvuG250hyaH6HEchrLcX8D3iM9UcdSLAVqXik1WBoKNALtwBPz8SEngIgDeEQIa6nsoPAl5YounUJu+dys3R1QYTGe2p1ZFbX5ZkLZZWc3oD9LQunSwhZTbl3Pa2qNmXaowpqrSWBMBR4ZuL/kOizG90K8h/nHuuRQDorCDwcfoLnTIhdZXE3Omooiu9E0GGa+yy03vayLnSHYIaohYUgtprrVUF2S0NaZlhbBhf33DgyrvhalRBVojOAryLWrKpCvIq+2eEO0cwEFArrCgmjeWQiEiEpqXU9X7T986gPH/7EelboK58DA6dKKEGIZtichNTBrhD0c1hzted5FVYTKfHGDKmV6ATI7ez7hA5Yn5Crx18jfbNmhiVMjeb41GfwHUHwlSJICmr8N6jhmCAShr6e07ir8zyiWBWISfgQfC8/ayiuZsZtS7/YVoacd7cWurqfmhG9bp1cNv43MQmfaO5QRl73Vv5pZu9pPFZdDz7TJggsAQ0fDEC/IlOkNP2vHaHKUvWPv7WUA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115336,
+  "id": "R0n_arfTCuqKqfkP48DEkAs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 53,
+   "prompt_tokens": 609,
+   "total_tokens": 801
+  }
+ }
+}

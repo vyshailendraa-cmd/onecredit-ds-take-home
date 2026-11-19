@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "d2a4442cb65a8d70",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance and no adverse legal history.\n\n*   No red flags identified regarding insolvency, winding-up petitions, or negative audit opinions.\n*   Litigation history shows the company acting as plaintiff in debt recovery cases, not defendant.\n*   Consistent profitability and positive operating cash flow maintained over the last three years.\n*   Healthy liquidity ratios and manageable leverage indicate strong operational stability.\n\n**Financial Snapshot (FY2024):** Revenue RM 38.8M, Profit After Tax RM 2.5M, Cash RM 2.5M.\n**Profile:** Hospitality (Boutique Hotel), Selangor, Incorporated 2018, Majority-owned by Director 1 (66%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErkECrYEAWkUfRNzXMsWjyUpKrrjjiVk8tgqSPKhvJcvy7Opil8k+Bp8/ef7n72fD9DC18vTBUmDyWm2IRGXRgiW08Gpt9vTLni113nHJzBtU8QLZI/Z5vtn3d1/DDfUd/NjcR0kKi6Z7eZUTS+Jb8IeqYKuknATniNtD227CCzhtfESfipEN0Ft7cV6xlOS0dP/Tk2lMjflTKsqQrqpSv9jfcIqPX7sMmhXv9UvxBcOo9aiysJwhdB3AWtmFKRRIZDUyFnfpTlo2ntk5B0KTi/AjKlB7b3rO8+8yNMaIY0y+pWqeKjR5bbmQ9NViFsdtrGtRWq8bUqSCjiX/YJ2YK29SmMydVHOMXt5uEiMJwXvjIaLc/Pu2s0kIQP8EBdxxd2sKLJD4rPEns5DwmlWWEaC2+5PHnUCZ7H9WoU0Q5Mcks1Fzu+R882CYaHimiqIjriQGsrzhQTZoT2p7vMbf81KutBhWfKdI2th63KSgQiR4uAS2lvBJTsORQ+AVivgjIwjiXlqvF8mjhssWOn8TFBFNMq5ekMlBT8dhLrPfbNq9z2AxeGGujpSbmXpkADjEPyvgIt11q9q1PtKki+cFMBBoA/vV8gFVyr6QtLzafzr+7bJFrwSNyzTT+21psUaYlHLJRep8HBf+CrHC/9o+ekmgxgoOdlzvZEJDmxp3C6yIAr/BtiHInt4TublPbPAtVJHU2UQOq8LgXx706vYBNLOi7Zc7KAtzMyJs60OpNMT9pbxYFThjlfaanY="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116008,
+  "id": "5Uv_ao7JOuKw694Pz6OCkAw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 154,
+   "prompt_tokens": 2956,
+   "total_tokens": 3232
+  }
+ }
+}

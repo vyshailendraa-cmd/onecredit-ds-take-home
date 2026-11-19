@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "d942a6fbab44d3d5",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Poor financial performance and inability to cover interest obligations.\n\n*   Interest cover of -2.18x in FY2024 indicates inability to service debt.\n*   Net loss of -RM199k reported in FY2024.\n*   Negative operating cash flow of -RM31k in FY2024.\n*   Significant board turnover, with 2 of 4 directors appointed in 2025.\n\nFY2024: Revenue RM4.16m, Net Loss -RM199k, Operating Cash Flow -RM31k.\nConstruction, Selangor, 2 years old, owned by four individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EukECuYEAWkUfRNQ8cVw9/qw9mBGQuwJWvNfvQgNryGxlJuaaAa5gAp6S5WlKgHBmB3uFS4O8aaoiPs0Tj+udODU4XYp7N6DqO0BRmswRpxj08lxCJxlZv79YbV/A7zKKa7VXHJ7cPGWsxbra2vpo7W19JSU+1UdJrQxs1p7uYGpVzUNjX1jQ/3Q8shCYfQ2wfBJETYVxCRcH5FvhdajAaSCanP7meOCi2cUsbw7cc+eDIwpmPYva3TGvYtlrEpGMaFgbHsePriK5CwyisQy0OWV/MqL52b2OITHYosLgUWDUfPvYxyZ5akILw5tYAuuaOMlPvcUg0RbzPCfn5+EqAmFgDHJe8EkQn0Qdt/Zl9K98JI8ItodZ5vuFk7rY58Hy3VXXl6bjOx0LNPxa6YGaDR+Bx6Olf03g8jIudmLoQma6jsLsIplUNjs1QFw6+nv5ucW2Zhg+5aLioEzty0+B8cdOudPhRpLEx78RleeTm3Exb8WM2bEZqdeMbeqfc2jp1JKTwUVpUJh7ScCEdjXUo2TaAKizzYO0KiprHskRf7cyq2sN7KHjbVGIKd4TehMF59yramuPNUG6qZB9lwbyw9wSvVh49Jkndo/7LyiL4r7kQ8Ox/HRjkx0hvy5/7rKaIOCnyKkaOUgEjfejjHw5uzmT0EyVz82OPsWXwDhkPmSjSN0J4fzzK7jhJiwpyoSR1/NStpQt9KLvWapLwrBa0gCPb1vNEME7OrDh+D2BLZxcjfTXcHjkhHfSbe9Wro+aX2fG1f63/xlQTSnWmRaMClGyRHfljQDKI79Ly5KLQy/cobSdIYcTNacge8="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115754,
+  "id": "5kr_aoXRFf2_g8UPxLPvOA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 149,
+   "prompt_tokens": 1603,
+   "total_tokens": 1882
+  }
+ }
+}

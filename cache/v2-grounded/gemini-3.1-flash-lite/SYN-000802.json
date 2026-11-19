@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0658a664bdb5c0e2",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Severe inability to service debt and ongoing operational losses.\n\n*   Interest cover of -4.01x in FY2024 indicates critical debt-servicing inability.\n*   Negative operating cash flow of -RM1.73m in FY2024.\n*   Net loss of -RM2.58m in FY2024.\n*   High board turnover: 3 of 5 directors appointed in 2025.\n\nFY2024: Revenue RM27.80m, Net Loss -RM2.58m, Operating Cash Flow -RM1.73m.\nProfessional Services, Kuala Lumpur, 2 years old, majority-owned by Director 5.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsEECr4EAWkUfRMxmyxabA1RPWMP6AeLx1iAFrLT2Zhpgm0T6UmnUeNzKCzuwKSQr9OuVOuUkVwyiG/GJKnr3u7aFvmJzUXxSweP6zKmQoM6xhUnM6ha8M9s86MmmTqQz9FL3ZwErC4CvLtYYivc7Ug02jxWlKy1uB+qwGQpMAoa5+NYHIhL+EitePweVT6ui15rKLBtIEDNczVFCCZ93OXgV/74kRh+4UHF24UKbMJKJXXGquGvy+VJjgSamEl+XtkHUg9PhwWlmm5XIBTJKIzcbhg9jH7meOJ3yV8D2YvD4VkKyHLt3o4301cGxR8k46N4b5WTPIe9TkSIIjaCsICkUqXApQvlMmUQB4elZuTR1ol4oSQL6vrSbE+k40TUvpACeBB6A4YbAIPeyD386MibkiBCB0If86F+KO1WcXlxuwU0GC9RqmWA5AWT0NtAUvJCD0VDIxglAuvmYSAUItWpvuwe8tsYmoz3pNPeb4iFrUqpy04prJQ89JOaR9+/gT87dSb1ikSvJ9ezzfcfEbnSzkvAxAH3EvBX2JvnIbHE7ooP6kmcllcfqR3v1pEhgqX4EUO84qrb5bkB08ubnWocoHQAVraq/65coT7TGa72QqsepdDp+nDVBcM+KqxgTLRRN5elVFz9DafnD9EJIA3y1OEU8nje59rzK2ZaUfsjGgywGB/+iLN+Azb/PqZWLzLHQpBWR3KYpA9SYnpfvlDzR48VAOy/vsQiSrQqnvRyzXNX5lNJs1jxlGOtsTXfyCeZuQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115484,
+  "id": "2En_av3zEu__4-EPqtDcsQ8",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 160,
+   "prompt_tokens": 1626,
+   "total_tokens": 1908
+  }
+ }
+}

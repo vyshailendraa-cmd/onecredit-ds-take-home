@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "136fb4aee0259a40",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: High volume of litigation and recent name change.\n\n*   **Litigation**: Involved in multiple breach of contract and debt recovery cases (2023\u20132025), including a pending breach of contract claim for 177,000.\n*   **Corporate Changes**: Recently changed name from Sinar Industries Sdn. Bhd. in June 2025.\n*   **Cash Flow**: Negative free cash flow in 2023 (-322,553) and 2024 (-189,074), despite positive operating cash flow.\n*   **Leverage**: Leverage ratio increased to 0.835 in 2024; debt service coverage ratio remains tight at 1.37.\n\n**FY2024**: Revenue 19.37M, Profit After Tax 473,200.\n**Profile**: Retail (textiles/baju kurung), Kuala Lumpur, est. 1990, owned by two directors (89.67% / 10.33%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErcECrQEAWkUfRMbpeMVshRQohoCOKFeWburOFKLpKrGjuR5Npa0cGUYIQj3h8eDulJCQcXlC/WWSyXL3/rVq9uUAn0184s8+1NPMq+DcYVLr5LemTR9FUYMgHg+Ojr64CAaURIQ6M28L5I5VEx0r6tkODcdPYtBWbJZweXNfYP0c6jnczJFLRVf9DX1pPf9MKbBYbDMWeJe24K5JpMJX0qe7bOU5cTGvVjNfyqtSKVsFT0aiPVfldSutWoPNaP0s6b8ZV1fNdp9kgaMIgvqM3sihmr7eKhlaSt3xRC+6/ep3HUlvl9ADatHT8oSOvngeP4eB0xb0tpaaMJSe0OcdT3ekaMMC5pL8wvQBozRMtPVmKLPirX5l5WPLn+Sfo9iwsI08XE2GICdKv9nYCDfFtGla+0PGOzlA+Yl7bYYbEYY5ZBBlukFMqWCN0olxT1yNb3zSYYj08dDiFt54xlUMxNsruDfTcfXM68yFsdfPYFj10B6kQr8WiPNxcrBYu/9BTnRWRBVz4ZxB1IPB0HkF2eZQvh5PLY/6yhVEvx/faCsgB/lhk3foPpiqZIiD30nWD6AJ0CKtUVOi0lveiSmEGgcbto5g7fTP0DuX6BjYRxbibLcY5SDyiZcnX2jpdIL0tELTt00mlCd82Cqf2a2VYyXJe/YAlMmpZr/02lkK9+q82x8Q2Zb/LEHSZJBGvPnEJQxEHTXGy0KHs67yOYO8avPAcWucrw+py5sdEyZczEh/gPL8FSXg1QO"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115895,
+  "id": "cUv_ap7aFcXA3LUP8IzG2Q0",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 241,
+   "prompt_tokens": 3176,
+   "total_tokens": 3536
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "8119cb666c1ee0ba",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Significant ongoing legal exposure and adverse judgments.\n\n*   2 judgments entered against the company totaling RM780k.\n*   2 pending cases as defendant with claims totaling RM779k.\n*   Financial performance shows declining net margin (5.41%) and operating cash flow (RM574k) in 2024.\n\n**Financials (2024):** Revenue RM6.86m, Profit After Tax RM371k, Borrowings RM1.53m.\n**Profile:** Education, Selangor, 19 years old, owned by Director 1 (49.67%), Director 4 (33.46%), Director 2 (14.89%), and Director 3 (1.98%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EvsECvgEAWkUfRMrNBGF0NXDJ4nj6DWLLH5N/jpG++OZEqkNYdn3hY2EnSAdCykqd/e2/34NHrfrBiW9+4VRTJezl9bvYHy/a/y5yrBkT/EpsRoYbNz/F00qngeGBZFX5RPfw4e9PUGWUC8fDzlbopSm2uxRFDxEgyi/2IFMZ0zhoURUbLw83yVOXWmt5mpCAbM+k55PYC5X544zzl3klNYJW2QzlN4npb/z6jHsl9YCOTnsalhY3KejvBi9rzd0NwsMJYqmz1Xw+RAcmclH8/zcpMSrgLBsWS5pivWlicbEnQqnATmr7oSPR2H6qHzJQnXQzDAuKlsdIz0BKfrozGf7wW99/vubvPvHjgT2v13Ig66ZzXDSlRWC1SqvVyiShXrYCxpYv8OheCcihrkgLptsREpkRVtOsRQ0VLUVYurr0Zu6BUm+leIvOnWQ8qxyXWmRfXvUxIUpwLguGblMWEFmapUJXUNvhS0FO0ZNinQdN8rg42vRLDOEj5Z3J7xHOjJPIxsy6/h+SYvR840M9PAaEUaCDPkDOoSvPtF4yV7hWVStBWxYT5lDBR2t5MUAK+VilMOEeLsfNtHzOn0YpUEjZGlGETbL59jkgYaZtSYl/eo6pomvi6i8rnODvD9eYjky+fq9GPpcfUh9pTQciA9jr7f4bwM4YokX2a4tQ4I2BUxkmmL+bpCM9AjBjWJ5dpEqr/o1cCob93XvQqksrnKd7tJlLw6ntCL3eByjr+kvK5vmJCPs3/UuhE9R5HYWuFJ0n+zxAjhIg7TGyVfGAXFmEZz3Z9aKIawBQ4jQcydnjWVkLA9SDkujdxOXPL3VMGjwj8x2GOt6JWu+9k8="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115363,
+  "id": "Xkn_au-rN_CC694PnNO6sQI",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 171,
+   "prompt_tokens": 2749,
+   "total_tokens": 3056
+  }
+ }
+}

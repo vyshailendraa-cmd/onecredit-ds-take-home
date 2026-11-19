@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "bb52517b5aea32b7",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Sustained, accelerating financial losses and severe cash burn.\n\n*   **Significant losses**: Net loss has widened annually from -516k (2022) to -1.08M (2024).\n*   **Negative cash flow**: Operating cash flow is deeply negative (-819k in 2024), indicating inability to generate cash from core operations.\n*   **Liquidity concerns**: Net working capital is negative (-448k), and the debt service coverage ratio has deteriorated to -5.62.\n*   **Rising leverage**: Leverage ratio has spiked to 2.62, reflecting increasing reliance on debt relative to equity.\n*   **Revenue decline**: Top-line revenue has contracted for three consecutive years (5.5M to 4.8M).\n\n**FY2024**: Revenue 4.84M, Net Loss 1.08M, Cash 547k.\n**Profile**: Healthcare (Pharmacy/Supplements), Kelantan, incorporated 1993, majority-owned by Director 4.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtUECtIEAWkUfROyiGrHJ3sG4EXjhoTpyxlhEzwb/+nKzV8oRBCDGhzPj+WYgA2JVC/+1suO7O8JGIBEpr1FGSrU7rD4ciX3ZLRGmrIuWcq0IN+JWtUGn5RxPR626X4iCeb1KbMB925k81FC1xQ/CAru00lN1XUatWhoNIJQx78MD01w7CwyNOK+FQDsk/pInOFvUzMdIhJkYkZgpCPOkIJ3f2CsUeusOwFwYT6M/w6kur4p6ZBKCGU8aLHSahPss2iIsZ5yTUIYtRdKRU/2zrT5CY+xlv5rBNIMW1sLG0wgKACfr4DTsi5NS79ddhzqbZ/zVV+UmFWa438vgRBIlMMOqqahUSdFPeLt8HXaAe9ix+gn3EqnhduYemZTHUKNlFcFXUB4/OepuyaoNF99zQ+6qT/Mg4+sSK3m7zlv5D+nH1MWJUC0is75IG+xYjJtKtNMJdkiJWO42FjQMaLT4OI898kcVTq2y3OH5bUtjKyQhLQ7jtYmWSjfXsBTEIp50wk2hPEpGkMz/QKXFwiN6tYODeKEh6JGpSh8xpvq6WDC/KD9pwfbuvFWr5IJKA5y6bGR28MeirtURgMQqcblN7rFiy56PVOIloqdMWW4E0cwJjtx31gDSrkybHPZ+SpIsxo2t1vHtVrrVqB3rURPWBQ6ySS7g9So8jDxKmtQfgxTKrspUKnovtSVHGla6bqYlqYoNNeJqnASNne3rGBUYtCjkMfCLAYV9Pv9S7aRFjAEPlAoxYcF12cfxtj3XZqlL+yOwYdyEuWaYu/5Gt1WWYh819uV69K5"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115870,
+  "id": "WUv_auz-BPy9mNMPxfuMoQo",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 237,
+   "prompt_tokens": 2781,
+   "total_tokens": 3147
+  }
+ }
+}

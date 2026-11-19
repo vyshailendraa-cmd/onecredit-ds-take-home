@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "f21101ed1deac5c5",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Persistent financial distress and inability to service debt.\n\n*   **Loss-making**: The company has recorded losses in all three years on record, with a net loss of -RM1.26m in FY2024.\n*   **Interest cover**: Extremely poor interest coverage ratio of -15.97x in FY2024, indicating an inability to meet interest obligations from operating earnings.\n*   **Cash burn**: Negative operating cash flow of -RM1.05m in FY2024, continuing a multi-year trend of cash outflows.\n\n**FY2024 Snapshot**: Revenue RM8.19m; Net Loss -RM1.26m; Operating Cash Flow -RM1.05m.\n**Profile**: Hospitality (Travel agency), Perlis, 13 years old, owned by Murni Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtQECtEEAWkUfRMo0cZFUIVX3cmkg+s/2Ot+CDHXXn5rRioA7Hgka8zj/+MFJwW+PkVPz6SFpFoFTGtuAUwLw3A80XjC4JxxKlGPaP1FsCwK+4giad00vtdRrX8ZEXAOUlZA+tZawT52a3jBPtv/bFlWNDmxJu5UsYzsKxcstMTVORuTQemZkBHd68VccT62y1pcP9ZGOPa4lgwuyEvAjj0iIBHwVlfHZQFJRCtluDs9AyhzRmIhNYsXfWM1nU9G6CvwmDLN72caYKUDOSV8cpYAUNRcg/da7IWvpNlphyQm56FPqOnVyn7RTlTxPQ9cuqxGgGB/X3viu8EInJ9752TTkNwN6BF8YrnIJEdQV9rpVrRyavwCgbko0p3IfjybyyIBys78OKOFFQa/u1zIm/xI/JfUda7EWXwjXzbGVymzlj0Q00afaZaKCPd0AquvmTL3KoFMXJtyfcvYOGa7Cm2n4bwGiQFTNLfwXZA7gW90REY2nIejPpEPwI5X8iDm4XIc18t+B6fyYfapycpQw3H1blaAhMRrrl6oBfGwbu9QWuVJUNeer2Hk6kl9RgcDL1MCBMWFQ9Ud0XHGx22ob9yEzauV8EEFg8cecJB4gcgExJK3ApkjH53Prej+zKyu38W/Kww2OnOME1t+RyaCCzdAffv+9wIp48wKHWmh4dM764s8KsMKScKLNs1BoynmVeqmUYMj1HXaPZQs+wxIsAMc1TP7OHLk6U0ENzh9gN8k1mRVgcFXHswnu1b0rYJLtTikohChS1JohsQ2+7aRgW0RSQxWWQ4="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115771,
+  "id": "-Er_avalJJL6jNAPzqehkQw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 191,
+   "prompt_tokens": 2992,
+   "total_tokens": 3308
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "b15086ed7d24d05f",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Sustained operational losses and severe cash burn.\n\n*   **Persistent Losses**: The company has reported consecutive net losses for three years, with the net loss widening significantly to -4.47M in 2024.\n*   **Negative Cash Flow**: Operating cash flow is deeply negative (-4.46M in 2024), indicating an inability to generate cash from core operations.\n*   **Deteriorating Solvency**: The interest coverage ratio has worsened to -9.15, and the debt service coverage ratio is -2.46, signaling an inability to service debt obligations.\n*   **Declining Revenue**: Revenue has trended downward annually since 2022 (36.0M to 32.1M).\n\n**FY2024**: Revenue 32.08M, Net Loss -4.47M, Cash 6.86M.\n**Profile**: Food & Beverage, Pulau Pinang, incorporated 1990, majority-owned by Director 3 (54.63%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErUECrIEAWkUfRMiUmSEu9wcbQpI7GLhmlEiOWEJC41IM/dTRELOpxFv+e6fWjCHJBw2TZErjrGaytSRx23j8ROMNejftoG/pQEPEtV5sNl5OXjKVr+hYWcRsre0ccDohE9he9BlGgUYShGL8usvvXsCP0y3GNce/gr7vlPqEBptptPgTGLyc8SxjN4IkX0u9CqZzopeURLWcaCwrRHuwtiGIkmIlVmXEukzEnRug/jMimE+hLR1tM38TQaiGRrPZ8xzKQpxxbqn2G8HP4BzHDQqZf22Duoaf3eYIt+rV6D+tjTbDjBVOsO3ejX3q8FuAjIwqyfpFMaZaOmqE2CwoGBOveIIjXDsCKatVvHQeYcL8cuGRUqkA3E3BFs4fMwqOExfRDr7MDO55BCfYEJTNXW8qN2/W59u1osDO2hZDAGY9accU12q8m9XIyJg2exPRVJV5rqW7LRG/5o2v3VBiQeW6vm2DyAz1jA70FzN17gDvUrmn2HJ8/ea2f6U7bI7n+hg94WR7kP8YZQ4wBnxm3tYkWAjkn7yvGsi7LaV9tpclmhuhieEdXsKg2AADvyEvm6ffzjZbNgXLLSt1yTFq1sBMXNdibmrEwEwcUOMiB/Q9IVXfCDRhop679Gy855HguEVuAxdW6hToC1nFhyns1syJk3JVjvAFWVHqC2Smywvk76smsimbM+iipwN6gvS0/iLOQxfEC+tvhNY1Lrb67waE1xnvD9CmP+GoATbsiDIN4vwCSMabw=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116001,
+  "id": "3kv_aqbrC-Kw694Pz6OCkAw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 234,
+   "prompt_tokens": 2807,
+   "total_tokens": 3161
+  }
+ }
+}

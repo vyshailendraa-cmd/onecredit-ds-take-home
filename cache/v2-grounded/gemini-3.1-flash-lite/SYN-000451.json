@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "be42a65b7ceb1006",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Persistent insolvency and severe financial deterioration.\n\n*   **Negative equity**: Total equity fell to -RM19k in FY2024, indicating insolvency.\n*   **Loss-making**: The company has reported losses for three consecutive years, with a net loss of -RM276k in FY2024.\n*   **Poor debt service**: Interest cover is critical at -5.37x, reflecting an inability to service debt.\n*   **Cash burn**: Operating cash flow is negative at -RM139k, with a deteriorating quick ratio of 0.63.\n*   **Corporate change**: Renamed from Gemilang Ventures Sdn. Bhd. on 2025-11-27.\n\nFY2024: Revenue RM2.08M, Net Loss -RM276k, Negative Equity -RM19k.\nFood & Beverage, Kuala Lumpur, 30 years old, owned by four individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EuUECuIEAWkUfRNyvuEgoIrNHajFrQ1DQIHr8A+osYerZELRi7NCBXPvNFSTTRZDq/PgHeqTZmDzlmddSDJZg/QE7F5+hhfTDWU9Wj70+GueCB36nXORVlIhPQx66yGDSRD8nRx9u2g2lHdQ054UZkzBVDrXWCtzn9LIPxtIQil8bgFyBd3HR+q4Tp2SnBmhM27JFZ/w1MWWNDAgydtMYdXMdjFCWTNqFwG4GvBqVO3e7VMfSFL3GB3jYdPh7XWUNyH/EwF8VBMcjjjKy2iw9pK5bsCmiJ4YojhV4fbt3WzH8b57Cw25VBtCPLX1TyYOFUH8aeuq6E2Y7sABPRGbaa3dbBSPJJgJgh5DSRDN366PP0ij4IfG+vGQ9BbnbMLIlrt/ItWZTu1hzcBTNntm6UD1EwrvPbVMiWlXzrnXgtAzM2E76PY0cCBSTV/0U9Jl43KPXPpeR5hIK82dEPNFL4TBfy8eWj0rhqAH3QC5gC0ptuP6a7bZF+C1cwcSPXT82Hhuu2oZK0jyjger8lZoQDh9JtgI2mVGdapbwDvXV6kvjaqccK/x2OSiBoxFQFy3+YWjZRvkYZozwGzDE2WGztWn/pxKDEww6piENAkk4EiLnOkGlq1hRmSBLrJMGko9hgv33OmkpSgRGHpuXvQoDUS07Sw0PYUN1KgstNMI5pj9gCZRZgp1zGH0pM1iFuxorZahfqOGFMGip9/L9HfYKA7NScGH3b3sKVIpfPGbBMdpW4Y8F2ejFxFwTny9gZgL+EiQrmUeffnuOq1NolFrnctJBmSbTV/AkXxRp8nTjZf3Xsl/A3J6rA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115373,
+  "id": "Z0n_arzeNcj1g8UPvKyPyQQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 214,
+   "prompt_tokens": 3338,
+   "total_tokens": 3679
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "ea8723a4ce5939bf",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Active winding-up status and history of insolvency proceedings.\n\n*   Company status is currently 'Winding up'.\n*   Previous winding-up petition resulted in a judgment (2023); another was filed and withdrawn (2024).\n*   1 judgment entered against the company (RM10k); 4 pending cases totaling RM2.50m.\n*   FY2022 audit flagged material uncertainty regarding going concern.\n*   Significant board turnover: 2 of 3 directors appointed in 2025.\n\nFY2024: Revenue RM13.01m, Profit after tax RM1.28m.\nTechnology, Selangor, 6 years old, majority-owned by Director 2 (52.17%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "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"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115158,
+  "id": "kUj_atHMOfCC694PjbK6eQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 170,
+   "prompt_tokens": 3755,
+   "total_tokens": 4870
+  }
+ }
+}

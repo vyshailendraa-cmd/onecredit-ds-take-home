@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "1eb8870373d3f61c",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: High leverage and weak debt service coverage.\n\n*   **Debt Service Coverage Ratio (DSCR):** Consistently below 1.0 (0.97 in 2024), indicating the company struggles to cover debt obligations from operating cash flow.\n*   **High Leverage:** Leverage ratio has increased to 1.64, with total borrowings of 4.66M against equity of 4.26M.\n*   **Cash Conversion Cycle:** Deteriorating, rising to 102 days in 2024, driven by increasing Days Sales Outstanding (113 days).\n*   **No legal red flags:** No litigation or winding-up petitions reported.\n*   **Audit:** Unqualified opinions for all three years.\n\n**2024 Financials:** Revenue 8.20M, Profit After Tax 217K, Cash 638K.\n**Profile:** Construction, Terengganu, incorporated 2001, majority-owned by Mega Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqcECqQEAWkUfROWlOnlM0sJjpDL9IT4oAGDPK/aj1vx3Vamt0zCDJ3AKlfkdAwQNtMD5bkNrqMZOkhFvTFA70KPfdwa0jfuwKyzTmJCLojdeTo1bBZil7i+VOAzRGnuhHDunW/R01lM4vK1Drer1u3KKXumRS/k8y0Tc7ZkHEwysVORVsj8t0j527O05GqcQTrQ0IKqX22+CRyyrnsbmwJmCEZzGm2bEk+NZ4v+mufAEBmVAVhpVnAhFLpC3Le4Ld8/fp+FxzQpO/9GghEG8rHdr/5YTAjzK84z3Nqo8NkukHlT8vm4OHR4bhV4p2OGWolQchixoYdd1962f+y/mfPgFOxWswAA/VAZvQyzK6YMO5vqfPLJ9rZNP4g769WCRhX/1Gge/39zcX/4tbBaEuF43buLOqzWqv+fn3TnXxsSNwG8C9TgFUKAtaARTjRk7eFDFwVlInfztn3uoGQmAQWz4ZTh+mwc9zIrcUHmXiS53Lfrxo1COTqYCHHT3ev6yOEq+elNMdcGM2j5aBsfQRNpPs426utoaQpBsE5esOmpJ2SKkqXyz+fW9tnznOZIL1fyf4VW/2YZl3sjmDsMABWa8waf33LYKFMocpGhHRllNZd3ln9kOohzI1/pnwrWHKX3ikCDbmcxsFzbtoQJzJuuU9t5l4uf6qrW5qIH7H07rRkCSuDkm+r2XNVuVrHRAndsyjDusjt23CEa8QJbGTIAfgf6ygMjwdY="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116232,
+  "id": "xUz_auOxMOPQg8UPlvflyQM",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 226,
+   "prompt_tokens": 2713,
+   "total_tokens": 3053
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0974cc6a6d8722da",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Strong financial growth and consistent profitability.\n\n*   No red flags identified: No litigation, winding-up petitions, or adverse audit opinions.\n*   Financials show consistent revenue growth (2022: 29M to 2024: 56.6M) and healthy net profit margins (11.9% in 2024).\n*   Liquidity remains stable with a quick ratio of 1.17 and positive operating cash flow.\n*   Debt levels are increasing (borrowings: 11.5M), but interest coverage remains strong at 14.99x.\n\n**Financial Snapshot (2024):** Revenue 56.6M, Profit After Tax 6.75M, Cash 5.6M, Total Liabilities 26.9M.\n**Profile:** Technology (Accounting Software), Kuala Lumpur, Incorporated 2003, Owned by three individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqgECqUEAWkUfROzfyRjNld5qPXW9fzUe95unFAznPUcP7bV3MNpP2A7W+AUqNABdWAXydNraTVl4JaxFT4brZsZQi5oZQxnMprBUmhI4hJo50z8bleF4gj6NHL7fXxFDPRr3C5xl/calDJa1iEJrvey1oF2YcYpP6TBnST4vnQgSHITwqmtapuBcHcXKFYQGc2t8OkV9vV1m6JALTpcB34YWCNGBJV3QKVEUSei6RIy7GnI8wZ168C0ozD3DNDvEEwgWhjQRIpax2WauL6fgo+dL1kLOPbwo6u8xQWd3auPZD7snt7zFaZ/AMf0Sd0SfBub1+QP2dF9hACgr8LOHE+YskswpONgkRitW6OZNaoqocQXd095/DVKtyHYKt8gOod26fZRkZC5j7mmcTOUZ9haANalgucg8lxgqjlJQNc31HVPc1jpQlzpkZLsouD99SjwttJlf2JyNoC/u9jLukQiqQHdhHf56CIY6+2FKuDGxhs3ojUC+wfT1vaPbmvw2OPQhmagcHdOBKuM4Uf9Y0HPxVLYBvUNxQefb122LwASDp+I9WFZ9fKKammndnesvvic9HizFSg9jvskhVjfjcdtkDfmdBlGaaI/CuBtJ+humCAIMvf2h/n5dfVrZkDLlW2J4oFrcNATZjJzL79f+yosoCiJoNLwGlDea540c7zo+nIHEu0l8LdkrUWfObaCk7KOhWWZwKTaF8T7AKLEmkakiHDPXi/OsLkW"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116109,
+  "id": "Skz_asPCNJzZ4t4P-LP0sAw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 208,
+   "prompt_tokens": 2751,
+   "total_tokens": 3073
+  }
+ }
+}

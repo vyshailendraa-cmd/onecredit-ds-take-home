@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "e51912e406784bdb",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Persistent, accelerating financial losses and severe cash flow depletion.\n\n*   Loss-making in all 3 years on record (FY2024: -RM1.08m).\n*   Interest cover of -19.38x in FY2024, indicating inability to service debt.\n*   Negative operating cash flow of -RM819k in FY2024.\n*   Quick ratio of 0.60 in FY2024, signaling liquidity pressure.\n\n**FY2024 Financials**: Revenue RM4.84m, Profit after tax -RM1.08m, Operating cash flow -RM819k.\n**Profile**: Healthcare (Community pharmacy), Kelantan, 32 years old, majority-owned by Director 4 (75.61%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Ep0ECpoEAWkUfRMRLH1PBEjHtwbqV7L0PDjGJVjrmVONd2LOm63wW4v9xh3Y1wbwL17XaPQ7a1tCtXgmacKsRVOEukrBN3OI1ugt/WNuQ+xJhDS5V5fBI/62symdbqsO97CPUEPerQACWwv1CcD95ytiop7yT99nJfKcpz6Qzi8g5tcgJl82BLAT3SOq0Qz0QQqrnddyB86ok8VVZa133Ucy4pQuE7EnfpWt7Gt08H3hANSDQ3DsGpN6/jp1Y3JQYSeaXvqvoy1yPgis87PsPQqgfZ4nXwx6fq9U6xQr7Ku1Tp8GlfIiwckLDXQq9pSY/5LyG41ePEsAlFlIdrNKyZy3t3ucv0kjNlA7LarzZ0pSO9y+JmhybEfexoyNvDZ9HLoNDzHe6sUMSRKBgeWquhomcBwyaRglZYo7y8MBRdhJ0DXGLLj8xM4jLvOuwt3kNB4FOPWmlte3c1RhK2WgXyuYUwWpBRzw+IaxSANvc+WrhOTW8haiJLu3YwANJlcBzjB1/n2OfQShajcNVpzcBPyI8IPDHhOXJAk70peE6xpRWBx4wZBtX392u70u5S0N6dn22OWP4aG9c02ONVWnZ421YaxvO+pMK9xmsx+PcV2dJvy19MphNpCdA0OQUWwOMPyWTjbcNq2Hoow16ejIeijbasqfc/166RueTB9dfhC8lJ4rnT4rzTak/BYLaLBnwAgR3se7XbtiYGmsae6ZWQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115284,
+  "id": "Dkn_asecMOjg694P1vit4Aw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 183,
+   "prompt_tokens": 3109,
+   "total_tokens": 3406
+  }
+ }
+}

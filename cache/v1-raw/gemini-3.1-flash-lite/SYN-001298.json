@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "80bd5a48132224ec",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Operating losses and negative cash flow despite significant revenue.\n\n*   **Operating Loss:** Reported an operating loss of 2,533,129 and a net loss of 3,658,575 for FY2024.\n*   **Negative Cash Flow:** Operating cash flow is negative (-1,575,359), with a free cash flow of -6,643,956.\n*   **Interest Coverage:** Poor interest coverage ratio of -2.25, indicating inability to cover interest expenses from operating profit.\n*   **No legal red flags:** No litigation, winding-up petitions, or adverse audit opinions recorded.\n\n**FY2024:** Revenue 74.3M, Net Loss 3.66M, Cash 10.65M, Total Liabilities 35.27M.\n**Profile:** Agriculture (Oil palm), Kuala Lumpur, Incorporated 2023, Majority owned by Director 3 (58.92%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EscECsQEAWkUfRMDFxcP50z16uR0SQKckIHeVrplVSQHTar7NpL3N+83tCVnesHf5GYLOQu0NWdtMqZYaXo5NVyWbzcio3yQYHGKA6769jLKpenuCQisKoko5rNb9rf8HtaAzbPdNDGLWv8UbdS+RiPRDct/92ImLApD6U4RsxdabRb1i2TsmcFiiRfVjBsptAf6OEyqwbJfDiBBN8akeroC3c13kfUe05bvPC6rgzi3FKjjAaGD2gPQ9nuOqgV57iC5HJJDLLOCQkpnMd56jN2eSLuVg/54wYFQaRLWLkq6gVJc6gVUlTTQ/SuIpcDQeIlanP7/QZt5/2rAJF8CJcypRmOg3z4mSBvNF9KvVe5Mu2eEGXs1UFUvxPTQvxpwk/XYt+tsz0AGjmtuCTfNrHe+LWdO141ttA6RN+cQ/J1PtGTAMQd3zVlyJ8CbacKKUwa/VQaM8YWlyDolTJIf92OFAB8qZKaxCPx/l7OiL7JfewbjlN53XWMILnpX+LzQhLxpgZrtZFhbGBGXbmyDo8H+NZVMApkDGkLqE56lW/fYSDYWjWcnl8MDMebEdX44YffHuYO+MRiomgYTaG7os+Y2ISFCDC2aaE+QkyhR4JYl1oLqNIZX7C4pyLAxbh3Q2r93UtwRLYK9a2xVXXUmTH2F1jINI0nIKADc5hKiPVH0sTb6vJFktlvC27DvFkOMhvwrtzMPsw9ycbTpojWRVjWSysmT6LJ44Q5tklqILAcsZtIp7eveYjfZlG+3gQ7HJ6VpBWKMTY90+Q=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116194,
+  "id": "nEz_aoX_EqqxmNMP_ISTQA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 226,
+   "prompt_tokens": 1335,
+   "total_tokens": 1685
+  }
+ }
+}

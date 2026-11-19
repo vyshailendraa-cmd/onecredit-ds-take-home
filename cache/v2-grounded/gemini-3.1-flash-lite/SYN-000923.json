@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "b956d43d31db2cf4",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk** due to declining revenue and tightening interest coverage.\n\n* Revenue fell 23.1% to RM31.63m in FY2024, signaling a sharp contraction in business activity.\n* Interest cover has tightened to 1.37x in FY2024, leaving a narrow margin for debt servicing.\n\nFY2024: Revenue RM31.63m, Profit After Tax RM0.16m, Operating Cash Flow RM0.92m, Borrowings RM10.68m.\nFood & Beverage, Kuala Lumpur, 11 years old, majority owned by Director 1 (67.36%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "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"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115492,
+  "id": "4Un_aqjRI5L6jNAPzqehkQw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 147,
+   "prompt_tokens": 3103,
+   "total_tokens": 4125
+  }
+ }
+}

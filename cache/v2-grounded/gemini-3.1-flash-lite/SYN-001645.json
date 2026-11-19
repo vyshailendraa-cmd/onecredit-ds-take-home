@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "469fc1e12bc7b4fc",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance with consistent growth and no identified red flags.\n\n*   No red flags identified.\n\n**Financial Snapshot (2024):** Revenue RM 21.29M, Profit After Tax RM 0.93M, Operating Cash Flow RM 1.71M, Interest Cover 6.46x, Quick Ratio 1.18.\n\n**Profile:** Construction (Renovation/Fit-out), Kuala Lumpur, 23 years old, majority-owned by Director 1 (74.26%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtAECs0EAWkUfRNuTPMekTXOSdiuCi+yY4V3ccO9icEcy5YBifVeT6ieIWYz3diNJ2kskpfrMpSqkDGEfjhm1znV9jOcdkhqF08382+dGNW130n4DezgFznTyLK5qpRUmbku8zmVvhHoG3uyCxNWk2fq+tz9Fx7FNLaXECCgB8f2BmgXrLIpypMtCDbAeleU6CLnoF2ShrGLJywNIdQkCX+ig7c/LvMn+LAxCHheKepSW/ewiaH3QDjs77ptRESTEWE82EoIGZgQ0etwZCiqg4jHnsWyp0Hos4Q4DpXbszcMQAZP1FVxNrncKsUjT5607kY0E2H/RXuCPrBDh+LoZblZXIYHDoy4GzzrJExROp5GVTPs6j9pIYd18KsUwxucV22m0o16sLqWwlNsG46iVfew8fcIKnVjGpRTl6hrxaS69kbQqDo+3VKAisjUhiSEbF6gQmlUTC1I6CP8zJ8fib8wAyWEnslEqTGejpHK+jew6h5Dm9RN876jc5HabLdkY14Oy6LzY9glBIjYARY4OT2PzGA8WtHnqd0OJa8h3KPK13OjLUPDNYSPFvKQmXjzkW+SBfigqyund0XzqK3YxDthjk/uPZcdzVs5K7i0I9p49CFDIm1Rwb5RrJ7pP3uAIyZCgWKYpro9Ddm64YC2hW495RgNAhBXgVsbKI6a3TZLpmI5G1DTW1LTFZuQ2yH6hrwGtdZddhyLdeMCBD1m6F5wj9ies5HI4O08tZfYtOl4Tr7ice3hSjdab9qEa/xpdeuzjVCWtnyB38zmv+OF6yKERw=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115778,
+  "id": "AEv_atbNBrawg8UP2JykoA0",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 120,
+   "prompt_tokens": 2988,
+   "total_tokens": 3235
+  }
+ }
+}

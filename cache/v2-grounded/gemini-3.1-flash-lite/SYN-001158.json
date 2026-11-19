@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "f9f7be59576a700d",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Unsustainable financial performance and inability to cover interest obligations.\n\n*   Interest cover of -1.76x in FY2024 indicates inability to service debt.\n*   Net loss of -RM4.13m in FY2024.\n*   Negative operating cash flow of -RM1.06m in FY2024.\n*   High management turnover with 2 of 4 directors appointed in 2025.\n\nFY2024: Revenue RM62.46m, Net Loss -RM4.13m, Borrowings RM27.24m.\nAgriculture, Selangor, 2 years old, majority owned by Director 1 (52.86%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EucECuQEAWkUfRNQGJ4ba4Ag4ieTloMo7R5Irc2l+MPuftLWI0bVLX86NySm8NWe5A5DQfRJXP/jfoQi1eDa8OEaW+vnCB2ZvNfWTrQ4xeq8H85e4z+75eS6xPOJ31nxnu0+WMfbq/nNKB2H+W4IpW0KvLp2WfyCQ69GwuhZvdb2WAop/jjoQvbQeCOeejQwZZcD9HSeII16HcNxTnsXYwWxPyYMBNVBXx4b3+BpZmXotElIPy5A92VmjEDfVgM0aFGK9AE1V9NgYcfgiav25Y9N07mZ6U/FdW4ZPu99beola0IvyzWx+s5BkST4T7dOrWWquHsALZo4yyNBmivI7vICPinXE2kk7j80DHiZ+/KifmoQmbUZ6wHKTKOFDsWfvjVQVyuh8aFsQon5TRZSD4YyHqbnISOAnQKEAhbWDTvtt8/yrWYwezkB/L/qxXH9IxA7yYRAmnrMlZLLKpouFO6b8TWY/EZFzT2aiLS0RJAJNFZ5VrsYVKMPONVwQWNLhoogSuHUJXTLNkcveu2mDjqTmnx7jeDfCLJZZ9QUD8ztgsoJwBiVrdCoke484UqWlKlYAp8idvROrDsq/MOL269QDu66oYVOAUv9lpad2mFhL1DS370Gld/Ys3hiwJyeO6MaXhfIa+n9sbnhIYwt0QultfCEeWZHSrrV2bJi2pvCg8i2VBZxy+RUe4OvfYWupBi5EtBtsdMtZrpMZs3cDWZT3f9bRlndIVM8mNuqk0unbJZUVlDQQn7Q30/h4K2vdlKPNWWbM42ft3PxRha91SGJ+Dp2yU3dpPWmgS+C9cX8ddADXL6qWUKk"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115547,
+  "id": "GUr_atiUNMi3qfkPo8yO-AE",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 161,
+   "prompt_tokens": 1624,
+   "total_tokens": 1916
+  }
+ }
+}

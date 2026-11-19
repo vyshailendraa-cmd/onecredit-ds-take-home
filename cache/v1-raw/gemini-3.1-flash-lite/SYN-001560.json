@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "c771865459a78765",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Operating losses and negative cash flow in first full year of operation.\n\n*   Operating loss of 136,753 and net loss of 199,449 for FY2024.\n*   Negative operating cash flow (-30,647) and negative free cash flow (-211,388).\n*   Interest coverage ratio is negative (-2.18), indicating inability to cover interest expenses from operating profit.\n*   High cash conversion cycle (125.8 days) suggests inefficient working capital management.\n*   No legal or litigation red flags identified.\n\nFY2024: Revenue 4,156,184; Net Loss -199,449; Total Equity 1,570,812.\nConstruction, Selangor, incorporated 2023, majority owned by Director 2 (49.22%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EoIFCv8EAWkUfRNhs1k426+3vbEYzYOTKj5zBgVajCBx/8TG7hURLwWfZ5xhjIYxr7KmqomqfQZwAtjQN1Q91062NlQYD6R7QEM4DyWSgctEUoSPUZ5RUzUJGmsna0m16CEWUzL6eXlntFA3cups3g6dlcGa/9CefhX3WdBGDIUXiS/aOpTt3TZBavbrevocHGQhvboPFPVlt1YYTgnZvEgPTYK/u/ORwihqMEh4IzvQhFr+raVhJGJZrM3qoGOxfZVKkNaIQD3xWsPaFir6eRnxdTEwoPH5VsHuuF9fRbJ1S2+is0jIPjPLp2ptPUDwc+u7C2OKuEubkLuyWKTbtMi/mxkYV6bwY5DZOotIBXM97AgmuF6y7C8AGKe2/xCYdbBGLxJx9BOoNUHlqFLr2FYtln67VxsI2WWeRt4rtV9xc1qozUW8W5pRUo+Xu3Ere6MruXjYFNCdb/vwFsKfVRpisX16B2uF6OYysBbvakgDPG3qz54XziRD9dK6NKR6S962nAlpQr6e82MJXV0CBNobSBgwJ/H32bw9BtsUUmnU6JdT771NxT34SgaHnNIQ9MgJm8KRToaRb4azfo08lIj7TnZAYArBCt6cyl5xq/MsFrUyKQWDlj1aSJhHUuj4eyHtaxqFJs0+jZJDPKNYRdBEGmquF9/is4BX/JpkgQqfHk2nPOCJ+3N1meGaYFoJ9k4qT8WUXIYw6rd6uKRhS0RU/O293pH5WH2WcD1lKCwuWa+mSQaBCdN/S1YsksEvgFVAp+lwXod6+DpjlDmWU/r6vJXlcBOanhoTPDP3zLLhPCZcY+tO2Jo3/Irw515gtpyYolp8G1Tro75EoIi+RNgo9mlG"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116269,
+  "id": "6Ez_atzgH82C694PgZLK2AY",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 203,
+   "prompt_tokens": 1293,
+   "total_tokens": 1636
+  }
+ }
+}

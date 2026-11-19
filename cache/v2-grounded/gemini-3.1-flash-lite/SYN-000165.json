@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "d64de4c6bd816115",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**; stable financial performance with no adverse legal or audit findings.\n\n*   No red flags identified.\n*   Litigation record shows the company as a plaintiff in a settled debt recovery case (2024), indicating active credit management rather than liability.\n\n**Financial Snapshot (2024):** Revenue of 21,522,626 with 913,861 profit after tax, 8,281,131 total equity, and 2,948,895 in borrowings.\n\n**Profile:** Logistics company based in Pulau Pinang, incorporated 33 years ago, majority-owned by Director 5.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EpQECpEEAWkUfROsBj+/pwVBskR9HFb9ltuwAfY9AYWkdBFsqMgXQuN3MnbwU5w24AzslBkz6H97y9AwaVy7I2SL7i8JGSy+PjRIODLZu2YTO2R4+vHe/Vf4l1PUttnT7yeEO8z6GoYVDVbHh7M/Lk5RLaf6mosAOdCUDzJHVtSc08bADsDtFv7GWsk/ZoFq+3GxM5m/M3D8gGSUiin71hMu9iMgyC+du5IONz0h3Mmed8LP7zBT3psGBBKtvleUyvpEgoA3lJoYz9lTjMiD22NkbQscKCuaEA9pk1mGO1yksERhb1S/9sADzL7Ub30W8/tkaQa5SqX88rW/9HYrGaurXnYsveW2pRsKOafjBt4Q8dpSH3Kiqzp63bDFESXSWf8CoSaiMt2REkADpJ9LovY2t0I3m+HiDdGPlLzYouVpWiMo8KxluY5xRPArYiFRrXkECLw1TLFgYbS+HKNFRiERQ795gdjDZBUt2P4NO3l/cOyefPubDwyqBlQGLfECpMiPL5Ic+OrWCBFWbPPlqfoQSkiMSI1jmbdfgbbZiV3B60KcyKaGghvEKOokThX6dq5PszDtSFl3nA5e2osBkPbl5WJIEN2C507BjEYaOJ/9yT/0BhgDZvWujfw46NTN2RG/s0zMNNFvOloFE1N5etNngxE4MkhahIsXv9NzHG1hq4JUQgse+0WxHscYZPtc3peZz6vLfA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115296,
+  "id": "GUn_au2zF5m6mNMP6dGXEA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 147,
+   "prompt_tokens": 3048,
+   "total_tokens": 3305
+  }
+ }
+}

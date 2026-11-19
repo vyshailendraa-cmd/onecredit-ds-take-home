@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "79abac337b0dd115",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Significant decline in profitability and deteriorating debt service capacity.\n\n*   **Declining Profitability:** Net profit margin has collapsed from 4.99% (2022) to 0.52% (2024), with revenue falling consistently year-on-year.\n*   **Weak Debt Coverage:** Debt service coverage ratio dropped to 0.62 in 2024, indicating insufficient cash flow to cover debt obligations.\n*   **Negative Free Cash Flow:** Free cash flow turned negative (-880,478) in 2024 due to capital expenditure exceeding operating cash flow.\n*   **Interest Coverage:** Interest coverage ratio has tightened significantly to 1.37, raising concerns about the company's ability to service existing borrowings.\n*   **No other red flags:** No litigation, winding-up petitions, or audit qualifications reported.\n\n**FY2024:** Revenue 31.6M, Profit After Tax 164.6K.\n**Profile:** Food & Beverage, Kuala Lumpur, incorporated 2014, majority-owned by Director 1.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqoECqcEAWkUfRPsDAqBeaHkAF/5mwbpIQncLo1hnuyGYxe8ynof3cQAhW3Ed60Yx8KDazstHgfqHOMtif2MV6DSfOcIMX7oV1g05wRWDK9YwbHyyYCzrCObB8+JbVkeHV3ZwcgCG3H2OIxq+y5lI78AOUCyilLpAuenZ1P83VPCE0oL+Q3K9bEALS+8dtmDtm0KijT65LAQrTFWz7r5rU8baUyXQeg+vjHQSKOJEV5S8VOKOGtcXAXeoqjAXXIgFZQrAmSOfo9W7DRo9XqaZoaxQKqXS8IIIT9gFZZ0Dju28JufPpPBgAPvIqm7FUJmcSZoo/ExDGMABW+IyOrH90bPcUqzM3/OK/I0x3z2iHz2Vv9T534b8lMHP7Fxy6fbfCWLcOg11I7Gh+Ptv+fz4L8smSd/DmqRPTH4WzajOq1cWJ8bxuZzJ3dPw4N6fVPUVUdFlpNEGTZifiCPjODo6W2qWJ28G8BDewRTxRLca7sHic0Tvbj0lFeRxQ8re9OFj8yNubkvViT5B51vRpTfiSd1Cp3/HkiGWZ7/a97xIR9qNNIfdtPJ2ZodZSHn4o3WtSHDtyB1bkpIkJIZ3i/jZCPj0qb6gT3tGRJGE8yo4wohvsdpNixzI8WF6EH3w+Aa+seTcnr0xULDSk4FNGjfUTcqK0CyTlMVzxbbci3fDOA0+2Pk8cKIOlljUsO6vLBUx0PShpyta18ACvipsG3J1LvQJv72WGXClMCQLAE="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116068,
+  "id": "HEz_arzsDMic3LUPgaGCgQk",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 245,
+   "prompt_tokens": 2830,
+   "total_tokens": 3193
+  }
+ }
+}

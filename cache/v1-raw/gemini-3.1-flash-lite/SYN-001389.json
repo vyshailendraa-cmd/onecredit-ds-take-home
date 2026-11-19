@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "ff58ea6a04bad8f6",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Persistent legal instability and active winding-up proceedings.\n\n*   **Active Winding-up Petition**: One petition remains pending (filed Feb 2024).\n*   **Active Litigation**: Two ongoing disputes (tenancy-related) with total claims of ~681,600.\n*   **Legal History**: Multiple prior winding-up petitions and high-value tenancy disputes indicate recurring operational or solvency friction.\n*   **Rising Leverage**: Debt levels have increased significantly, with total liabilities (30.6M in 2023 to 46.6M in 2024) outpacing equity growth.\n\n**Financials (2024)**: Revenue 59.06M, Profit After Tax 4.01M, Total Liabilities 46.66M.\n**Profile**: Hospitality (Boutique hotel), Selangor, Incorporated 2013, Majority owned by Director 3 (87.78%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsYECsMEAWkUfRPZ4d3+m0o0I72WdF5esRms/3uv4QYZe557wo+JrJq/rletaKZHzNUQrN+iwK2/3l18boFGmJ+htXJeGn9WfWKczGcqWcHE/MjhCAhmgQQhbuC3Dhb9my8niTWiCLg+QSXR7f5b+IYociJ5Filoh9CWufjtU5TaGU2p6ysEvl7lohgU1l0WJUWk38HoG4cg24gksanA5blsYFovH/heRwOC2k/jN0uRlGJveyR4tr8yMvBKB647xAVJe8e8gkOfv57LkyV8xIf09gcmUZHh0pKV/JH5kxlRXkJf3HvX5T1jwYJxDJs29Hk0du0g4lMNQZYMZDoF6WxSbtWGxlWgmn7flRJEriSk8OSyCLeOyMkNsu8Gy2I/3679NrmpYYDXLi0Spmcqn5KGF9Vm7mpWPD7PqxLqb5GpycClVl750GtLrHpM3K0XNtBMa4+R6N5eyofpzEyHgpVnbUIOZmM2vJnYUT2BoyHQjWRPbVBU2jGgxCOLshtAg/FX1NKh31jl4tNxjidFyq0y880/EZvicKlrVGHFXbPbhLdDoA4rtlQSgJZ72IB22Y0pczbIJYtMJjFWXJJTntCXWCwqrC8QGbUfpCYokQnehg8CqCa3T6LrgYLtPkrTznUugM8l3pEfYz61hl7CDZ/coHKq2gjE8PHC4Fd99Ad+GQvsWoDsYxXVwSQUqjICmC/NhjCwt34EPbPfKZIWkm0U/TgtAsvwlhWvSRQnAbnzb8X3f+Tt7ARZvfcw5ZGHvxXHXvVftOOF"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116225,
+  "id": "uEz_at75G_iyg8UPopbtyAU",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 213,
+   "prompt_tokens": 3512,
+   "total_tokens": 3853
+  }
+ }
+}

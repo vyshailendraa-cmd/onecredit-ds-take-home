@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "a0fa8c57f9d8c4dd",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Sustained operating losses and severe erosion of equity.\n\n*   **Persistent losses**: Operating losses have widened annually for three years (2022: -1.76M, 2023: -2.13M, 2024: -2.58M).\n*   **Equity erosion**: Total equity has collapsed from 5.34M in 2022 to 0.40M in 2024, indicating significant capital depletion.\n*   **Negative cash flow**: Operating cash flow remains consistently negative (-1.76M in 2024), necessitating continued external funding or asset liquidation.\n*   **Leverage spike**: Leverage ratio ballooned to 24.2x in 2024, signaling extreme reliance on debt relative to equity.\n*   **Interest coverage**: Interest coverage ratio is deeply negative (-23.9x), highlighting an inability to service debt from operations.\n\n**2024 Financials**: Revenue 13.38M, Net Loss 2.69M, Cash 1.33M.\n**Profile**: Tech (Mobile App Dev), Kuala Lumpur, est. 1994, 100% owned by Mutiara Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Es8ECswEAWkUfRMDIh7g/en3uZiHulCuKD1rggn9UbF1w7C/pHVHNGSyKx+GFwpoNN4KIPNx5Hf+HkeHakK8yh3hVXcWEYqbk4kSZgmfjUZRnWer5MRCLmqmB553uUyTZB3Sb1Ij5rmxMcI14Ahk17YkxPGa4wHcP5RT/sEpvzI1EI7OoPEQ5pR2hzpVrYGyq4va3PrCoF16yy/7+rd5+IJT2sc4lEsiM3qwkuK8RQyvPglaUSmvmIeJ15AZ6LknD1ZZCDStLnaCfpPuyToyfJAVyKSVVtwEr+YysVM8AgZeP6B3sx60hM21kUVE91/aJMMFa6jGKpMzWwwfazZBPCefav5HO/W+lDt0riC+WAmjHNLGjoP1aNe/z+P/9GYYwg2C1dwP73Sz9cOBsxcD38+w3+P/ORFAKLAulBU3BE5LXTVcJ8a2qtM3XMO6NVXd/mw23WE4Rb5Fne9TU39sGlyRfKIbGa+hfbEAYxLgyLt8Vexyr0I1zt0iXScvOagBU0KQvrzEluxix91yXEf51unQ3MtWGhaMB4T5wf0Gn3ltjvPgnkBnOpDQ9ZzlnJjsxl/Lp40+FVA4DTBNONAgrfGVZyS6EMclk8GGZN7nqrZxKfKppezZ8qkuRbJs2Xz3i8ahlI09JwaqcOv/bkwVYUeatt8FOcvNIwYiTNEMpZW9X1LyhLf5eaJ4hHvpn27g6OMfmoDi2koHPtlft2G+SBcFxOPusYdrXPupwAac2Y9lcUF5GkNIId8Tb6dktaa17FzGpW0B75h8YDYZOUFsSMlu"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116044,
+  "id": "B0z_aqqxAp3u694P2Yqv6AE",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 281,
+   "prompt_tokens": 2732,
+   "total_tokens": 3138
+  }
+ }
+}

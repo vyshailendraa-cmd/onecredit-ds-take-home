@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "b921ff967a6f86b0",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Historical audit concerns and high leverage.\n\n*   FY2022 audit: Disclaimer of opinion.\n*   High debt levels relative to equity, with borrowings of 4,142,772.\n*   Debt service coverage ratio remains tight at 0.7349.\n\n**FY2024**: Revenue 6,263,314; Profit after tax 195,075; Net margin 3.11%; Operating cash flow 632,801; Quick ratio 1.037.\n\nFood & Beverage, Kelantan, 8 years old, owned by four directors (largest shareholder: Director 4, 38.0%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtQECtEEAWkUfRNTB7m8/NG/75o9OqjGVpJdu7pMhvF5Phvcztyh9vQbS+5TxEidyS2mftgKmmk8my1QagqLLv38euGYnUo7QY6ej9Flpu6zS5XuK/VGQQt3sz83lEumEFg5+4my2YlSikeqcXLcGfN+rZmRPE+Qf+gdEIbflJWRvKtC1xYa30NokQVBnCucYSzRg5tf6PmlSxnqWAOf92aS1qX9k4/g2RZokpke8HWHlZsJcLT7gwOBgmjzFq8dYJDiJNS8Q0eUCrcC1LdfsATMmrEO4OHDdRf+3w8Vju8+vJ/yEzOf1ETLIQB96Mf+JDHjmkIY9s+pJHGHk7lE7e2yWAE9uWc1ugLYq9j6HSM+qaM128zMv5DZlMgRd88oS0d2EPv/XtDBgTaNfZxsK97XMqI4KOsFNdXKcpGus/2+2K+qmjRgMR71GuqBzlKtNUl/Ctgl8IL/A5YYRaRexARKmW8zCEoebv78oqzqnluri6CIDYu2KphEBqacnVdQB7Ku0+x/yj6on4p7G7WTmhZ1uyZ+e9UDDBW2bG9BLNO6tpaTrYImLU35fXxjGDq4iJr30Inr5hyTs6I4+9Srhl9zfQ7+oW8L9upSzq4va/JKY0eDQVhAsN5oukOv1qxGmEyUElzIBOPjfKnGXH7tPBJR8KVPds8dBpFSr7csr2lx2etIJOIuHkr7aC5D2EJSpgI3oWr1nG3Of+lgriSuqR9RNbzDs2a2r1Ihj3xrMNM+h4fIJtNxp9J/YyziopSsicWILfyA/3omtRobHMS6Rlvj0tVv1/s="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115763,
+  "id": "7kr_arnCKLq3694Pt-nqgQI",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 159,
+   "prompt_tokens": 3053,
+   "total_tokens": 3341
+  }
+ }
+}

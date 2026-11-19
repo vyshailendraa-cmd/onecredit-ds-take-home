@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "e3f3260fdd088af2",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Tight liquidity and weak debt service coverage.\n\n*   **Audit history**: The 2022 financial statements received a \"Disclaimer of opinion,\" indicating significant issues with the reliability of financial records at that time, though subsequent years were unqualified.\n*   **Debt service**: The Debt Service Coverage Ratio (DSCR) dropped to 0.73 in 2024, suggesting the company is struggling to cover debt obligations from operating cash flow.\n*   **Cash position**: Cash reserves have steadily declined over the last three years (from 674k in 2022 to 550k in 2024).\n*   **Leverage**: High leverage ratio (1.53) with significant borrowings (4.14m).\n\n**2024 Financials**: Revenue 6.26m, Profit After Tax 195k, Operating Cash Flow 632k.\n**Profile**: Food & Beverage, Kelantan, incorporated 2017, majority-owned by Director 4 (38%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EuIECt8EAWkUfROUdhj9V+qfd1MtG/PRJaArghJk1r5Xp5zTmaRcd3twYfORlAevsz6cklyecOE0Idmxn4gURYTiImaFWbPjhfaV5+VlWJZ7Ad6/k8hBi1JepdWccJOhvE/P+syZdY8cHBDfHIdeTwiQZvv2ok5YS0mBZIifjAdl+hKhZhqnL5vt9uGrLawQoL69zu7Ti7ky1aQUZn2GXHkYhU8eXU18ezMMpfzlSvpGX5wyxdjrLPvn4IzQPfzVaZn6fRwDjhAVbYxWHrMMfd370H4MUSDfTAHvcsGHj7Kyvev+MxMKpRKbXbfj/56URIEUK6T+bfn92VawmbPEUXlVRuFbn8fLW4/ztoVBURuTHdiBSC8vNZHAOnwYFbqhYK9910A6ldlHUexa1cGyYOh7VEzC4EseRKY8UmamANVKvXV2b3kK3RNYkvGqvSS68GXBYFYBzatiodu5XJXelwsuPDkPcT4Ov5Zt3oSQwifyX5itZ0fIaRiskV2B2hfA95H3rQ0kPbOMH+NZA9s9uT7EcOIAq7Iy4RrvD+xYNv8R2CoUfgJ38xsvE9+GicGDNHrcXVd5/vhA+l6uGBhLaDQjQGGdgpRARJyKfJd2x/wInSPEtV/3vqpsg+M9h+fehLqsUgAp/VY761nvUYhwmwTPjs9E3/7xfbSfVIpnhnqpcU/QmHpkKyZZMN2maQ+NJx6vXPcdxLh2YJf64jdQhedSfFOzLT2h/G9CNujsoVBe+BQzv0ZqZLe3mvE3MXBN6e8+ayQbD85ptPcPAsw01wjwsl8PQy8DKelGkklblyvKU2z9GQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116284,
+  "id": "8kz_at_vEe7g1_oPtICHqAs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 230,
+   "prompt_tokens": 2823,
+   "total_tokens": 3182
+  }
+ }
+}

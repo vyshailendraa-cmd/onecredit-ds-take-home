@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "70b18e4b0ce6dc4d",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Significant operating losses and negative cash flow.\n\n*   **Operating Loss:** Reported a net loss of 2,575,829 for FY2024.\n*   **Negative Cash Flow:** Operating cash flow is negative at -1,727,574, indicating inability to generate cash from core operations.\n*   **Interest Coverage:** Interest coverage ratio is -4.01, suggesting difficulty meeting debt obligations from operating income.\n*   **High Receivables:** Trade receivables of 8,309,518 represent a significant portion of current assets, with a high Days Sales Outstanding of 109 days.\n*   **No Legal Red Flags:** No litigation or winding-up petitions identified.\n\nFY2024: Revenue 27,799,367; Net Loss -2,575,829; Cash 4,905,472.\nProfessional Services, Kuala Lumpur, incorporated 2023, majority-owned by Director 5 (72.94%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtkECtYEAWkUfRM0uU+VQ/AI+RQsQ2WDuIFxQr1alD7mDdEPsy+QX/ktSltMiAVu+ZPea6orlEAbMtDsJmO3eWtbzIPhp9l8mn/tZc0mQfSJ2rJ9eQKYSsUQnfioJ4+xv7ur8Qsx4nx+nmDDFfmFXv/xtIQssuK8oAib0Wb56oxMXXU/WXwxPYAcuUuo8+T3gWt5yMD1gwJDTvsVtEi6LneV+qcE3cyrGtfMyRcSJeVdTiEAQHtWs69ViHfgjqtBaim0H7+QpuNUgD0a5Obtxqjwzd3wSQFM3knQNAwk9nKFxTc9+g1w0EiJzCNPsLlziMb7wxi8Iob8qtz0V9a8jUO8P751hVbZUFPKto2hP/UjWKqLfMzzdF+NBgALn52uK2kzwRuyG1i/k0HVrfAbACshpgZ7JZtuGjCoi2ur/LzY+RQb/RnGlrv9liWm4Q5ZWkSKgEKlBpcQI4FkkuIq+2Vdg/VldJjt350ZBUw1BPVsPIv2Gbmuul7hOcjOBDRw9jgqErqUwXPK7Zf1I2GYWQIoiiDsOT1KopJVyvAMmuLnqP6oi459rTEBURXlLw62QBO75+EJs61XKpl07IKUAVY/NW75cyY1Oh3w5meNCJQjMx6PwNU6zGLEvmpSMLQoifehIbW7GB596IHOPi30IDxcz+m+I7UQHp0RAxlNwOZldO1GY/T0zThvbQ1MrmRfkTd6WlvYEwo/PImlV/mGnrtUi9kyZR6jht9UsNvHQletzGHGG4+oEXr8g9EPst+D1ioYJmnTzMXjZwMP2qK6Ui8A2/VEFSGdeUL9YA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116055,
+  "id": "EUz_ao6oNtvN694PpPjbuQs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 234,
+   "prompt_tokens": 1308,
+   "total_tokens": 1671
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "42f91ecddcbb4da0",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk** due to recent return to profitability and strong cash flow generation.\n\n*   No red flags identified.\n\n2024: Revenue 16,145,308, Profit after tax 745,161, Operating cash flow 1,894,791, Interest cover 7.70x.\nManufacturing, Sarawak, 37 years old, majority-owned by Director 1 (75.67%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "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"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115745,
+  "id": "1kr_avKPNt7dg8UPqezrmQ0",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 103,
+   "prompt_tokens": 3011,
+   "total_tokens": 4005
+  }
+ }
+}

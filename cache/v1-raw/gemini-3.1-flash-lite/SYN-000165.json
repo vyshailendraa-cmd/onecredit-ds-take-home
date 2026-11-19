@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "392a3dde25235879",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Rapidly increasing leverage and tightening liquidity.\n\n*   **Liquidity Pressure:** Net working capital turned negative (-63,980) in FY2024, and the quick ratio has declined steadily to 0.99.\n*   **Rising Debt:** Leverage ratio has spiked significantly from 0.53 in 2022 to 1.62 in 2024, indicating aggressive debt-funded expansion.\n*   **Litigation:** Involved as a plaintiff in a 2024 debt recovery case (settled), suggesting potential issues with customer payment cycles.\n*   **Receivables:** Days Sales Outstanding remains high (72 days), impacting cash conversion efficiency.\n\n**Financials (FY2024):** Revenue 21.52M, Profit After Tax 0.91M, Total Equity 8.28M.\n**Profile:** Logistics, Pulau Pinang, incorporated 1992, majority-owned by Director 5 (98.34%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqMECqAEAWkUfRPVxS07Rf05NJxqSoeNYIOcQY+5J7xgMcyElv10DGx5TF4dbPWvSPwko+BooCP5Pqx8EUThzAMTnrFio6cXHx4k+69OgpsUp/S9GwtkDBse6Ds5Nchl8SvOR/O3QSxQTzNkY0aSsU0aqpjuRmEXIFgdnChUMF2a+0M9CqY24vGZEEl9AC50E9prwILuJIabwdk+2M6UFeDcykwvjMG+1brfGSMQikySC5atC9sXBaklDhD1MasMCJUEz9cSwbmQvRk9GXCTl/8v07esWB9Dn+v2asGwHXLstet8cGaY93WwrMf8jM4twhzTYD2800u/OUDZOPvnWePM6lR6g0muPjcoUdiOszviFzIN5SITqzzyC8sEVv2ibBOfQO31pAQjg8lzkjFWe6bKTFgj3HTJBS0Sg0siC3V6mtmInKwUno2FfI0a3gLRnXs4Q+6fvzKxAqEybdXPgKkQAlmPpZ8xPjshj6aJGYs6cu+FixFYDLCLL4i329CTniguchz4G9VmFyai5vqB4QunDoEynTSv+73+W0XudMrcRy0mm5fzGgFreg0jCRuNt6sfd7m6cvCR8i0IIDCTN2V9btRbnAAIpJydFvSG3kRFbInCoPlvv16G0GSPL0CX3+brdLb9ejTlbQ72+Y7mrB65NwrrPH9g6HECSAz74OZdSnsK54JDj6UOoto3F32uS/36Juk6pUmMoCiQOMldSsy9RM+UpQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115877,
+  "id": "Y0v_arKCIrulg8UP-r2l0Ak",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 224,
+   "prompt_tokens": 2835,
+   "total_tokens": 3174
+  }
+ }
+}

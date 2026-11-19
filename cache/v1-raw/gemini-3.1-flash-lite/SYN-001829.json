@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "3d453f386e1dfdbe",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk** due to consistent profitability and strong cash flow, despite a minor pending legal dispute.\n\n*   Pending litigation: Defendant in a tenancy dispute (claim: 126,600) filed in 2021.\n*   No other material red flags identified; audit opinions remain unqualified.\n\nFY2024: Revenue 15.81M, Profit After Tax 1.50M, Operating Cash Flow 2.39M.\nTechnology (Cloud/Managed IT), Labuan, 9 years old, owned by two individuals.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqUXCqIXAWkUfRPHI0CX3xCoM3SuJNNRXPKOG9vdbR5FHy1+cETUCHLbgEIBETRA62R89rG+CFoeKQ35hhAr84pTPvSA2BcWqwqoi8E7eDpDM9tCXmLKo35+TzQK/2Jj0yGit8cL5NOtwMl2/8Bq2o7mLJBTQyAnjHz/cR9GXgFr2AWjEUH478PNktg1pQ6A3BeO6LLvz2exzSPsifdUzF51g6Rq44F5WYJVcbzqNXSkziLaA2oeINqWtGWkCLDGlDgtwbcVpQ49FISfnr+S/qG3wB3ZDNo29ZurXZufPAdMiIJxT7ZlcMHtjpELkTwphGVA4SwqJ8T+/0kHzlDE6kn6K7hTOoeKNpgVVMwxIFxlJz71FempbOlK9PtGBSv0ty7gvwugF1r1c7wl/Td+3U1WUcrxWTFeAN+n5aktWXLCrIFlOQl5B7wGh0a+qxatMjoGn3rJz1eDkkN+uf4aYBHgdq8rWqT/Sh5KzWsjq0DV87vwRKKZxmE4L797ts6ZOelx1MQDNzKDb6FnBCzvOTmQsp0ILT11Utm6KcZI9K4uBCHSl1lHdQ5OGZGL1OQsTTsuiYQu+xV4ex6oTELANbJU26UhGhcqjKZkAT7CGKVTs6R5BfcNfTU3XjQOvyoiESUfGMw+FNMZnWNwyXgF9SDhrPoJyyjl6zeq8fxvbgVH5QpMSbCSM6UTi29eirfJjdp+Qor9ONReS3P8+sDzp1ss09yILCnXinoFBBein28Yhsq2rRdxehG5BK2l0X8YiUXg1f4AhWGZFDPWxaA4kEiTXSroG3XZf/qRZnED2Kfl4S62uNWPRp5ubsUjQCTEiq3UXQaqOb7j0wPrIMrAOm01/Ng3k6QKrQKymoE7ARzfRD7jiUlKqAuqt2vhOSi6fmSB/xMpMjx+XyXG4TAk4UV3OuMAsRTzOLiZd3drvrmsuPpQ0/wtNxbrXLzdzwcoyPnP+HqISdI0LpYsRE0sv4/FpJ8f8kid/RhQ6TqjCS5xt0+iKXnEWFm5cvyiweAqdqjCh0XFnYup605PW+J2BIT0fs4fdqDHtJ8wdQCiC58P8dhILzio3uoB9WzHRHMOOxKsT7m3Xd+btA98zCYl6T309feJnricPYHu3aC0R1yrtEANCMZUFYEIikzPt94TV2BLAgyIBXXt6RooDRR7CDxRvpxbMX1dAC7H+HanB0M6N1x1bmiI3vXSsEQp0S02DTD4YAJtyxNHxZvk22JuxHtCMcX7nYSnR4+5aFcC5RtIgqjib7px5vIIjYRGIIYZTlUcwIf2k3VO03Rw48j/g828bWENGM3m4NCtphPZnFzJTtnDvi97BAtKOK+t5/TN//SfDVV8biILeE6AUEPUV3LxW9PJusM2cFiWgsVx0hclPe3X7/CvRnqMkolpQ7tjiQCmqYBwURcvEZreYBrqvUKcMk5zf+8zDP2JiIEbRIHGeLV8/ZikeXTIOPf9Pg5H7ZRu+ZYOBDzK8UzTZ6KQtPd/7BCVoQ3BcA5kgCnGJc1lm4dagH2BN275alMFHR+WbVOxQ0evXDkeasvo2HHZui5AOAAxCSS4d122FYStGp1orqfX45iv332lSy+ACYHI6L/3zyzf2K5o872j3eb8szmlGuvJRiWXTsVj61Ria5ViEH5bXZ64kjaEecrCbsutg/vnllkHXjEDZWeb/wbCoo7OZ8UfwxitvrVoBvLqeexo0xN12ImvJED3GwgQjnC3ufYfCX3hPJ31sPe9uLrt4FI1/AsfDifIq6uIZqJZg6PbW9gx9ZOxwtdlad6m6SIiU7NsvvDsHqGGdIoYZz8ZxI3cVVGmaTCB/odaHf75ZP0X3rox5Ck8lWv5eVPQ+pD28sa7p7BWhShNc3FO+XAkE62tN5A/UA1/2tTS8lMF8mhLchkjcIJDIMjODQ0zv6EHJPhSnJAk9K8mkE1db/xLgTOlLlPA9k920MIed5RqhRKtW7dcTwE90AmWBF1LEsKm45HxpeB8caIEW2DsnosbFResCBOEw/HahcjdoNKk0TWE+JDKT2PutUxzkKD1Cou8sLARIgXMGeP5CWyDp0rI5ApHNQd9Z4KElw/cgxRjtyK+FwsmDQCJfzVHCdsMCaMHR5cSd4JwovYhDE834pOq+5KgiRd1TkAy/uQfSJaMgbuQYj1el1oJnBm+OppQnaStPBD7n81e7RgrOQ4ZkQ1hDLW7DsOy0YXhB0iFo8wmbnvfIb7R5f+ZOlx29hsN7I/dSk8jayAJwYRtfAq37mDyU2g+DJpkyai53QavyXg0JZxfom6bQ/cQDPPCFV4GCVHJ/Aivm9zgFukPC2EI3ZUo799SvxA7za0CKP4JK0tBVjiwpQc2kUwgfeal5ex9Zrn++v8pg8tsWFPMoQfbD9CxKyzKxJhpMEvahMWlme6ssTTwi0nv0UJ5br2BsIlggNP02HflHp8bCbowy23WdnnJ/Nw/SyEhYA1VQpeAkfAFr1j5+TkGH+UksZV5lHlDmQZGPn1YHk4NgDKy3bedD3hLXQbN5yiC41qSnIOqpOXomqN2OZFopcdlUjJKUJQbeyqJGQplDlcfN6HUZgfeYkEKARD662fi808F2sSxyAhmXjIRQJkRj8AojUyEzw/4GJO3V8T8RAahhqcBoZqUR6/fp5f8yFKL3i+8NA+w2ism9szv1puH+ItvEZd4GL2l1IIjNU/cz2k4p9PkwfaTSgjmUSPZI1a+3+ILN49+D62d2ubUBpJds4lwel4TK1YZERAeRfe02GB00aA1hU+N78wVpJ3c9vDW6/QD50sfIJIL47RA7/GEuCLM14d7Gsk4M8G1YfdvsVgBhoTkZX8PQXpuKvGGQAhC/0SGPs0KVgMqjchN2DziOgR/y/Htq2ptfS0m5jx9UWhOK/Wv5enyHzgvR/oj+P/pNijNsAJcDbzqvHckn1OI07y7WQHTWSUMXpnBDp6yE5q0XHfLAgwyonlwnJb4WS6BafHXSJXJBD3HKoa2xKu4ALDThvQ86MRPMYxha8rCZpOS53pCBN6g2IczQ5sZrsJCIaaTq4aCd3+zcVTmPcArAJL+XKWeh0Vn0/ZK1rDrpMAT9K3sAx/Q4cpVShpIYt7GwfcdB4QRfqbaTxkBVCqji3vEWiLllvdnZ1qj/Iequ2xQJIpft5n9h36uoNzYweBeDWT555UeUGtCOzwkLdNJWyskYG2Tl2HAeuYOgr5O+PnEABw/eSTXGfQzwzkvnIQselFmCoacP1AZYZ8e04wezO+dpJKZDaDXDZO3+NLYb0gnBX20Z2QDWm2cpgy/hz0LUDY8QeNYi+jg2s8i7tRzpnVX+7AqSonU2D6xgvJByzFYt6StLwN5DkifH40eYGQLSdT1PBdm9zS18XR1DZIjO3PS4YFJMVamsfxSJD0m5v6xObzkc4C7UyfFnetsBEZHE/lAM0uwP1lUwigwA4MpgoNHD4XTRrsh7UqZmnbnIa5V/YyIac74upH3j5GeA5lpmPl04MRuFT+pc8ZF+CttIwTr3U4FLK6qN7sZ7cZkUZ+h47acPSqjZEL28nEpM32XQB+QqQvLzMbS66j3hI8X4E1hMWOeIuupVo5eVcDGj79z5+tIw9xlMZvIeROidRe5ZiPC79PI78x8zzjDCUQX84igmb9PlrNyePyM25+8wJlI67fbVQ9UtqpuesHzm1z08o1A0hpnTe8k7iLtEOhfeme3q01FG2zX7XCijQYto6lQJdr8EmsxJgkNHmlFZr6iEF4l9CofEt/sv1xRiI+XY375QM1jGkv4xQrVbmuVrMH5P/tD3syGzehWnR5aWanbiTxkk1ohk+mKWPqQkYOSyjp5pAXchPTklse0LKmdpWOiMNITfQifedhsHlNwQIIVgqbDi+VppRcO5lw604UNSxZvKIpucoojB+7wQT195OYyZDmwUfjHB33Aphru6RUEnQVAPIK+QaXbhUvrLLNbp0S09PT/rj4m+Fg3HyLYKZbethQ="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116319,
+  "id": "HE3_aq7SF-Pc4t4Psrr0-QY",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 122,
+   "prompt_tokens": 2814,
+   "total_tokens": 3774
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "781cba532f93c62d",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Significant and consistent decline in revenue and profitability over the last three years.\n\n*   Revenue has contracted sharply from 40.0M (2022) to 26.2M (2024).\n*   Net profit margin has compressed significantly from 9.1% (2022) to 2.0% (2024).\n*   Operating profit has dropped from 5.1M (2022) to 0.9M (2024).\n*   Inventory turnover is slowing (3.9x to 3.2x), indicating potential stock management inefficiencies.\n*   No legal or audit red flags identified; audit opinions remain unqualified.\n\n**Financial Snapshot (2024):** Revenue 26.2M, Net Profit 0.5M, Cash 2.8M, Total Liabilities 7.3M.\n**Profile:** Healthcare (Pharmacy/Supplements), Kuala Lumpur, Incorporated 1991, 100% owned by Managing Director.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqcECqQEAWkUfRNE6pDoaOKSucqz4AIv5a/M8Du5cKVPrwOh2zp2gB6qTkjLkktJCbSJs2hBVMjZeJyBMP30bcHvf0Bnwgr0oFZ9SiRUAyhVsqzazAhZdZ0Amm9WPT+a0oMKJsAm6/ySlRLZNTFLjdqAiJ94BBDhytxeT1do+ZEECbS2KmI3uonCZF1bcbdfMi+4Aic9fmAVB8NGfOHR4OumxLQbG6C2AQZT/DcvCN2my1CanPbh35/jjFjHWO2bVYWvNDnXkoF36RpzGm5ZwVPkhc2oDsYYkfuHaEb331RsGjwyY5cYWrmC07RlUYDUQf9OaUM4r408aA/CsI4NAvwvGnOGpvLR5u6rqDTUgvJEiHyUYMtwaNDvcsV8zY1hcpMZQZo2aVsG4+wnrO/TajbSr+bg22AIQylR0gg4BOUlYXiCwCE9KbalOOKRSzEH+mADeuC705/E9dsQLWAw7D9pvQvLKNnGRKGhKVp/Nm0yucRx7rcNkZwlyw7rXfsEFrYykG8eTNBkW7eZtWWEqLt+OPMflqABSe3B5erOstIuns1bfw/i9gOLxLJQ1lPqskpUn/sdob1nGm6Ctt/cFsPujOWmpVnjyE6nYH4o2a8/OmkZ6rwC4i1ZPjBKqHP7ULhId/9SClkKmqAuheng/FTZV/qCZ5kqFLD23EG2Hls4Hfg5/Xto4XXnyHMtNElvHDEmln9j3YXy2lAr+P68u1uMEYUx6xu3OE0="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116211,
+  "id": "p0z_avL8I4Sl4t4PtdrJGQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 228,
+   "prompt_tokens": 2722,
+   "total_tokens": 3064
+  }
+ }
+}

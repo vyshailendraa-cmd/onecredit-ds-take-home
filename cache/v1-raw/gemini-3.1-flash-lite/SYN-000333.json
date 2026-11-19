@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "444f18417ce5332f",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: No adverse legal or financial indicators identified.\n\n*   No red flags identified: No litigation, winding-up petitions, or negative financial filings reported.\n*   Stable ownership structure with three individual shareholders holding all equity.\n*   Long-standing operational history since 1997.\n\nFinancial data: No financial records available for the latest year.\n\nProfile: Retail (textiles/baju kurung), Sarawak, 27 years old, owned by three individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Es0ECsoEAWkUfRM118GquoxamLyNtyKK/BDosZ/Q4bWU+nl/yaa+2je4HVXx4tnN5U8GtHIWhmCLzAUAhpAKgetO0oLCRh7cH+OTxEB4dp+3t60fWGWWalGQu0q1m59QzuUeZRr1uq8W10FkLFLGLNOGUe5K3Kxit4GKac3DqfL67iFioVQMNVlKWKFa5N8P4ASL8XwjIAKvsyTtxJ1PynvruPhgcfQzw/gB4Mpml70X6aMBX0EFzMc0jUR9IpkC80fC5FR3v33rKNxhqeGSog/WUy44y4B+whEykcg4J62UwYeO//0IAS9CCi52DjIzQcig8rPtrkRvDssVnFXeP7uOwnE5poUjAAN92bwVEQUfodzgeWap3vFIXCAioOzRIi0YWiYFcFnRjIgnRM6sIxbZA7hV6+XzM54EAyBeZpsQJxhAJcS+PLkQtgeI0+NWEmyn0Tdu2ZyXG5yZ2j0iq6q+rccX9P4zV5sTcYw6PCWxYnoVmm4EDSnUPbfkOgHBqqjjX5XtrWhwj4XWEbIw4rJOQ6E1pCqZX+j/afOcrxTSEV0tCA5Mida5tPSU0BkzoaGENmtP1X3VDp5Oh9uQffRqk0C/VkApHsond68TXAPU0vA5xSop4OY3CTG6Qod1iG5OO4m29twJZdaWwm9954Mp2CjZU7BzSU7d/EFphYLDmVN5NNdd6KNEY962Tg7nrZ9dezSGFuKpnHBxjC61w0QrRDh5tssA1Pv6xIn8kKXeR6WxzG2dJdlTJT6m4CIq7bFaf1Kt2wTfdjDW5JlcMg=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115926,
+  "id": "lUv_aqzNF9Ol694P_ueE6Q0",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 103,
+   "prompt_tokens": 535,
+   "total_tokens": 766
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "486f49b639b35295",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk** due to persistent losses and severe liquidity constraints.\n\n* Loss-making for three consecutive years, with a net loss of RM7.52m in FY2024.\n* Critical interest coverage ratio of -8.12x in FY2024.\n* Negative operating cash flow of RM5.94m in FY2024.\n* Weak liquidity position with a quick ratio of 0.55 in FY2024.\n\nFY2024: Revenue RM43.29m, Profit After Tax -RM7.52m.\nHospitality, Kuala Lumpur, 30 years old, majority-owned by Director 1 (47.38%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EucXCuQXAWkUfRN2LTMc/zGJHNAsBbLJN841JFZwyhWoODZbo5Z15bc8KzFd7idg72RVxUqb229xLalHKdiEs7CyXXNuwiPuBHxafBvGoLVgokXvLBuDyutgPtIZUAgliUZTpvVOr2jPS6G4AdVUp/ma3LSh2/C+qvaoyio3+Lg3FAAghisoHpMQvkMCDWKJ8PxtMPTEmuOLsLRav4+xA8oelUT884Yj1vM9T09WgRAL12hVsYG9Gbe9jrWP5s9TiWwfp292C4PAa033bITYBAsuleaXaNECj8VzrOl6NsPLzqNduUFUCzv8Y/fbm0ffaroDMaiBbzPnkVe/BvMqbklRmI4UUZ3wV7lN6NKFyTbrsxqzja4/eilzuziKtILDqq6lRthKITfsxmB8GyzqMxQ8Zj9m9HqDnY319/0QEzL5OD9t6WnV5pvvKj2phKHiWo8VygWuGvKDvJ6tIYz3jvreRZCiw+DBLpB0KDh3NeH//DCMLLAf3Nmqp/ZiBJO1ND013n99Oh8Uvadc46+eXvgXVdpGZKFSPwC6tzgJpKuHjrf9fi7LLhxqnyHWrhUsLaCHX7eMUv+IojSF1Uana230id5mUzseRJVhoKDNV7Md6zLzO35FLdOhwOM4GIoq/pBCfGdr2BUxbBUqURc7xeZsbBxiaMRF6aa4gvnpZFJ5XaiVma9Iw/oT56nabic5JuqeWvN2w3+Pap49IvfCqFa9cn8tYBm4UimWPCReCNrL8z23kpp8TJqjDBVVgKH2Duf5qf6r1Ye5XB04hcETCjBxtyp8Qyhczr61ypIsyyrXBrXx75GRStla7ZYf1tN+Fawn//OZGCj2bBI+HrIrobPQk9N24FURwNfQyqOQ0n0XvPnNW9lN0pcG6403udrfn/TdI8VZnAKVdMntp16vL/3RErO3gjpjrwbL7783/PzBsvHsCLFSS+epkrvmUbHFbulR5ZuM1/JuMlWuQhx6NnEL6XXUFGBDnLRweVvrcuD2xj7q1mjlzfCQtFjW3wfeTf9fy8HJlzf8MtUpYFARVzDwWQPOPbPLe3wcRi1VQYj+5I4p9Z5fQFC29eNTxl+nXpClMY+lmGA2/L8RNVbAgWsVE2P394XnUvCAFveI6YTKvH2M5sGkXe32knTNV5VUaZfQd0lvCMs5LumUU/V8LXuD9lMxjyAP80VOZLsjSGFzkf1ceVu8alziuAOEsVPAp4O7YbKIOdg0j0X9Krx7mJLz2xS4+MThX2yCyYB1m5PKoRz07OSlnCC+4tk1+HDTWR4syuFiKE9v0LjpvdE6wRw49O+h5OHPOBpo0/YKFYWPnqP+CV5xlMUwSRwe9vCatrohDrxqcqtJoeDjjoZ5ht4vI2lCnaQLeyTu8hFDgxb45Lt0DwA3t9zeKhF6s+al5gtjTsidSv+er/NDhEp5QjLyWxkCpSxRcOzMz7pW0SAmj4oKiAQ2m2JDsLmmMdkcaF9A6cvvnAArZWtv78raLKtnpAAZ7w4RWqyKb9YihAzpjEt1Uq6Swyz1aXom3pr3BJuLA7GEawGMnhXBP4oF/A7qhgEiuj3RwreAgYrC9S1iSOXE9nW5XsipOX257+5eoHTGGj1HBqz5zFoVONdWOkrZOaV0rISoQjwncRpH8LMq7FdzEMuf6GN5USo/rcH80lQMTCcTm2vkvWfh85Fxyv2wImCqlQc6SzpwF7O07FuER9y6nv8yw15oWyPTMxqTo/bRx4eSOMdMlsp6Bsw+JcbOMbQZTH108yFvfDrx55qnyzCxlQ/wrxe9fwPYyyQWaO6YOEwekk71v2KHrW5C2v46Q7J5ouqaCbR5Y5W2mmRmhuA9zbmrK6Yl9NTza6C15PFRq9ZfQEab9jhocXTFE8rX2PrjChzOYzGPcAYfebTCdFeg3qfDLKhYTyaPwi+0JGwpKDem57lgZyrUejJz9qXf74Z9pju4BHj+uFjcViMeXcnjpx6Gr3W5lOhNuXQ6lG619FUFyicK5rW3zz9OuBLaAr+CzMgkfP9YlMHObaWyf6GUWCHTmqiQF/ynv527CZpHKad7oSWqJ/ffarwuFAtP/dzWe06g2wUAfO0D0oVKakGVhXo6IOhcH4YCvzS4yRIXEHIgkNrhOMLVe9PMpqzHExIWWw0a1gJ1MdX7mes9fQuV5bhIVPbp5GlOrZhBKh75nZpVZqCmrSSW5H02nxUhFXZ0Bra5E7zuXroCfXSLbi9eTr2a8YxxflODXt8W1M0ZsvBZkv8IwCIb36E/nHzF6doY8wRyLm4H4N8OI/PeQ4vlqPLajSDw74mSsAKbSlokpp17M6My6UyAZzXUmZajqcs+5e8HXTSyCsEMRby+NATSJXqDJ/ZjWx44bR7bTa0ek5dvL1XxsOOwQtMoFvIjZ2BaeAH5SNl3rsFakgb4E+3cFVMmXYK2dpf4gHU7OP9f9opq2KiywdGDbjU8SdrUIAKbjTWMVXStzBE0caHLK7eg36wyv0Q+0RGTzgzHWM5yC+u4/FzSTXqIqij6NJsehjMEmrsC7PlEpteDgTM1kvaJMrS4vR4suS29W4x9kAii7vEvdF4n/cbVhQhC40ZiaMDLRsE76NS5yVXtJGI1/e8BRncR/lLSktLNsOp9jHPT7P0TL71rmzcTJH4Fx3bJylNBGJJkJOEJfCAtZWmFyEryjena2COAznoz/QzPdVq11sY3ZlgdWDj4sN9g7haS+Do18r+g7XNsd0RZKSaHLeTuFXNLuOmHlIiIaEvxSju6vEjWTK6UBovt7RoR/pg2N08D5yQD4MHN4luk19ZtBQdTjDs7/2mS9GxlNUQ2yl4e0hxpBI0RUDCBAYl8y9+ILhyt+uIrJcwEauIY9XSxFdc5KggJQ8PI601BrJELrzB+ph84FxUxxceoToAHU/Xx/B6JoVhOKBq96eEwzFamO/Z1UkOlD/LWaYzupvZepsMB/oI+tD8HkvDQQ1PgyFEcNMM7eAkL5zM061yX5LiemXfWp/zxnkoxfrOTsP3vMRR/QMy8jBibDh9ozveljVIGPW60nsjZGUZ8wc7RuZdVgjaS0Ii1L45qQi5QY4OjDw8ATO1zohTyPdJCwOC/PONJqRV/DoFqkhwRqXAeBEXiPmx8JOpZjAHAIKNR5GX7cY+avLtavj8Ks+Yv+Som83Z/BIWW1D1pF2UkPEQunBoIgo6scq6VGXOlKB3vEvqSnrHWcCmNt2CJVruc+F4zSz3mnwJwh7k9y6saZ8K5kg4Kgfdv7ZJN/u/h9xwTKMcmkyLtI0mteRSf8I3Ajd2YHwdbl0YBSFnQiOUQi/qTBC7q3ex4QGVD+QW9BaK2avdWJuQ+vHKWnz+gnBreGShfx+HN/fFK5lMJt6A8haiv9JeYlnPESVqNvAjGmAeTajTpld3+ZSdhUqISGlvX1xbHletTqLEme07vDzDEQjCT5rNSLf49xch4VCyS0laN4DdbDSwpudV7FJVeFRsSJwZ78uU8D2kuvF+ARW9Skfwg9TH24qBJeV1rfNPQ4qq6Ui6kQihpkjhzjA2MQPbLeM0Io/nyuLczeUmtGw1EmwtELI73Q5lqAGvDuEY5rzDGqbSe1x2MfI+c6Qum4+Lrp0b44nceYB/ecaTx8rUQfQD/A4xDGh+QeIrTmOROxvn+qfnhBkufr3ahIE5IGWn/xLRpjOpcfw5xSY3DO0ZGwJ31Vx2RcLJ5wZ+mmPn9xkNjVTXWgnB3B1yCk4+Qq439rT4+dyPrw6mwXI8SRMdiyaHmSSOk+Dr6NtLWKqZNR2dSWpIycgWws9aiRw8XriYkZjWSU41x8K3yEAGcWAoymGXR2qJ0R4mDQvHTPohbH559vNeTSsAvDfMQI6oHBNAy89tLDUlhTDRjDSGmZep1Ebyv9Sj/AE3dqdm2HelODkqLK30eobDtzMuvaGMUcvCeyq+I2In1BMbmHVfMXrvWsWKRrnEfHzdeyp8sDeoxFrRvL3LiSoiObWwn//rHFtCzt51COjECyy2Wop2WZ1IqHo8CWtVIelGtSSGUDW2thhN6NbmdihnirCeTH2ol0ZSEHy+J2obWDVd1ZFqnjkQ="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115274,
+  "id": "Bkn_asCCB6n60PoP87zy4As",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 157,
+   "prompt_tokens": 3138,
+   "total_tokens": 4221
+  }
+ }
+}

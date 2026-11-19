@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "4c18d429975944b9",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Severe inability to service debt and negative cash flow.\n\n*   Interest cover of -10.47x in FY2024 indicates critical debt servicing issues.\n*   Negative operating cash flow of -RM165k in FY2024.\n*   Net loss of -RM843k in FY2024.\n\nFY2024: Revenue RM10.15m, Net Loss -RM843k, Operating Cash Flow -RM165k, Borrowings RM1.34m.\nProfessional Services, Pahang, 2 years old, owned by Directors 1, 5, 3, and 2.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Et4ECtsEAWkUfROVr0EEBaTmuXHRHUkTo6GnRoFNv9e8aXOwwrhDyhrySRPqlvhbrb+2gIjT4xIUkno60zDMk9JUGUcS9hTNiOrbf08C6G/HifqpWXln5h9rB32yKFvWgrFcecQKG6WHJUOvgV1Thsm75iFvAWBKiIXbkcAx10h+ldLydm9IKVKYUuAVG2NgxBVUdQm7lE3f7gnyxzPn6oZ1gjfPn6X4Uiz/q9DdFYg5OcrTN1k/vWxPuvZ/lHFU5RCpOsZh9ep8TeKkKBcP1BRuzZtBAd1ib+6P7rmCQRicB/M0xpA5yfi2I+RS1YS8lKinGxE+sd/McezdyY2pHmuAnnCH/pK/tt7TQmRu3l6DB/e1prByI7PKJ9Rq5RdK9/qnXxom7D4j7UJ10cR0tfk8ZiNwxsaM4CutZYxRL6SYcjPhmshBSEy0PDJAZ3kK4gFy+9b4qCbZxgcYZF57I7MPGv5bc3cOAu01gYsec0z9DqB0p+IC2GCgX/yKMI6OUrS23if/Ir4dKUcVUK62CdmW+yshXYuNFII7/mfTIUMixWC+8cJsg65VG8yqfujaW7XSuHQ0UIqqUqwNlQ9U+iDawQNbYr7ZOuM/3KOIWOYUr3qxjivDSPQMV+zfSGf2DuOJOuXT0IaFTfChjWizMvhIgvp0T/BLcKJV5OU0lz4i6lOVI/FDAAZo+UcTOjbCUqMA2j+3tL/wvW6qn/HSC78Mka+ShYRMTQqwcqvCQCJieFb/5MbBqj8GJT+w0STpxljhGhvuzJETSfTvdy0STPjSLWLy4vRcP7EOiiYzc2+Y"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115635,
+  "id": "cEr_apkM_rOY0w_mteaBCg",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 151,
+   "prompt_tokens": 1599,
+   "total_tokens": 1882
+  }
+ }
+}

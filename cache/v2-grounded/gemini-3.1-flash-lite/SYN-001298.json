@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "cc897065e697ae59",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Inability to service debt obligations.\n\n*   Interest cover of -2.25x in FY2024 indicates an inability to meet interest payments from operating earnings.\n*   Negative operating cash flow of -RM1.58m in FY2024.\n*   Net loss of -RM3.66m in FY2024.\n\nFY2024: Revenue RM74.30m, Net Loss -RM3.66m, Operating Cash Flow -RM1.58m, Total Equity RM66.07m.\nAgriculture, Kuala Lumpur, 2 years old, majority-owned by Director 3 (58.92%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtMECtAEAWkUfRNx8/HV7XWfP6uHP2IKkqJw+Fj9Bn0GE3WpOtS/P2Kgpk7y8wafHME08i57yDlBpXhqoY0U/poRDX/EdaOX/7gyDJjBj5HBlbTtUwQrN1c4oZR2TFDJbCbUDUIU1dcs4001kLiViYRL0zS5cUZZEcQypXpCnvUc2sNhlgkJeB1DwY34UR8c1pBWskEUj02CjXCTrQ5CpBCgJKGmzLFHcvjsxBhvC7k+DR8ctuQFlJKQO0ecmXrEF7pzQYRquMa3mrtGtWr/dKQRY86A6ZqfJBtLhtwhmsKI92JxGSdjSeYvns3rX6rDIjDDhEnNFi+MfyPexJCGezJLG2ZzhRKHHFS4jgT1itzr5DV+Wnn6B7t5lc9muUpRsTvv4NrD1IlRByWQ5bx+Ik0Z4+L3bCDnAqgkx2CMlX6QhculiaP4afhFvK3KdRof1v4K/Xc0R7K6oK147J1L0jJZoIojujhOMOenQtZyYgC2/VTOU3NvS0+OKgs91SBv/OGCevWFrsWxjY3efnFL/BhYxIaizGK3WH/eWEETiNQi3ky+mpWCvjU33s4sC6VyVrlXVpDc67kSnvLXkO3nKCJoCtUm7cbyePhMqzjzuciuemxRCO8LsNWeePTQ3ukmxVGF/BU9DIK6fv9s3bewStyB75ZI8wW+RJw9dKOTdbZ5Er2XjKLmoAy/HpEH6xbKQuFmHLjJRwtjGOsLglbjnrcKkEBdEVwGMkyw030jTIahkXYXy1Ijr8jZLISXqc6JuZGgu7HzMUY+uoMbJVSO2pifDU/KGA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115644,
+  "id": "eEr_apsYnrjPuw-qvZ3wCQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 154,
+   "prompt_tokens": 1632,
+   "total_tokens": 1915
+  }
+ }
+}

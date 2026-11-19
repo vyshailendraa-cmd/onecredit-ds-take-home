@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "9e9131da795af292",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Active winding-up petition and outstanding legal judgments.\n\n*   Winding-up petition filed 2022-09-15 (Pending).\n*   1 judgment entered against the company (RM98k).\n*   2 pending cases as defendant with claims totaling RM466k.\n\n2024: Revenue RM4.42m, Profit RM179k, Operating Cash Flow RM220k, Borrowings RM2.13m.\nFood & Beverage, Sabah, 8 years old, majority-owned by Director 1 (98.86%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtwECtkEAWkUfRNL7kh3gR1oF9MN4OkRpkzZcvAF63JsZNlo2c2ZOPtl9M7hGC938+/0qQF4ArsZq0+QUNPf+xi5tLvvefXvlADmCJyOj29efAyykkmSSlenPcwJWfJ0pLIAuLtifXuMU4IHqc6lMLbT4G5std+/VyQN/3iQrPYzda/2lP8xQhU0+zvh3nIKGmMzS7VlytkloSL1ybatUUf8aYTfN6nOupwjPydOb9y5CDI0LsqbXF1JuRahQvEZQtd9RGuCey0KuKRTKNAQStIzsKXYZXwNfMNIcMxPWdlmh0xtg8bSupV1cPgOW7dZE3NLJJvAQjDsMcDhyy4PbDeZJpINBKNT/I9e66ykSM6mzK0NfHNnyt2t7icn3YXeKYgRQzKeNog0R9xi7FM57lfTRNRPg89/t4hnhW6o/kGxcdazJqtIO2BxPc/elM2jJDWYX2xDc0aWk3RYay/c1yKA9ge0QioPxNKolrX/Z1DWU4ms2rPnttZdQ4CvzojlC+iB4iefUSXldRnG2nJZcZ3sVChjz1BpW1ukUmLK5v66OdKfwX7+GTK3H79c+uHOmBehs4x0dp8oSZ+JVLpwGGwctlVMb88rcaaCQHG6GEh0GwXDfCailMvI7s+oyXaK0menZVO7M+pSA8RSaZx3kw5Rqe16do+Bo5SdYw1SDDGRbF7H1XYqW8pfwmv1Acmk0Co+sQrI0lS56GT9Zy0dTbLnWVOXTbZfROgc9rHIvJ41akpGYijYD35vnwI2xWAqHOqfkNnPm/4wHON2413GWZHGckCe+eFssNC+Ru/OQA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115110,
+  "id": "YUj_avSILazSqfkPgdW1wAo",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 134,
+   "prompt_tokens": 2738,
+   "total_tokens": 3007
+  }
+ }
+}

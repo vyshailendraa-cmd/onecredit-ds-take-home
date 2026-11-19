@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0d3539198ffb8489",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Persistent legal instability and recurring winding-up petitions.\n\n*   Winding-up petition filed 2024-02-19 (Pending).\n*   Winding-up petition filed 2025-11-19 (Withdrawn).\n*   Winding-up petition filed 2023-07-02 (Settled).\n*   3 pending legal cases as defendant, with claims totaling RM732k.\n\n**Financials (2024):** Revenue RM59.06m, Profit After Tax RM4.01m, Borrowings RM25.15m.\n**Profile:** Hospitality, Selangor, 12 years old, owned by Director 3 (87.78%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EuMECuAEAWkUfRNQMqdRw7CexSSMgJtqizeDJ/apl57M74Ud3rj4FvclTgMGoYrjsBoc4bGEAq9Dbsu98Our+/RcYKWYiuaTIbwS7jll83ImY+u5h64CgLFNtvEcSBOPbruweVeM8l8Xv8hHqCxkpXQhSKZsA203Z17Nk5S5BgSXV1zP7uSlT/6SR5y3vdSthyzItkvIqF218+VvMbOD7qbgRxLm+WUChdZwY5AiBxShRfOjHens/Szzci6Qvp4F1AUpQk8PdY0rk/E5lrhuTDUj4493qxioB6blf08U7MG5b9jOGJTV+8oe8qyTAgSd73SmfCrDc+LPmoA9Vk7ZfHT/98bd5aw7HcILsAYONJ+9pRVqgFWC0jsrfg6hmVmmTOG09GE3FijthmTK1KAz9lVK6ab3fh8PV49+l2dcb/ihGid/PDLL+32GUXXydgz62jEOMJwWqGAh2UID2SJOsHeI5nMcRG+HtahAmFTejDhBrTnQyn4NaHUjL3tMxDq79j12kLgeIe4qKCx5HKhORgjx7RXBP7qjyobUV3GXA+riiYg0+NnuH1mdcs/o1rJcoOH1akLAzCMBoDtGvLjAQuqc+zm2oa32O91p6JlFNZ7xlbVf/l5/ija4aMeGHmdFQrmRE4QahqMH4okcn7YWOlIFRtnPj6aiod6XfDoY4Vr6+7e5+yRECY4VUFwz9JDlhliciKl3oXdNmWaHIM3C/oVaOOzEloMiFcTeDh6MnaE/zzx7598BnygDdt8UQxjJJ/KG44IyY8R6Ynj3wa45QvqEpvSvdAjh/Ys2AU53n/uWb70aTc8="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115689,
+  "id": "o0r_asyPJIns694PmPaL-AQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 170,
+   "prompt_tokens": 3855,
+   "total_tokens": 4158
+  }
+ }
+}

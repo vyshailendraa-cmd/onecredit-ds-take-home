@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "f27a77f24ecfa0a4",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Sustained decline in revenue and thinning profit margins.\n\n*   Revenue has contracted for two consecutive years (2022: 1.67M to 2024: 1.12M).\n*   Net profit margin has compressed significantly to 0.33% in 2024, indicating minimal buffer against operational shocks.\n*   Operating cash flow dropped sharply in 2024 (16,385 vs 91,321 in 2023), limiting liquidity despite improved cash ratios.\n*   Interest coverage ratio has weakened to 1.35x, raising concerns about debt sustainability if performance continues to slide.\n*   No legal or audit red flags identified; unqualified audit opinions maintained.\n\n**2024 Financials**: Revenue 1.12M, Profit After Tax 3,710.\n**Profile**: Retail (Online baby products), Kuala Lumpur, 17 years old, majority-owned by Director 3 (72.7%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErYECrMEAWkUfRMmSLbSWmopJn5pyvq3dxe3ouJPvu6taTAoim9qpRNTiGkju6c/EV9vPkcf9prRJwGQFUZ2h6FWfwJjWUCtxpHFPWZrFMsoeK+awygt83Cafxi0KXWVSx6Skhq0Isv0wSGQwhVruEkU6t+ENBezaNsV7KNM8zsPrGexwrrnvLLnunptDyk4MWlHpvkY56669A6qYB8Rj232Z+gP5pOnJG+2Q/0vA2gQ7fpFxbIwTgOyEEAZia9aVIVp6AfOiwFxCJKP0nrtuHd72lDGmW6rP5tG/mNKYKZFlriBYMzmdmaBANSVWl72xhLr648J+82XQ2YaPuGzdm3E7F35tKk1zBo6oVaYEaFfuiVoigrL5AUNCO2/z9O5xBQKtw+9O40+zDMvovrYEWuP8LEu25eN+wlJO2/DFuPSEqbzCAL4w78DiAuyHCJPVixoC6lsh5RHQOxjfQkGtdx7Aa0vcH0vR7P5RDq4cp4f+3DHDKA1kBrl9tUV80SkpOXwEl/ljLjDpZJ50v2dXgv+0zHDkzBKYj3jjVJBdaqnDqaX1ctFupSBHZ96wejm3yD+NRvDsy+0CPdWYU/yv8K6NV3EHotO66aoL+ETTURCscsFoTuwEYA3Nnc3X2HH8X0NrmGG7GjsgCBYTzG/fd1w7sFdH/VjQSLAIxu6bDxk9K/oNOUArHOHnn8JiWbEo782Eg6YqgUC0UDv1L6a7RuD1JvM8FYVYF4fpU/xVcuIYzD/kJbq64c="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115968,
+  "id": "u0v_at-QNu2n694P_PKG6Ag",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 225,
+   "prompt_tokens": 2755,
+   "total_tokens": 3103
+  }
+ }
+}

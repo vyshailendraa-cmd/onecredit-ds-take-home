@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0b061ff4e3e54e08",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Persistent negative free cash flow and tight debt service coverage.\n\n*   Free cash flow has been negative for three consecutive years (2022\u20132024), indicating consistent cash outflows exceeding operational generation.\n*   Debt service coverage ratio is marginal (1.07 in 2024), leaving little buffer for repayment obligations.\n*   Net profit margins are thin and declining (1.81% in 2024).\n*   High leverage ratio (0.81) relative to operational cash flow.\n*   No legal or litigation red flags identified.\n\n**Financials (2024):** Revenue 5.35M, Profit After Tax 96.8K, Operating Cash Flow 113.6K.\n**Profile:** Retail (textiles/baju kurung), Selangor, incorporated 2018, majority owned by Director 4 (58.25%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtAECs0EAWkUfRPpSrlD4OWCoA/wqEtBbR2TFu9I5ZppIkjDybCQEh1w36GrJOlN/Jym/+zbOs4O2wZ8HmoX0gv4HxLQ2m+h/+0LtCL1PTk/kwg6FsObccmHKDpf1Q3CwHez7cia6J+i+uWfLJWinkFlqEGNgppx8FFVMGiSw+a4nibrac/4jGv5zBmq0Qh5N5zP8W3innoQj8t1b9z2/cg0mqF1uUi+VPAY+mByuFtu4e9mmHp+lw/N1olSogIFGpiKmjZEOJMsqNNKOk/+zA7ffnKseJ6fQDs7gqlEqSaRlTXzzPGKJ7pDgu/f9DC9ompsshsSSzR+cP0bi5FfkMv1pGaIOuCSqEz9pXZe7nXO39YEZnA3XEKMxEgNgr6F6GyiF6uya7lOcEXBMsoYBT/qdz0K9HkK0lEy1001vY9Y3jcCxqHdQiO34vOl9ULmki2KUwxSUhBCSFBj8BBSFloo9SI5DOOSi297S4KlrNfxDQArVNUqiO9VJsOYz0Gbnc70y3GtCM8GUx+3nqayIQApbMqHNq4QKcP+3NG6/CngAl7aXC8zF38JOOQbjGAqlhLeHcUuIN7V7mzfVmf+dvOXfLgc92rQgkVDezomASGnQp1kxMYKOpU5TWl3QzZ6/YL21sA9pD1GSAwh2pF4k3DG2t136p+qxZs3ESwmlERSIOUBqp06HHw4UpqnzMvO8YIHlJ/zLK1MzUZ1q6hUX6Weq5Di7UikUHDRgSwdqVKQvvDc6L2C5WUienzfGMDoydeCtjCGIW17TntaY6sPV2/6JQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115851,
+  "id": "Skv_araRBumD694Pj66aEA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 203,
+   "prompt_tokens": 2812,
+   "total_tokens": 3141
+  }
+ }
+}

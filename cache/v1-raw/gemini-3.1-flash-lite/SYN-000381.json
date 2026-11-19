@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "f1bc548d958daec5",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Increasing leverage and rising debt levels.\n\n*   Leverage ratio has climbed significantly from 0.78 (2022) to 1.65 (2024), indicating a growing reliance on debt to fund operations and expansion.\n*   Total liabilities have surged from 4.38m to 11.39m over the three-year period.\n*   Borrowings have increased consistently year-on-year, reaching 5.99m in 2024.\n*   No legal, winding-up, or audit red flags identified; all audit opinions are unqualified.\n\n**Financial Snapshot (2024):** Revenue 16.44m, Profit After Tax 0.98m, Total Assets 18.29m.\n**Profile:** Hospitality (Boutique hotel), Kedah, incorporated 1995, majority-owned by Gemilang Holdings Sdn. Bhd. (51%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErsECrgEAWkUfRM2fqLpW7z6VMX1SMucHqALdPeb9eQfLQ/fqUdWtYj2Exdo9AaLdtLmFzFb+sv73lT4LAcrZc2wkRAC/z0Ii+RkNnRzyJZjtIkwVK1lovrIPkgeumnqObv9m6qRlIJDu61TWHhAfdfChAJYAno4dJvLpnMkfwK5tEikDgrhAOYdT5MPKZWHVbrByglqEz+qmI2BcHBigTcLC9TTv+EEZEnMXGC81kUm8xYj5J5hl49O1C9WAF8Vhl2fswySSL0T7/dzMgFYMp/3JIpNcRVkOU3CMJ8/bDbSNpYEfqOuQi8d9v4LTAo48YvTqrX8SQHpiMuabBnrqSMdMMEebh++sC7JuwyfZQvwkuX+heFrWnm2RxJWOsVJD2fwKTDK5oxavMuhR3wO+lc8TXvKNspMxJlIC+61vwoWnq9zOb2dM4DR7U6maz8g2Tw8piSuQLexLOGD272qmD/SMwmr1gfFrxwmgTfKQiX5ZF9MRkukPALH7/aNOvWM8MpTu7HyShZ2BiucO/dlVg2prn0cuq5pniLSX8LcA7kTu2YU2HZO79oWVofapb17PU0ya4IWzDw7vVnRJGUizb7xFh4oKGu5SmoeRWR32yp/dWxO8gjQfoNnZnwccAPODTJEzYjVDJ3mi5iVqT2B8Pxy1I6NBzcqe4RGLCMrgvxaqOyjjxEdIz1EukSipOOJpmG9jpquD7R+YBu1FLP1dBk+KJf2nB5ktnAy631WMROoo6uNprzWVWQ80XbOHA=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115932,
+  "id": "m0v_aoPgB8rE1_oPmr62sQc",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 211,
+   "prompt_tokens": 2762,
+   "total_tokens": 3094
+  }
+ }
+}

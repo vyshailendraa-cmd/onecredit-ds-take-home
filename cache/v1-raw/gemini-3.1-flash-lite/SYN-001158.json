@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "6ab37cf79fe0f391",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Significant operating losses and negative cash flow.\n\n*   Operating loss of -4,128,397 (FY2024) and negative operating cash flow of -1,055,947.\n*   Interest coverage ratio is negative (-1.76), indicating inability to cover interest expenses from operating profit.\n*   High debt service burden with a debt service coverage ratio of 0.11.\n*   No legal or litigation red flags identified.\n\nFY2024: Revenue 62.46M, Net Loss -4.13M, Cash 4.21M, Total Liabilities 43.41M.\nAgriculture (Oil palm), Selangor, incorporated 2023, owned by three individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtIECs8EAWkUfRNuHF1mWylqWyKyW0+qVCFkceYxkFrO5UbtlpxULamlpJS6PA44rp/I4XrpxqEMcxLEbDytI6AZN5AUll22RuOvQVGNVbJpj5QedUMVl6+w20Q2TWGIKbjhzR1j7PmU6pOrqVo+AD2QEnRcrXhVVIWyZ2hv1aNr70zwRBg1M+lKjF1TF/l/wsj+6VZ8RzJr3pDsfIP7gPR5FLWEhLN+q3G/SitBXbNUqw2uzSM5rtpPvZ+efk5J1cC4k1GurjdwbSXax7dusyj+rTuSjxwp7MLBiUL1cj9WAZm05hys2Gu3Tf9sAJ5Fkfb1DLLa4NIOJBuDl0Az9g6g9mAt28BEEdTP6b2xS9iZt0cJY2YmRfOgqGDk1rE2MtaBHV4jb4yq+MIjUFyMmAQx/9FkM/fGazumg1zwjtSXHyNEJA5enro2Aut/43cnD7iAPthgJnDjveOa7nJFQQn6j03JzX4hb91fmoS6uuPkUy2qPEJYpcbVZRt/1M1nM1HJc1wXa4gGWPC4YXv93YmmoSnzr6Vv1BK1qRhtb7ATkOe0xar5dqwyqFMbek6Rpn7N6chcTq78BLh5LLTXJXtiEuoxmr/qW9O+GWYVgQv8yXfY6Kfv5QlKErhRYf5RbbC+EbsOV8K4ftiStWPEk1aFJE7qoNalVGey2ue/u1qa4IqL0MBhM6Dys5RdzZbkmeIVM2yPiD9ZuWwzyQq1DhdREZ+im1BQp047JERrMLUaVxwrRsWhsmy1s00iqhdBHTY7P2ghGAQRENrs1cRCaBSU6CC+"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116120,
+  "id": "UUz_apz8Ffurg8UPhPewOA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 171,
+   "prompt_tokens": 1304,
+   "total_tokens": 1602
+  }
+ }
+}

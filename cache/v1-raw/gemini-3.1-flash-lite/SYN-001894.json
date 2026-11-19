@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "ef891f0bf1518a44",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**; consistent profitability and clean audit history.\n\n*   No adverse legal filings; the company has been a plaintiff in debt recovery cases, not a defendant.\n*   Audit opinions are consistently unqualified.\n*   Liquidity is tightening, with the quick ratio falling below 1.0 (0.98) in 2024.\n*   High reliance on debt, with borrowings of 3.44M against 2.73M in equity.\n\n**Financials (2024):** Revenue 7.28M, Profit After Tax 278k, Cash 364k.\n**Profile:** Agriculture (Oil palm), Labuan, incorporated 2010, majority-owned by Harmoni Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EskECsYEAWkUfRPPqld3U+RsqeydG+gpRKA355AeyyTfxiVirjTXAW7vSnV4Tqp/E9mAG1D8sG1xiPDtzR/j171q8sAHmPqFALVCW1t9wpNuci2DqH4ziIqekEPPUw7WCcA4ydQAuWRLESYDz5mt4mcf1H2f02Fn5oOBgzS2vYhnYdMY5nGikvu2yZjOVA3SejuhLsUWbmobqFBP//WBvcUDKDwMQbpjc4L8yE8QWm3blvLKX9lrtC1pEjHiNp27Y0XvrigVhxaseH9Ci9nDnPFQK+oVkEig8lOtNXQtPgVeVZlvoe7Q5JKTPh8RCqspBoUqfvHHkWgGmu3wj8k+p/fDrNXRgbdS9iDWGucWIynFny0s7ff8hb0mUdHf5Lj3SaNa1jUHnGF1Yit+Sf6FKaJVNRuPodhc6wGVY83JeyqUSfGHr18lZ8mstk0AU9UHnaHph5XnnaqEMV/yfa18K+vaW/wrnvbY7WPRpnM0jSUOgW2Jka+kAVy9U31blXAUOFXIFjud+NpgylEvhXxXVtJ9DeHC/ArABhEKL0roXW9IylXqwCA473Wq3v1zLmO1fGDnOICJpkc3a4EMmiVZbymbeBZ4kkOmdNF+0b6qYr2aauvokavRygifZDW7sTxPVasUBgFnvkCDAo/qHcQKASUymTgN7tUTneO9DlIQnuTGVqxwdSXoL9vB5mV7ABASRzeeIL8lfNB9dy2p7QF2rC+5/uGALD0OsfTRAoHhAHtaCDtfPvb6H59KUg+d04l8D/2leD+JJJnsiAYg"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116327,
+  "id": "JE3_at-HCJ2EjuMP3qff8Qc",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 167,
+   "prompt_tokens": 2969,
+   "total_tokens": 3261
+  }
+ }
+}

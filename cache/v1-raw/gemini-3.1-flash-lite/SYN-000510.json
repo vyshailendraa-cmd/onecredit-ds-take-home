@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "a3e3bd884b62c601",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Consistent decline in revenue and profitability over three years.\n\n*   Revenue has fallen steadily from 6.6M (2022) to 4.4M (2024).\n*   Net profit margin has compressed significantly, dropping from 3.48% (2022) to 0.82% (2024).\n*   Operating cash flow has deteriorated sharply, declining from 597k (2022) to 167k (2024).\n*   Free cash flow turned negative in 2024 (-50k).\n*   No legal or audit red flags identified.\n\n**Financials (2024)**: Revenue 4.4M, Profit After Tax 35.6k, Total Equity 5.5M.\n**Profile**: Retail (mobile phones), Kuala Lumpur, incorporated 2006, majority owned by Director 2 (96.87%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsAECr0EAWkUfRNIzzfPOaNXzfTrH5jjg94HtZyE1pOBbHq/aAF1o8/JnT0QyH+/COILUt5IUB4Rsb19BJ0Rw2LKNAvnhv6WNJwtszkALt552OM9646mmTfVE2+0gOnREZSmzaoM60ZOH/sSoGKG4kCAsCs6OYFwzm/YgZ9S0PVRxY9tRnEfsUXIJVhum3TwsQ6D0GedXbFCuP+Pzmak1iyqD0ZEnCXpZ2e4bPlYqpvgr8xLRGF9dgix5fgSEUfWRo5VQ2ML51+Gglhj4BF3Ob4oa2inDBgX8q0q1NhhnFi4tWdhM0QJu/Yliddraea8H0oqxjiCD2fp/vg1CEq2BJ2N/hwlDaNyi4UMq0MWkp+sf+CiwdBEZMjyee+8XdoARPDbv9nq2zbBjEfUVU1h+AvbEdnY5yhyMtaRkaA34+TwQy0iG/zScQhqgzWugWwMAkZXYTt19PEvntI+YCUR1FYzEZcRwIg6JDRNQBhilmA+jP9a2o3HwN24MWHNejDGKjizC9jDaTj70UGRWD3Y1bsR4Cr7PX+czRFuk0TyPeBCFFQdAYkEHAty7J9p9oTXFk6J7Ace2AjAg2XUhOkIC0fkhu9VLGU+cjSBzbHYOYC1vDU549NmSGjD3MixhmFKkaXGwtXp/zfR7QmxDm3a+fEMkfSmPRk2PJb2Lw8iNlDFcOHqOpNBcq3wa5P7F/L+ZIdFcPdD2UGUzt2jRltxCtL9TwmANt4Oz4oIpDW4PJ7oZlU8AB0v/4utNuKVwfb67VBQ"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115958,
+  "id": "tUv_as3fCeSRmNMPzrqusAQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 215,
+   "prompt_tokens": 2729,
+   "total_tokens": 3069
+  }
+ }
+}

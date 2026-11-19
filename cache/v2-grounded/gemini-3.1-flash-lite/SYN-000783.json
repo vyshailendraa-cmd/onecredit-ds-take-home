@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "3a9a8f3608e4b7b1",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk** due to consistent financial improvement and unqualified audit opinions.\n\n* No active red flags identified.\n* Previous litigation (2022) involved the company as plaintiff in a debt recovery case, which was dismissed.\n\n2024: Revenue 57,991,924; Profit after tax 3,850,478; Operating cash flow 6,121,061; Quick ratio 1.2068.\nHealthcare, Kedah, 30 years old, 100% owned by Director 1.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "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"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115464,
+  "id": "xUn_ar7sJJ7Cg8UP4dHtoAc",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 126,
+   "prompt_tokens": 3002,
+   "total_tokens": 3927
+  }
+ }
+}

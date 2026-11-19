@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "ee90e40761e94295",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Significant, consistent decline in revenue and profitability over the last three years.\n\n*   Revenue has dropped sharply from 37.6M (2022) to 24.2M (2024).\n*   Net profit margin has compressed significantly, falling from 5.9% (2022) to 1.1% (2024).\n*   Operating profit has declined by over 80% since 2022, indicating weakening core operational performance.\n*   No legal or regulatory red flags identified in the provided record.\n\n**Financial Snapshot (2024):** Revenue 24.2M, Net Profit 0.27M, Total Assets 18.6M, Total Liabilities 7.0M.\n\n**Profile:** Manufacturing (Plastic packaging), Sarawak, incorporated 2005, 100% owned by Sejahtera Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtEECs4EAWkUfRP4yqStGL3mOy9bC+QNM6aCvd/GP8jTL7oB11Cc3P6xXIj9KfPTinznkZzUUtdoH00diF1jpFnVZfrTet8p9kzX34P4TH9qAr7+oLSlHUCo3zYJu8EssYkpI1uVoLBauYbMcIP7MUM3BehYlIDBohcd5ew67cf+ddf7TA35VtNxoNa2avhEOkpTe7BORGEJNdzIPLDPY2gJ3g8iLTB0kixXtP8Y66mO6RvaatVohQgeLqb6zXj5/rE9mNK41q4sj7lmUuo6k4PgG43P7KuvxKvbADBSLAIR60/+Ewc9CPgNQwIEFgJq3rR0sOUP/XwNfVwCoUILPmM4L6aosOOs8cm2mVUVnuyODKuf0eB68PFKWuTfoC28Sxtr+pirgKVtwV0WOR9zmDQImctjkdS3OwsAbX4B7B+q1DXAdgqmzK6Wt79UnXRi92gRNafGESTW2/1gLpe1axbjqZqub8lnNPTDszw6rWHg+QvN057lQgOWYxoM2en3qFRox3XMVyoiyvx45/jRbJd8Nlk2DCjek+HdjnrIIzcaajx6AphcFLIAz/QC/tNpn/KAriKHGtUCjO8bu+ctGq3OywibyzvR0d2H9f4dmkVWA/GHBvOH89WTdmg/MZTCPnMiCaof/TfhHTm3dURcDTvqfhN3D+uM6YUgt5Qk1tA/biit0BNQ2PZZiNKD5c6viLHCmIOaZhywv9Fkwk4agjvuNHDCp3cYSWafUHL4v4z2LFi9D2yWduzUpWGupgFsRp0nNxGBpIBdMxnchet9u+Hh/QQ="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115952,
+  "id": "rkv_as6eL4bn4t4PgKvP4Qs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 204,
+   "prompt_tokens": 2795,
+   "total_tokens": 3122
+  }
+ }
+}

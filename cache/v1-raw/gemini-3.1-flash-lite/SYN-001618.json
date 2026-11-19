@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "5d65f436e01874e4",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Persistent operating losses and negative cash flow.\n\n*   **Consistent losses:** The company has recorded three consecutive years of net losses, with the deficit widening annually to -1.26M in 2024.\n*   **Negative cash flow:** Operating cash flow has been consistently negative (-1.05M in 2024), indicating an inability to generate cash from core operations.\n*   **Deteriorating equity:** Total equity has declined significantly from 6.22M (2022) to 3.81M (2024).\n*   **Weak debt coverage:** Interest coverage ratio is deeply negative (-15.97), and the debt service coverage ratio (-5.19) signals severe difficulty in meeting obligations.\n*   **Working capital deficit:** Net working capital remains negative, highlighting liquidity strain.\n\n**2024 Financials:** Revenue 8.19M, Net Loss -1.26M.\n**Profile:** Hospitality (Travel Agency), Perlis, incorporated 2012, owned by Murni Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErUECrIEAWkUfROFP0U5jYegsabQGRk4xOz6EaKOv1k/51BHSHbpzZkGwgKDP9ofWd6QtSoSluVC7X7d9H8MbZ3TEDKNFg6WYSkZjo92WxJFGqR42MUEYF2wtHBJKt3QSmzonGKai14ONLy7ZFZy9V/RJZT+BRJzrh8DottU3J6XJGSbNrcqJ6fAhOVfRpKycF2OgHKG7EKsTAyYMIY+KhRyA1r/eKudvHYl9taR0ttDmx5bkgTSY2CQZA1726LBRXlVeiLwwhIOGpKZnI6oo2nattVO0YDPtZa2YfmytmmsEdDx1QE9gzFkpEJyITLoX1hOtpa5GQcetW5i8lAXSpp6Z6c4OJrE8lpNFWxSJlwfBOkLikDELKJwKvvKCaR3nOqwRI3eXHXxZA24NDuV/h6IyGeaWLuRCJS0BsgQIYaFLXL6OMWycGzxE8y16ZLXSRmWosHgXq9qvrmF8CJpMdLq3T/x1S/apxHdwIKV5xSCSEbyBeARSOXyR6DyAWFVxCCDdRy2ctcBO/KLAe2nl3OVwqxrsUnhZ9RGGN8NFHmuXnv+C2YqG8DXSVYWLQzvtlXaBGjEIcipMs5zO0g05RiK0RJg3wBrwvaNHm8oau9g4Sg0RCI2gJqoW0SUFZhjG3dsHiK0p7Tm7yTCxR6H2pUdsVqNgcv2hhNSWME0kUW1/VRnO8jVYi3kxZTizZElJZb45TIpnbegaXrFKnkXYduLvPYXY0c3TNcN2sArEyWgtmFpqlVGYg=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116304,
+  "id": "AU3_aourBbTE694Pq7_ziQI",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 240,
+   "prompt_tokens": 2664,
+   "total_tokens": 3024
+  }
+ }
+}

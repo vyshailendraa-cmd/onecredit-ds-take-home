@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "8c5a02bdedf656c1",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: No significant financial or legal red flags identified.\n\n*   No adverse legal filings, winding-up petitions, or judgments against the company; all litigation records show the company acting as plaintiff in debt recovery or contract matters.\n*   Financial statements are consistently audited with unqualified opinions.\n*   Profitability and cash flow remain positive with no signs of distress.\n\n**Financials (2024):** Revenue 20,207,092; Profit after tax 944,841; Operating cash flow 2,089,111; Quick ratio 1.82.\n\n**Profile:** Food & Beverage, Kuala Lumpur, 11 years old, owned by Director 1 (62.56%) and Director 2 (37.44%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EswECskEAWkUfROpt3flbs0xsC0V+sMz8wkELzkk7e8b2jYJ95IyNJeMjr5GQDzNKMxa6zrrwnzQK8M8BiJ0f4nFPSPp8fBE/qe87UeQvisAJMWpOM+shm1lltfGelPwCIL3inUaF6FHsfbcJtf1j6R45pz1U6qd2OTE4rQcSgkXO9WR3nf4UKu5QBpKAf6WeQdbAsy8XZqQMIOmiDRNeOnHKvLsCvsWLFRbOwuHBfoada0kLlB101JIQ31SoU1Fs0enH+hucJVqeWh8cr2mksHFJuJ0S3vzdEJ2ibMAIrRkfTab6cylB4+EvLSvil5L5odNYIC3yC/5to4JHQUehvDuOzeNN5bNfkEzIepq+Pu8v1U4W80nqOz6qY35Thm7JvZN0bThqfWG5ZSGidjvX/jxWCYDKanGnUEzGwYYXtFLgks8YKICweYyyXp18xK2BRUuegAm67QL9zNe3EJf64N6IFYG7QNQvwwS3OXDbYEKFd4GvqDhljyZwhX1wTlaAg9Pp9OatDWUBThXp27iucIDAcejXg1JSk4YIxQ29bDjQ6aPVsQwIg+Hr5n+pIymiz7NTlDrF7xfsjEB6qtYnvpnQE0XNMaKD2TGy+x6AwXtfkIDZVneWvNZWvi5/RFI9A/SdWIp2+yYDOFa8g0hWLiMqz+ktsCRmp6icu3iOTwCtOkg+8xxReoZ2wAoAoGTvqY6M/sHMF4Z/rraeVKqUvnvbX0k/U2N25MelVeRv74QkPskwdvR67NHRypvkSQ1OkuXUgwYjbsWRbNXuC2x"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115845,
+  "id": "Q0v_avvjHa6mg8UPtrmnqAk",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 174,
+   "prompt_tokens": 2617,
+   "total_tokens": 2917
+  }
+ }
+}

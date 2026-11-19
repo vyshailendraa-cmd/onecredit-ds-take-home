@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "c7029c48e6b75a58",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance with consistent profitability and no reported litigation.\n\n*   No red flags identified in the provided records.\n*   Audit opinions for the last three years are unqualified.\n*   Positive operating cash flow maintained consistently over the three-year period.\n*   Leverage ratio has improved steadily, decreasing from 1.48 to 1.02.\n\n**Financial Snapshot (2024):** Revenue RM 27.55M, Profit After Tax RM 1.87M, Cash RM 1.44M, Total Liabilities RM 9.72M.\n\n**Profile:** Education (Professional training), Kuala Lumpur, incorporated 1991, owned by two individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EqIECp8EAWkUfRMGlySQfZZXXclL1TNwXBeMdVxK1eKvsr9zs86w0pJgk1TXqQju3qhVsWN2rX27t5lp9G9LZJ4LSb3Yq1a95mk3XZif2NjBz5dZlqjgrKwzYp7i1NWeJa46X9WWULOWfWGFUachfvDrI2qv1l/xUdFRKFEYra/Xltfc8cJ4/blUyvRMvntAoJAAocHIB8quJHryr9Xv7VxM+72gLHLITOXgpdk8PBye4sdv79QB4614513QtaQvCXniONfaGl3a/rjIhln8hpad6rbt/IW1oqX2wWBfzaRrNWH58g+fa+MtaN7kMMd7fA7FwSf1JqtNgrfKzFf9JMTgVqUa6KNj8US6tFu2DmP6SpgelQ6/ir1/mfGUpe9MOnPs2Cjvsgyh1rV5HDpQmWZIbK+6WTU8UE/7IrsE6Z5n3EK6/DBJtP/HgxPdXfGdczZuJhcDh5QU7UP9xP2+wn76HBPQ+JX2GZC1BnCZR+ye7AesHcYZ0Rt1vOHdcflVamqwPTbPY0d7Z9UJ+eQkaKEFCc5QNTmmxECvQSU2kX9T9zewtczshRlUqZPOKRSXIW9bTfEWV+hfTFNTdTt/j8CU/ZUNqOwwy3PPtJBjIeB5xqsFB/LqeADnbHswgqc/4vSQ3wPQTPXvphRbx7ROqlTXAS3K5/pwLfKUqbxzNS80NT9uN60wLFwzgK3SvInZQ+urQbENDShEKRgWwyxkVQk0rWEM"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115901,
+  "id": "e0v_aqXiM-Heg8UPmrKbuAo",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 156,
+   "prompt_tokens": 2668,
+   "total_tokens": 2935
+  }
+ }
+}

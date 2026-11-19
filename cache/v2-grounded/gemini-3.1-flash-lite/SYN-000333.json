@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "20369eb39325d411",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Lack of financial transparency.\n\n*   No financial statements on record.\n*   Renamed from Unity Industries Sdn. Bhd. on 2025-09-03.\n\nFinancials: No data available.\nProfile: Retail, Sarawak, 28 years old, owned by three individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Es8ECswEAWkUfRMR1MPcJq3l+o1Qa6gMy7w6X09YcJULaubd9HF3bF41DHxrqNL/VEwmdJK2giHfncclg/MTgZWBSB9zxglLldv7KmGmijhg8Wxr+0SvZCthQ6BVvNrnjNy4421jZ6PrZU4yWbtxIkLT2VS2uPRsxLdU+5zaeXRAwyQ4uYGu32/K/V1qlHdj75WrxhE54dV8KUz/27tT6DDGgbrjAZjaE1+m+REkWzEOel99Oo2taEKu7IwPROLAFR3SX+Wi0pZyeSCsmdLc5W4rs4+0W88DlhAKtKayotgfF0w7DHE/TuI+tv772d97YRcFR+9RkuRoY3SiJYXXQKTzZCaMbXcGAC2sWd4WPIcysjN34VElpKqPSo3vMw6hUEEVxJm8BSnoAS5klKnytnlTC8liYavDpTtmk4rwEtlci+exfft86jNk3rauqew39s44jpKv4ihs8FVwQRT7fzYblb+VKtEWMn1B8vupaneT2ar1vME5/IAg12y1LMQqI9uu2bdwVKSxca2nz5pGtGHtGdn7iTo9Clk2sx0UXZfeldy1597yQiyAWInWVQLH0FhgMDdKYhrEh9/XT6VfHiQL5w8qsfHB2MK+hCI8G/uRGZkM3MPSl9oZPx9v8wkYIX5Lk++sSVMf3/etIUrz83w3yHNtwWSpjcN51LtAS1KIbY5xj7k5t6IJzh6ZH+LLEFGWcc29ZafdpyE+eyHnFpylE02FYgmJ8tGE4eHChP7DaNB7n6ocFqaSbh8pPKt3jGqHBBMuvSwjrGGABu4IACUA"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115343,
+  "id": "TUn_aqzxKuHeg8UPmrKbuAo",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 70,
+   "prompt_tokens": 671,
+   "total_tokens": 866
+  }
+ }
+}

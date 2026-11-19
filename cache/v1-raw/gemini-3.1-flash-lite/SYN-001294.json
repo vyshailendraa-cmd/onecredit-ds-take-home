@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "03e3f7891c21d880",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Operating losses and negative cash flow.\n\n*   Reported an operating loss of -769,661 and a net loss of -843,149 for FY2024.\n*   Negative operating cash flow (-164,558) and free cash flow (-872,081).\n*   Interest coverage ratio is -10.47, indicating inability to cover interest expenses from operating earnings.\n*   No red flags regarding legal status, winding-up petitions, or judgments.\n\nFY2024: Revenue 10,153,873; Net Loss -843,149; Cash 785,513.\nProfessional Services, Pahang, incorporated 2023, majority owned by Director 1 (63.59%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Ev4ECvsEAWkUfRMRpjDFBNknYRXvMf/tRds0kqGP4k8NM6y5Ukv7B6gVE9T77F7az3datRnpdPJAJ1k1+/4jrothatPzFhu4+Hulb2ZsFjLrnrzcuGXJbGsP5qrImuv1380+EUV3u4CkBE3htnKwU0j1r9QxZ85omMVPLlPzKZDtzZuA2aLo8vKv+GuyZvdyPFtdzt7A37JLnmf3p8HUW3mbBsT1FIHfUJ5YJ7YTqADSc26ynNi+aDRJmB2xGS//BhBhqef4qNg3kZFub6rnapDOEtIN3e2cC8U7CbhcRsI/Jn1cDt3s1j24X4b2H8sBh787gs6XUDHLrmNKWgqCaQyJfVA8TKSIBfi+J75Hm7KFeiUeCeLhjYOs6pKBSuFVD7YNZDG5w1Vc9i4muIQJmF7wnwE6GdiaSOVYvKaOiT0KN20Rgk+V4iLKlZ/0fM9vrskrWEHs4b9nhfrNnQc8I1UtJrzn5p8mqNYdmykumKKGS6/dOk4iOxJ7NGjdk2Pt7HW9f+quhcKYnD+hm9jnEy6kh13HEmjn2wgaWwLsUBx1Hb++Iqt3oUJIPkKUIw6B7pVj31Yo4EN1xIt97HAraTJHg6EHorKVG1BjIRxcmTjZCsPKIxCsR8iG2kly4JDS9e5f6xVVotS92PhGCspaGhBlBArllF/Qj0+y9qvYQX2GRKZKs3KsJAnIezM/SNDvT/F6YwgEvH93wOu6iUHh7mumuGd9GHuY/2Auuz+dH1Z++jzoaCt/FKjo+DWZUw5LGzjfATIe4iDssIQkWP8hhMvIqxvNX9INitNRZCbxKYDdyym6wGwEOdop6HBJXiOc9gpmnYj7mUM/DIe1SuItsMY="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116184,
+  "id": "g0z_apK6GtaumNMPxI_NyAU",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 187,
+   "prompt_tokens": 1308,
+   "total_tokens": 1635
+  }
+ }
+}

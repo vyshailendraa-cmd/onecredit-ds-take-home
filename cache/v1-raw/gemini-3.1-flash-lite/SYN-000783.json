@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0c70209431c8f810",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Recent return to profitability and positive cash flow, with no outstanding legal or audit issues.\n\n*   No active winding-up petitions, judgments, or adverse audit opinions.\n*   Historical losses in 2022 and 2023 have been reversed, with a net profit of 3.85M recorded in 2024.\n*   Operating cash flow improved significantly to 6.12M in 2024, indicating better operational health.\n*   Debt service coverage ratio is healthy at 5.07, suggesting manageable leverage.\n*   Previous debt recovery litigation (2022) was dismissed.\n\n**Financials (2024):** Revenue 57.99M, Net Profit 3.85M, Operating Cash Flow 6.12M.\n**Profile:** Healthcare (Elderly Care), Kedah, Incorporated 1995, 100% owned by Managing Director.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErUECrIEAWkUfRPoGtKOYD8Y4ArSbc16PVgUff6NFtxjtiogO5R/hNEmWp0VoTQKd4k9jypD07NbMngf/uw8lfleRfQgK0jCOeqzAt8Y4YbqqVmYQTBz8ovi/c973Bkjb2YMdhkwGEc2LghQyZ1kkdgB9Ed0y+WTJE6srGEb8uGk93wBDGGTNqhiUN6RXKNhMpf7UBWVeZ4XUt9dB/7tfxhDkkZ5+o9L1T6hkkobu04a8wYUz0N4vc0XuNkQPVkkpo261csb0GHJYuBEwtdvO79TyomwlhpsKVZykW2nK2PR48R5CdBRfqBKcSXdRhtuAdTIA8wr3qCbVwWHtCDmVkHvycOwTKjU/bp0l49tP0EPqmEVBXKbrVOcJdq9G2DpTZs42JvTyJpXxgR2YFXnISP151Fnl5ELb8rTLPa7eS1j3tThG2J4w+nleEiMtcan/7IKgH+H9pf9+ys/J/EOq5yNrK2MR6LhqHxawdNNSRmAYTWfYW8D74fhxgNclMWpqaV0LlxkrjtMNfyXI1XEej7oYyeh6oVwO514QcQfwl4SqDJZZ1QVGA/Izs4v4in4ix8J1kbzo00sEZ65r7waVvU6Mqjypxle6nwUAnei5+dugtzhWUBP/k/JYdq0pEwqZ75a3Sc2QHI0XP+rQ2gVSBt14lGGOMX3QLwmhY+X+GRSD/bALYvpjlOQ+tvVeDUIkuT8bM7E6bJ00FeCCKBQUxVl5js6dyVz55w333huaqJEbLWFGVmpAQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116033,
+  "id": "-0v_arinG4mz694Pn67UkQw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 210,
+   "prompt_tokens": 2786,
+   "total_tokens": 3115
+  }
+ }
+}

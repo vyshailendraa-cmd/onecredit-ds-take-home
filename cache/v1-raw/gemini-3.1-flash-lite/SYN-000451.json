@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "526144de50c6594d",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Sustained financial deterioration and technical insolvency.\n\n*   **Negative Equity**: Total equity has eroded to -18,522 (FY2024), indicating the company is technically insolvent.\n*   **Persistent Losses**: Three consecutive years of net losses, with net profit margins worsening annually (-7.8% to -13.2%).\n*   **Cash Burn**: Operating cash flow is consistently negative (-138,894 in FY2024), with cash reserves declining significantly.\n*   **Liquidity Pressure**: Quick ratio has dropped to 0.63, and net working capital is negative (-17,735), signaling inability to cover short-term obligations.\n*   **Debt Servicing**: Interest coverage ratio is deeply negative (-5.37), reflecting an inability to service existing debt.\n\nFY2024: Revenue 2.08M, Net Loss 275,562.\nF&B, Kuala Lumpur, incorporated 1995, owned by five individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErwECrkEAWkUfRNESY2oD17S/gdL1bT7fwUOXeSUTqxi+iRmMAzUNxYw3M1kOLc+QJV9IHKzUOS6wK7FixxjyAP2ISXOXqfuCSPJsLNiNDNWYTjmP0n+hzsFviMHf0rHSg2624tMImVdWw0/GGG57N8RkanxdU9w6SH4NsXhTqJGyYOkCJ57uC76bV9nWeS6Ue6uVbIPw1cECr2aZGIddAiWMxIDqMti/5yM5C99QeGlSj+jIlyylcJuRHaQgonr4LUUG3qmo34kR+Q/kcJcTl/0yZDPP63+Orl3S0jKGQsuAydN5N1gWanmyAenVn2pwp57ORouod9UUrDv7hlOcfPcCA6/UCgsfNakWOP41zOEbAHmu+yxbIIIuayJxiavGqjGP16Yl+z4/I4vBxm/0CYvbVTs8CBdWEHHKw7mJXjgNNF7ZQyugSu1m4q89aPQSoypETNpCpvzxCExyKmdfaC3qs/Hqo3vnwp32Sz95PEpyHqajLheVzJL/tOeWTE/FYt8t4m1ZgScXNaEod2ljk89BTJ1qGIbKZjtiXDPHtCsvXL9bIF6HEYlisS7JdGt2Pxb6TEi/PJ06VQxY1o7mok5zzelTNnWbkgYXG3Ys5PDMGU5oi2NxBz6wh47YQvC4SQXv1/+PwsoFphoWQ+0D4rV5kUU1gj0MExAJeTx0r4qNLP4yLDFN+yq9nwa90cgZODUIWkix+9OxW9HFFWSifQASGftf7qVF+tp7fcerjmJ2nCzriYiNxXbnrr5sjA="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115945,
+  "id": "qEv_apriFf2_g8UPxLPvOA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 228,
+   "prompt_tokens": 2958,
+   "total_tokens": 3309
+  }
+ }
+}

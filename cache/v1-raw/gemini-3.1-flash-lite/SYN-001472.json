@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "f098f27034eec072",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: High leverage and tight liquidity.\n\n*   **Leverage:** The company is heavily reliant on debt, with a leverage ratio of 3.71 and total liabilities (12.26M) significantly exceeding equity (3.30M).\n*   **Liquidity:** Net working capital is negative (-20,572), indicating potential difficulty meeting short-term obligations despite revenue growth.\n*   **Debt Service:** The debt service coverage ratio (1.09) is thin, leaving little margin for error in cash flow.\n*   **Audit:** No red flags; audit opinions for 2022\u20132024 are unqualified.\n*   **Litigation:** No legal cases reported.\n\n**2024 Financials:** Revenue 11.48M, Profit After Tax 0.58M, Total Assets 15.57M, Total Liabilities 12.26M.\n\n**Profile:** Manufacturing (Precision machining), Pulau Pinang, incorporated 1996, owned by two individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Eu8ECuwEAWkUfRPVglGSBHMIyFOrhwSyhOdTxb+RdCgItyeQg2dA93PvDsz7hTR5ylmne9LcmLWRGKI3NDZXw5kdpLFt8HYJ2OPiwji9mxk0K6Fo6/WiTwr1A5AWlp5Y1sQH/sTO1LbayC7lx2zoMgPWFqmv3XYaCvL0cSyaAq++mpji5SZ858bdeUXcVgJRikEIXPb2sTEOoCM2eEqcY2SqAizlRTsc+8wnK2clJAkQDJ0iucNaE6TKXi/aLAvTrST8gdCztZ0Chrb0nsBo5xKNkkPQAaNgOQYlpIUUWtE9dMkHCih+Yl39pKuZca0I5dRkRBO78L1HbeaW+wDtMlpqSuCV9bsBFBplzXr0syCcS6lloSygH7HAdVdLNK6BJEXEAXjOYf+ajTx9FJzVVmqqtAw4Er0cxkHb114O4VT+4G2EgrEnnlMCorT0QOmAREDxlYSUP84HTCIR8GmCMO+NB2UYjCNp7OP92pbSq7LDas+3Gec7nNOXQVZzaz/XDMiMoa6x2gMbf1UUpraMhqsEb0TgOyI1gNXd+QqbJKjVTN881i5zwEZd8KKmBo2qNR48Lj9X7gcYO7Ytxx3P5Y3N+aiXinZ/ENxsJ6mqU+/IeO/1vIbwq6qcxCasxHAEtclGTbvXO6EGoI4mLsmso4MvgxmA742LaYoDaMRsUNoLHs+AjxSafpGUhfDWpTRncx/cJcgKc5NwTdcmIeXqc4zxxgHRUCUhTZHNA0V5VMCrFkCV779E3rfyitPL4X9dOOfGohJfMjFXIfDIAjdA2wYF6B3MJTdEtIiOHHVgL+4ToKxrwKwWapoCR9WtQTIx7t8="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116250,
+  "id": "2Ez_auiJA6Xq4t4P3t7qMA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 230,
+   "prompt_tokens": 2690,
+   "total_tokens": 3051
+  }
+ }
+}

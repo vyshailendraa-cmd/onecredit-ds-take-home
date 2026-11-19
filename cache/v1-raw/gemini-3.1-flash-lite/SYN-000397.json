@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "c9141e0c2661ffcd",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Significant ongoing legal exposure and history of adverse judgments.\n\n*   **Legal Exposure:** Multiple active and past disputes, including a pending tenancy dispute (RM320,300) and a breach of contract claim (RM458,400).\n*   **Adverse Judgments:** Two prior judgments entered against the company, including a significant RM721,100 tenancy dispute.\n*   **Recent Litigation:** A substantial debt recovery claim (RM7,427,000) was filed in late 2025 (noted as settled).\n*   **Financials:** While profitable, the company carries high trade receivables (RM1.85m) relative to revenue, indicating potential collection delays.\n\n**Financials (2024):** Revenue RM6.86m, Profit After Tax RM371k, Total Liabilities RM2.24m.\n**Profile:** Education (Tuition centre), Selangor, incorporated 2006, owned by four individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtUECtIEAWkUfRPJDeWrftU75XCqrMQzSzaa8p8fARkAo5ZFVfx7FQk2qiivjstEVyMD2RDqzFoLlbnFSX2ZXZM7P8LH7L8cgD6AnBlJzlkNHa9lSXcJz6+gChvVDgZXrqReQ426KM6A38olrFSb+WNvIyrv8YkzFoqjL91xtMOBCAwalQeA/NEVYHjydb8iSLlfEBh/OrDOFdNBgqShSwvGlWysFKJDfZlxUmTsUGAVoE/Du0pGp56vIMNLSD789oYYL3nEBWLTjTxDeRc3bq9bc32IFcXDFfzXym3ZVCmlVKDXI5BHSzHPBlYldfI2a1JQT0q5PDyAfpbaMYxvMOfQTaomI6Ld4wKiYzcugPBdkKsU1fFiVMg7DNUzwr+Ck5Gg9UFH5OrjsZGkTbMB1e7Yakqd8rHrMV8z80pl+rHLZqyH2PVCR3bEe2406Ll5WGhacDiKcZZU6tDoPTDrh4Y3ErrF4Bd38f7CoHgZIHfi4RvT5hHs+eYie1ewmirdUiXS0SlXY4YmLZeOlZlN913Czj097zPrM7Jl0YUDDAuNTt42I2dVP7L00+1gJ2E+LtGlEPgQ//ykWru8PG9um6bLvBfTKNKFw1iZ+CUEEqN7kLTyoZ+kCsj7jieC9Jl/4IeZoiWOcuuny5YOFDQOif5zvgG7BWMfB042RC/W2kZMK5hK4DX/zsoVLYKV8M/ilmLXUILVksv7e0uHONGWBl9q/boxAycIyMecmGKvIJJiU+U+3ai4muWmMSk7LOrq7GIb4e212zuCAHbq5U1inCjQQR8G18QH"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115939,
+  "id": "oUv_auraCfr7694P2_Xt0Qc",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 223,
+   "prompt_tokens": 2485,
+   "total_tokens": 2835
+  }
+ }
+}

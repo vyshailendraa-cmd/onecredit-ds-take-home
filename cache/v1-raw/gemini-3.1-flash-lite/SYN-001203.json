@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "1f2066b4dca412bc",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: No significant adverse financial or legal indicators identified.\n\n*   No red flags identified; litigation history shows the company as a plaintiff in a settled breach of contract case.\n*   Stable corporate structure with long-standing ownership.\n\nFinancials: No financial data available.\nProfile: Logistics, Selangor, 17 years old, majority-owned by Gemilang Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Eu8ECuwEAWkUfRMdgwUqD98CK1TA5nSnpBgA0F7AcNbvSiWbsWMXLQto3j/kUdOwqWg4HVgixBZEg/m2VihJKejTWtTGpbCQXV36SOBWWTWroLqGl8lez0SY0vjVkmcvzGlC3NFH4AXDyGZOjAl8WkHFGwCReC1z20tHRiUuEtVPxYViXnHHoQEKquewwTX185qtApw0AG5o5gyaeOU2EAoTD7GIXtiN3s+ONFwsuHWbkv2rV8nGBZ242QJ07g6/CQDp1lDbmrf3PL4KKXY2S7oRVLfHuAAokUFbCtvJklVygo5ZLhlCyEUMGMvnc2AswzJWMfstFn+HIuuyURmhI5MZmkRxZxrECqc1juwbN/dTEWYFnvCQqwbBBedZHazqyhzqZef+v7CHGO76MRk8hwOGi3My0csWUTjbAHa8Y8nL6C8ls+wMCVAk0B1DxAyXRjyKl25d4Ro9phfUpj6CumfV3O9Fr1yXX5AQ3RyD/L+hPA3OlhOHS7O0bKS4tnQfUwLIAhbZEpsr3p2QxCedw/1J2p+I4FSHakyh/yu5KShjIQf3L/wEIZav6+USWK+ziMB48J5a/FNZpgBfymq+7HNkJkjd8yQVM2uCTHZ2ACJS3pg7+afR7wXHT9Pcp1BA/s6KYnIV/bEh0Ruqhjj2NeMZUD65uqy07oDSgHp+tuW4r0paZLxQ9t05jmYvfjqeWvGJ06uftbdQRKxSVYExEzX/UexmoysblPB//regj9E7l2c4G2DuHwGfEBRy8LTYyCWmkWriRZtfYL/Y147Zfk7XjV0N94PA7Duh4/m+Le4DNo3IP3AcFDM/9izavwqierk="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116141,
+  "id": "a0z_aoX5JIDxv_gP_6zO2Q4",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 82,
+   "prompt_tokens": 584,
+   "total_tokens": 802
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "88e17fa7e9d81af6",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk** due to persistent loss-making and severe cash flow deficits.\n\n* Loss-making in all 3 years on record, with a net loss of RM4.47m in FY2024.\n* Negative operating cash flow of -RM4.46m in FY2024.\n* Critical interest coverage ratio of -9.15x in FY2024, indicating inability to service debt.\n\nFY2024: Revenue RM32.08m, Net Loss RM4.47m, Operating Cash Flow -RM4.46m, Interest Cover -9.15x.\nFood & Beverage, Pulau Pinang, 35 years old, majority-owned by Director 3 (54.63%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "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"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115428,
+  "id": "oUn_aovbHsTW3LUP0Z65gQI",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 168,
+   "prompt_tokens": 3112,
+   "total_tokens": 4262
+  }
+ }
+}

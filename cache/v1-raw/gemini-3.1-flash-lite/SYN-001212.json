@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "8add299f9a808f91",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Company is currently in \"Winding up\" status.\n\n*   **Legal/Winding-up:** Multiple winding-up petitions filed; judgments entered against the company.\n*   **Litigation:** Active employment claims and recent tenancy dispute judgment.\n*   **Financial Performance:** Significant decline in revenue (from 6.9M to 4.5M) and net profit (from 405k to 38k) over three years.\n*   **Cash Flow:** Negative free cash flow in 2023 and 2024; debt service coverage ratio fell below 1.0 in 2024.\n\n**FY2024:** Revenue MYR 4.51M, Net Profit MYR 38.6k, Cash MYR 556k.\n**Profile:** Hospitality, Kuala Lumpur, incorporated 1998, owned by three individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtgECtUEAWkUfRPI1TwspmKQjludt7D1+hGINf13NfXHPx0WUtyAhehMj+5q/MKqfvgUDFlJSlXEIpatzNpRlUysuBGB9N038bn6ub/RYTnYVLLw+tu/UUgoH27GFyf4ir5U4UTLqWlZs1vS6Oc4Rp2g31kOeGwbUjBtL9Mfn6GrqVFT7lTxmBfDdn7HytFOc69tZfFxU8VvQKHrXj0zYJb4RrEIsofqPv4ATf4UX9dbT8nwq4gXxYeXTL0CrrqMiylZkB+pDOiOzbiYmVuhkDk6DJ/4m0nqszTUCop97XTXFZKUzy7yeFkXK7m8Nj82OybuLoQF3/EB2OktwLd6deLfzed3dDdJuPccem/sfTYi7+7najBkJn6qfyJBe5pwL7kqqW33Re4Fz0ISEwzSJtwrhd7mElJ1q0gYRd1/6GxpiqBsdCz9hcsCb7LqZAwKeAMEfu3ho+f3MDu0dQ9PBqk6AiXnJ1ZEAbKvjrvCzfcfJGf9kClY5ySzFRt+uYfKYhjamzZZOclers6xqQd/GmZZagO1mQwuOCF//cCzmObv34hndwmXl8PZ84G2vPlHQ5opofJN0XjOUjE/9cAI3mgzvt23PQGwprRZhx8vv1av+MKZsvxbiDo2jUr/4yJhMzQ098kBEQOE1VV/1VPBIA2dTMXsGfhm+rNRN7vBtsOiDqY/Buy2XQ9p/opshjYFrBFQL9k4klihq1ln2c55MQotOdYRhzBniR3JSJk/B7HvnaTjVjVkifBYyV9FA/lohPmVnP5mfZBCfDsxy3bnsPirscoGEgJCcaKa"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116150,
+  "id": "cUz_arT4KOqKqfkP48DEkAs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 201,
+   "prompt_tokens": 3370,
+   "total_tokens": 3702
+  }
+ }
+}

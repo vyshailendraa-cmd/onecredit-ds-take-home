@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "c94e34f396dd48ef",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Recent return to profitability after consecutive years of operating losses and negative cash flow.\n\n*   **Financial volatility**: Reported significant operating losses and negative operating cash flow in 2022 and 2023, only turning profitable in 2024.\n*   **High receivables**: Days Sales Outstanding (DSO) remains elevated at ~122 days, indicating potential collection delays.\n*   **Rising debt**: Borrowings have increased year-on-year, reaching 3.59M in 2024.\n*   **Audit status**: Unqualified opinions across all three years; no legal or winding-up issues identified.\n\n**2024 Financials**: Revenue 25.65M, Net Profit 2.22M, Cash 2.97M.\n**Profile**: Professional Services, Labuan, incorporated 2004, 100% owned by Pacific Holdings Sdn. Bhd.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsMECsAEAWkUfRMiyqh/d/ZKaZrb5b1zpeLO9o671aQWVFyBwce7st/NDCFbC8Xt1kBy875oibMNz7UKAz9O4cVjnVdhR43FHnM9eblYT32oogbNos0rBZWDLylyCd1kw4NQST+ASOtgriPRcV30Psiu+RiJKVolSoxm6Tp7ZPNNpdSwP1NyULGAlx1Asu9kT463fU8m/80FL3+vhZVh2mBhUf0FpthfaXUwKQ61kEfyhw1ppUARJwr0Q4nuJdiegpvrmhENzL4l7OedqdAjEnJIPB/sbzUfUeTpa4Z4PpLYrdYxq0FyhmETpa+R9zzgw+OX0uARziZ2FRcZs9oNsgS9FJJB2L+4Xw61vlyGF8LRWOhn2D12+5hIpjg2J1brTk4iKLHTb7AMXc4HkWv9p6kFfaraovsxahin1B3U8rCjDn1BEtxvKxBUTtUku6QDb1UZ4WTN+378GK930J/gqtFNsStp5zJSaRxlPPzm5NUNoWA+o5usm8tXnB5hsPyKfsX845R1KGS1GP7csDgDOTw41IoUr+dPmhhAXhLgtjUUAhyHY3wcpn3y979y6tz8aAaRY+mYGCohg6G95z4F2NaiSZu+sgImEQREBsMGYNO1L2sZEuh4QwkweiXYx8ZnJQaQVeAHA3zGExB7PCp1JX4V623GiLvYYx2IF0jUE7Q8EqSixQm32UpBQPJNMBbZzUsCxY/RZiRsJhm5HOxB+RxL22NVwea66CnF+/O9N6KcYpLY1iP/ooO24KxNmYjTYNlQpp6h"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116243,
+  "id": "zEz_aqvfJ5Cmz7sPis2qMQ",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 206,
+   "prompt_tokens": 2754,
+   "total_tokens": 3084
+  }
+ }
+}

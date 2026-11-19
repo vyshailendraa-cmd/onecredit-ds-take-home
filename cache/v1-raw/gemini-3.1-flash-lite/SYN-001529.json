@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0c824d6e87d2974a",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Recent history of operating losses and high leverage.\n\n*   Consistent operating losses in 2022 and 2023, though the company returned to profitability in 2024.\n*   Leverage ratio has increased steadily over the last three years (from 1.41 to 2.10).\n*   High reliance on debt, with total liabilities (7.64m) significantly exceeding total equity (3.63m).\n*   No legal or litigation red flags identified.\n\n**FY2024**: Revenue 16.15m, Net Profit 0.75m, Operating Cash Flow 1.89m.\n**Profile**: Manufacturing (Precision machining), Sarawak, 36 years old, majority-owned by Managing Director (75.67%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EvoECvcEAWkUfRNSEgaNGp/pigIkBPBo04alVUCct4f+NZ9Y02LVw3kUp3JvT80BX5XVy+zGZKswaWb2iVZRAgZQZ8/8W1QRLQ8cUVTsadarEQNNMQI57ltT30grlVYhSjG9RrzUNgWa0UNtTM0Wh+vJytug9D196ksmWZuF02zBWTuZfCJ6sZIVwFRcNOmbP3VcgCBpHz0a1JUdCOJMF0ZpkZ/YU4BHT4e4WbhjvMhVMZKz2hd1bPWampSj1vRxej4R8oPeVxQj4Q6yetzfTLHonO6LqQawIo5gki44DlBr78h30gaGYEcTL9j3MBN3+bgycZaQXqwDuVcIWguFEzy/hY9coN2gcTIg3QAb1oqptI8t0/ceFV6AnENhMcn2NTc9Rm5QhccID5j5oddCQahVIMiTMHmtALylTdgErsrOBANXWWmaHrKn7Hz7mzQKtkc/moR7op3Nv6+m5RzDLLU4wvwCWjR25EJw0owgw3TNJBB8tQvjMOMRiHAs8MJcPSrgxCPGsCx4sTyk2hyLyep8qgDL0ln2bLLugTeK0SgLB2+pgwJOf2M09IQuYMvIcyG5B8VBrHjv8XrbIimDw0vNKs2mY+/91rMAh5N81RDOH3d1dlUtcikjfgMqChNRzRw5hN07uJt2XZXh1czhvJvnkzpe0T8kS6n7l6MJ/l6VR7bugq7Ni0Qn/skE9ijJvFdP6Vo3ypCD3NK2jIb5b2nmF1sikolSy4zA8tglmNcXCRerXrX+6mv6Hjz25lrTw4Fwb33gDNb+v6vnznwqDQm+TAWGTlJQG2O1nte4Pep6LlIyFdeVqJ/uJ+Br0UCDh4xqvS86QHYCN4OiLQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116259,
+  "id": "3kz_au7cIuzu1_oPg4_eUA",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 179,
+   "prompt_tokens": 2798,
+   "total_tokens": 3111
+  }
+ }
+}

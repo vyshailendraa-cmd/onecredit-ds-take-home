@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "4fc3203e5dd05a59",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance with consistent profitability and positive cash flow.\n\n*   No adverse legal filings; the company is the plaintiff in several debt recovery cases, indicating active credit management rather than insolvency risk.\n*   Unqualified audit opinions for all reported years.\n*   Strong liquidity position with a quick ratio of 1.82 and increasing cash reserves.\n*   Consistent revenue growth and healthy interest coverage ratio (4.00x).\n\n**2024 Financials**: Revenue 20.21M, Profit After Tax 0.94M, Cash 3.73M.\n**Profile**: Food & Beverage, Kuala Lumpur, incorporated 2014, majority-owned by Managing Director.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Et0ECtoEAWkUfRPwNkzuTc9GCk6nhIzU8t4stsm1X0wF1yYU4jVghxZCd80xFPWQf0KjNkwX4jlOocuv8Tc1dkwKT9881hz5ha7J+xoTRAKHpmcsvYSnzXf4Do7HWtdTL/aU0GSUocU0xd2JHdk4sq/3PVplAPjl1+Bt89+k8lmtBvAEB4ppgj0ANqsLz8+yll67/tt4fP6LVKS5DdiKP6eAWVV5ZgrzgRqkkOUn/HZRs34dk4Jso90ECsLoE/stufygbz+fRngxuJN1Qbuu2TTD5o20C1Kr7ZecgsfOq69qxHISqPCBvMjENb+zACMdc7gBESmmtHCMo38LfqjahgS/Z4lsqO2Bl5Cy6Lqgt4yiBxHWCHFO70TGsucNIfRZc2n3UaYlUuvbbDsrqI16n84tdY3KSZNl2ol0dbrFRNkG/+PJpkYTu6wKvLASW2GQEATkl7SVCDOJKMfT0RBS2soW9swjhIu79X/usY3v0UA+SFtPSzImOl5AagUo5vzyv7DofcGcCD6h5sWXVAKXAT0yQoVSlSqCoK79Du73/G8hO5vfBnl9faSDGVVbuQyawWjRMM50uCosWzObfWUi6rfaZX+rDFOwPioYuXXG4wTr/5pmNQNKxp/ELDc9CtxnCg0B85Mqiunx1tfsThkyxL5GtkSpbqBWj1FjOpY6jEF5HamOzS6jzzD/PNqjvo2+emUjoJ+C/B758NNWGpxUyZ3snO9ACHqN5Ufspn6BwiC2ZIDrmyoZ1DZSMDndOAm5KD8rMyXDBn3gfbKB39kiAU9VHv3+tIvyzFJnAywVRdA="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116345,
+  "id": "N03_ao3xD7SR694P67iv6Ak",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 155,
+   "prompt_tokens": 2403,
+   "total_tokens": 2686
+  }
+ }
+}

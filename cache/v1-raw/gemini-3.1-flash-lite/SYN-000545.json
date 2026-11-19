@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "56ca1905eb3a5f5b",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Company is currently in \"Winding up\" status.\n\n*   **Legal Status:** Company is officially in \"Winding up\" status.\n*   **Litigation:** Multiple active legal proceedings, including pending debt recovery and breach of contract claims totaling over 1.8 million.\n*   **Judgments:** Previous winding-up petition resulted in a judgment entered against the company.\n*   **Audit History:** 2022 audit contained a material uncertainty regarding going concern.\n\n**Financial Snapshot (2024):** Revenue 13.01M, Profit After Tax 1.28M, Cash 2.02M, Total Liabilities 5.75M.\n**Profile:** Technology (Software development), Selangor, incorporated 2019, majority owned by Director 2 (52.17%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EoQFCoEFAWkUfRNh0AFUkVMvzY47u1i5d48lk5cyAwwWyTD3kN9h+DTZr2xd7/izuDMshRIr1papg9bf1msfIjyANQMgSqGjq/IfIsOhuehtA9XIjytGDnQOMFRdLCRbfOIWybOqW/FiWusvJ1yWuZ05wm/3kUtq83/8FACeSkAFohF/YZ8VPn5avR2LlEWGixvRlNMzDOkvXDOsmMifSVPqDAwyvtfy2Ff/AYJicHnQS0AFoirKta1mySpo+529TrvfZqTwT7C4wmglxXu3WafvtXNzEJmVa4KcOcXRQV58rYp/EGisIXyLLMHKKLEdCe9p0NW91rx9QKpyfk5SCtvEM+FsX9K+whQ5Ss12IlmyDjE4QOmBo4CF/mVh8edTpID+QFsbe61tICKxvxve7ZaXD+JnTDlUiilyzBEUsjCd8sUZtsAdeSdv6NQT0FTbi9aUfFCd2fQhBGwYnprwzXBUuX8pH8YQw4jyGvg8wIdWLdT90F6M3HcNQMCoe2aHd9NsswDdB6aDrTsr85oHDl1gPbZgWC4IhlW7ei0FPdQvHRnQ5In9CMooHHnqx2pw20NJUAumDGTXy3Iw/56Ktki9Xd6lojrtgyRScc8VEyBfRq6O3GFKE7UQliEZgTlw7ULXO6SDK0IG21fMGIZlsRHTzhKupWhtDoSqjxjg3BAN5goyXL6uoerm1gT/yzcehlln1XiJn7FEqmVkbYBeNQCpTqva35RtvIEAOCJpGNkZJoIre4GGjJBXrxLl7yDRuNkhJzMd1fd/3oRV4rrYbgM55qir4suwdSSsurr8s8e1fZYOjL1j+XIAXLULsXu38E2bgyUmUNTwN7RDDDed1ZocmkItzdo="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115975,
+  "id": "xUv_apWxI6KX0r4P8-Tb-QI",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 181,
+   "prompt_tokens": 3356,
+   "total_tokens": 3676
+  }
+ }
+}

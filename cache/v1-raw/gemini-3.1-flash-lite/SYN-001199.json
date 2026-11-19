@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "60bf9589753cb1b3",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Recent return to profitability after consecutive years of operating losses and negative cash flow.\n\n*   **Financial volatility**: Reported operating losses in 2022 and 2023; only achieved net profit in the most recent 2024 financial year.\n*   **High leverage**: Debt levels have increased significantly, with total liabilities rising to 6.07M MYR against 2.27M MYR in equity.\n*   **Cash flow pressure**: Despite recent profit, free cash flow remains negative (-27,752 MYR) due to ongoing capital expenditure.\n*   **Operational efficiency**: High cash conversion cycle (159 days) and high days sales outstanding (103 days) indicate potential collection delays.\n\n**FY2024**: Revenue 12.29M MYR, Net Profit 0.49M MYR, Total Assets 8.33M MYR.\n**Profile**: Food & Beverage, Selangor, incorporated 2004, owned by Director 1 (89.6%) and Director 3 (10.4%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsAECr0EAWkUfRMT7tOJVIzNhshhLLDI+gujPrSpOaIqVzpZ5qfZEuhstEiVP1EOebSnjph+9kDtSdadllo41VEjNGjCU6nHI/V0iHsmdfKBWITT9F10d7OpORqCJDay2gU9r+YC9Gq3JPonJzxRBock6JFtMQFLdi7tPYjmUDkI+WoJzK4Hume8qw355QPDSaFheUIkwz+BalVX/Ru72M1xYF3MzkK+U2gZx/s60bTIjFwDp0Ndkv0t/j4uDkoazOiSFJrODH8UM8qR9cO0tdd8OEh0kkM1OWbnE0xNzhMgPmv90npDLne8e5JTPKirMYYvHS8TssTTanh0c/Vatb6+DQEjfnqHozRWnjwwjZoDAxVS43fAThgaK54Y/IGoHPE4BOS2wDZdB5BOk0Em5ddTeNWZBfyaw7uZdGZBavRp4n6HimscPhYPWyyo22AQTlcguB1vYlYkTQuG9SAvYGoXx4Vmbd/pMftqW5AMK/JyuQtH18k1NcWqqonO9yhz+VtfJ1IYNggqzXBGj1jDuY2+F1mO4nsKpr+kVd+nWGYFeAh/KLYhuIkHmXwi4d7FQ8JZtlxtOPEFSY20TL38rD14dklhgqdlf+s/NA0jTLgHY8H44uedsgG481bblXCdSypnDkAFYLrPvh68YNPYwHpax4Adlmxy9yFMRlQzqejOvRbYiDxmxlgUJUnL4lTqHFgSz2zOYSJHqtKJCynYJ5r6p2lAjZBDQTeH4wzeI9rsZstBZELSy7dOQyDg2zePqa98"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116135,
+  "id": "XEz_aqjoKsXOz7sPn5mT0Qg",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 241,
+   "prompt_tokens": 2734,
+   "total_tokens": 3098
+  }
+ }
+}

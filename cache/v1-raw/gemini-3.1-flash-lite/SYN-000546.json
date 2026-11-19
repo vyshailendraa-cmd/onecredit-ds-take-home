@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "9c979407f89daa42",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Recent return to profitability after a history of operating losses and negative cash flow.\n\n*   **Financial volatility**: Reported significant operating losses in 2022 and 2023, only turning profitable in 2024.\n*   **Cash flow concerns**: Operating cash flow was negative in 2022 and barely positive in 2023, indicating historical reliance on external financing or equity.\n*   **Rising debt**: Borrowings have increased steadily over the last three years (from ~40.8M to ~52.9M).\n*   **Audit**: No red flags; unqualified audit opinions received for all three years.\n*   **Litigation**: No recorded litigation or winding-up petitions.\n\n**FY2024**: Revenue 266M, Profit After Tax 16.8M, Cash 12.6M.\n**Profile**: Technology (Software), Pulau Pinang, incorporated 1994, owned by two individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "ErAECq0EAWkUfRMDGiyM+9KgGbaEQ1+sAwDj5zn3Xo54jM1pnKaRyeuNDbfF59chKmi2ekuYu1HBOSKZdnRD09sEUzJ39y1P3BwyRuJdij1lrrosvobC+3G3y3vQ/LJNODSSsMDXmnX/5nv6z64QiFdZCZEKh+pZEwA+1LPSEpavvvT6AD9YRUVlGaLtvdu1TsgEon8P9djTdTtXNZXMAhSTqcnbVspTYmwpSdvDLOUtPjINLQ5gmQKI6Q3NIdBoVkoGUtSNCT4i5A2nqnk1KcFF1Y17qIn35fdexi3kST8Rw2J141BrHapgoqwFqAshsk2atTOJefMcJK8GfU2YbKFN3va7hDdJgXnJa8Y5nHuQ7St+gRPMrKWq2XEvQDSqqBKLu7IJFhlYPZNpxSZK+mgiaIZ0QDP98907RBnn0LiAouMZE7J72NauIurcNQwvscW2FGcsX9WM7sUbPrAGYvrc6yjwg+5k+vHPNLb/9uHLd6Zr/A6zKX4YPDBMM8wO2/oSu1o79mkTJJMnxA+RU7wCBEZMt5gOS4/OJPV1XQmgzXaUwQmVSEfxKVRvlqoTec0KynxtayE+4PXJ8wAXUtr2vgYEHLo4A/Vtt5DEfywGvQoqTYPnW9wOxafHpO3vl04fMCttZMmweBOpcHUbG0/hl0I5DZeiVWpSsIM55522ujEEQY+0aJJ5ujjnkRqTqTzGbuGoRbSYCBRh1WwoT73rhBobe3z1/0bLIz3fslYb2bU="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115984,
+  "id": "y0v_ar7LHsuL694PvPiykQw",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 217,
+   "prompt_tokens": 2728,
+   "total_tokens": 3062
+  }
+ }
+}

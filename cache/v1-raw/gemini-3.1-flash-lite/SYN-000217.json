@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "7e81c3961fa12922",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk** due to recent audit instability and tightening working capital.\n\n*   **Audit Concern:** The 2023 financial statements received a \"Disclaimer of opinion,\" indicating significant issues with the reliability of the accounts, though the 2024 audit returned to an \"Unqualified\" opinion.\n*   **Liquidity Pressure:** Net working capital turned negative (-87,439) in 2024, suggesting potential difficulty meeting short-term obligations.\n*   **Leverage:** The leverage ratio has steadily increased from 1.57 (2022) to 2.65 (2024), indicating rising debt reliance.\n\n**2024 Financials:** Revenue 5.61M, Profit After Tax 386k, Total Liabilities 4.60M.\n**Profile:** Education (Tadika/Taska), Selangor, incorporated 1991, owned by two individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Et8ECtwEAWkUfRNqvYFINJcYG63z6GF7dZ69GroGefJ8HXAD5zNUfXneh1wmcHWjuuPehe/i/9/40l/9IoLcANnlSQDp5ceFmSWy156Be8ShvzQCJxJyHbGpd4olBoSJdyBXr7we5cBZauDLnKf7HEVZDidXaFwE3ituSF9oPFw3ws/q59+HCSGrKvfoyoR/MYcAggWHWutKdHOwIzH99EqIsP7xhULIu1LSyf735Ma4xz2HIXz54P8Av9tJaYGlnuhoCOkiBkwKcHm3iO9McT8ZrkzdWHbXxIDwbP/utQFJVF0qb+DN7Oi05FV3Yh7I8SjP2B6lJMr7ZZM2t1Yo+flk0+34FXZzburnjJ+JcdwTy7yrGWX3KEDPfuzs2MERzAH9J31pOTIod9v9bvXH/lcks49eUWMq6bxhJWv+84K86YPZ+IItJasaKchkuVnygUuX7FmRrtkl90iNyq2dD91rwnrTJYkzWlOCp5FDM81RAD9DLv9Br5vDoO1s0srkW+XutrMNnt0VwsHkepNQyV+0+pjtaeW3y8jYtiD/abbUsKhEoY4/B+xFAF4v5iVhtjL+ax4hROq774OhUseyJ+p4IhpBW+rYaJrNPnpev1TZjeSe3aXAar0V3ug/oKqN+BuGPZ1ka48X5ZW5uDc6yukbMSLtDX9A7FZZ7gN9zO/Boq1nZJrbrGieEy5D2UaRelnQr0spchMfLYHrhrOXEDfFzwjg7jqge8JArw0fKSpmlswJYhhBEf6ma+9yEhoCfm0UsWpgKOyiCbnYGE7Mru4o8IwP3Wsgii7655aSciuF/w=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115884,
+  "id": "akv_arSXOqvLz7sPzerfwAs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 204,
+   "prompt_tokens": 2615,
+   "total_tokens": 2948
+  }
+ }
+}

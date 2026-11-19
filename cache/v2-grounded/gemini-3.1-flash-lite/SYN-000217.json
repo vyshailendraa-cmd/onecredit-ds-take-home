@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "520435227b7f4519",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Recent audit qualification raises concerns over financial reporting reliability.\n\n*   **Audit qualification**: The FY2023 financial statements received a \"disclaimer of opinion\" from the auditor, indicating significant issues with the reliability of the accounts for that period.\n*   **Liquidity pressure**: The quick ratio has declined annually (1.25 in 2022 to 0.96 in 2024), and the company reported negative net working capital of -87,439 in 2024.\n*   **Rising leverage**: Borrowings have increased significantly to 2,654,552, with the leverage ratio climbing to 2.65 in 2024.\n\n**FY2024**: Revenue 5,606,840; Profit After Tax 386,389; Quick Ratio 0.9583.\n\n**Profile**: Education, Selangor, 34 years old, owned by two individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Et8ECtwEAWkUfRO9Zs7ZePgf1/0zkTWdZOAWyUGxlLRiuJX6jh5NdP0PF7Uyeg/q7QgwithJuhsQKS0936kis3goa2CupXRw5jWaPxVxM+R671i9kjPnlrrWS3DqK3W+3daqkZUs9PbufWUVSfslcSFX+tj/gohv4o7J/oDyjatkdKADxalYRA00+QPJHkZp6ASKpmtlE2l9IipL5ZHY0Cykoby5FQHcwuhsWoJ6TSPSxTfs8AcgpOJ26fPltqqAZSHcUYR/jkbpi/sakqWl4Bh4DR+NPWeRgyrXoe9iuLbYe+YOI8N4HXah+ZWY7U1JncPUtVQR43ZWsGAafhXa05ylpTTgOkJ7aN4lpkOsDD7mrjbggyzPOaMvUOEI/pqDLAez9K0VKtvXz04VLXJF5spd0NgdN8L+7+Lza2fNMIQ4jah6q3N3NsiaINY8SOAAhC6MB8w+adp8Bjsa5x45tcQI2Myd9bf8De6VIYAe8Sdtn7EhW60OK9pW3aqHj11QgRRIG7hTt3hi7iUPKBgNIx4KDUvgmcjrjAy3kloa8dkoMljVBAqSW/aoLqdIHf/QDOrradnm2kzix+KPx9hlypUcmGLNjDgrvgWC0OhP/ysQawwnakPcDyJH2vvQ1UcLlJnbyEiUrRT6HcjL1wFGe6FkVRtUtQYR1aaXHC1J58MnEljT9pQnDiPdkoMtnasOyyyZovKrxyjbgULx5MpVkPQqEEXKJ2VuVhob5Doff5m5Be4QuA7mP7l1rvIhaPV0tr17rwgDCAFE6eYKR+DZHeiz5ustkMvPnJGFB2DpMMGD/w=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115304,
+  "id": "JUn_arLFOJmx694PzJ_L2As",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 219,
+   "prompt_tokens": 2847,
+   "total_tokens": 3198
+  }
+ }
+}

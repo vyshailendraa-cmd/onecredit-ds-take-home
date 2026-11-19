@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "0d807cce2e3b2646",
+ "model": "gemini-3.7-flash",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: The company maintains positive operating cash flow, consistent profitability, and an unqualified audit opinion.\n\n- No red flags identified; legal status is active with no recorded litigation.\n\n**2024 Financials**: Revenue 5,352,856; Profit after tax 96,805; Operating cash flow 113,617; Total equity 4,447,731; Borrowings 2,112,710; Quick ratio 1.35; Audit: Unqualified.  \n**Profile**: Retail (textiles and baju kurung); Selangor; 7 years old; Majority owned by Director 4 (58.25%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EoUBCoIBAWkUfRMGJl5ODHTAuXAlBDHxoWeZXgRJQamk11ZVy1WAc5R3AlXKHHa+OWzDnP1s6kY0kPpMpZrfrEy53gHcQO0vGx0YmKlh+3XREwXc7GT0sl9UCNWnDP7vEFXgBxCdf3a8UdEbAWBYspw7MFd7x/iWpyFsPfhE1t7frmV+nYkm8g=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795114620,
+  "id": "F0b_apG-AfW-3LUP96qBkAs",
+  "model": "gemini-3.7-flash",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 154,
+   "prompt_tokens": 3021,
+   "total_tokens": 3175
+  }
+ }
+}

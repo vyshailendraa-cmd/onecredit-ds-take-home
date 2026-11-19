@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "955165cb99471ee1",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Medium risk**: Sustained revenue decline and narrowing margins.\n\n*   Revenue fell 20.7% to RM26.19m in FY2024, marking a continued downward trend from FY2022 (RM40.02m).\n*   Operating profit margin has compressed significantly to 3.45% in FY2024, down from 12.78% in FY2022.\n*   Net profit margin has tightened to 1.97% in FY2024.\n*   Interest coverage ratio has weakened to 4.06x, down from 15.04x in FY2022.\n\nFY2024: Revenue RM26.19m, Profit After Tax RM0.52m, Total Equity RM19.87m.\nHealthcare, Kuala Lumpur, 34 years old, owned by Director 1.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtsECtgEAWkUfROu3Ug6sLPKuu9W7oBvlORQVJUdFHN35NbC3f3eFMPhrTXvJuj32mpLoWVcYKYv64bcLhSdXLmr6tkdSJ0rJCUWS1HJmJKSo9r7tzOV08WFNoB8BPpJnO9TRBjKXjDAOvgEyum9b4I6KBJ3eDCin0EjulaBrw04OAqScGtjWI37D/Q+gCvs8aGV+GsF8aRigMEiros3UR6kxDYy59sN5ypaGnZSmaa1/Lg3szoP6/A+arjszQyYnCqRCXNuL2y0p7dsA3L5QXeGLrOa97Q4ZEc64L2seXegewjzA2qCZUS/QFtOrkEgNqDqTK7L0M6DC42Bqv5+meJ0bMCgk6iavjnja/3BumjQ25FjvkbcDJt1wQWo9AimKbUhR2wysn/n2zhLkjc7hhsjJglXub11EQmBBHONLHLW0kDyjDFYJT/PRQ7oKUTX9XNS3+5jokZVOBTVKE3gk92saSLB0lqaF5e/32I/wCOYBK/f+k0x4KDyPg+NHAQ+lIY0Q/1kJyOWNf6YOrDZEEadn7KE1RzPFHJ1roB2EVDiKLYBLcsHkWCGPgGpXcgVl1Hbq/a+VtehwfMV8TKcXS80teu6Aw07j3HAyAILETbxAP5TwkKYmJThCbtOzPBgyLGwLQrCeIG5UA21+8JHDDb6sISFqgdwWRFyLW2322yCf4XY99t8x+YzQjofg6y8dDrfVwlf6WkCyCzzSjOjNUmntJIUkRwbZYR9y6ysjrO77P3T20N+DvI6IR64+QAEILH/Lubw6Q0Fu3NpYTGDy3eerw7umWS+U3cZ1XJU"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115678,
+  "id": "gUr_au3sBYq_694PsszvkQ4",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 205,
+   "prompt_tokens": 2969,
+   "total_tokens": 3307
+  }
+ }
+}

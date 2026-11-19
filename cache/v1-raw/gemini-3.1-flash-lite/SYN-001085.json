@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "6d1c80724db8cc6e",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Stable financial performance with consistent profitability and positive cash flow.\n\n*   No red flags identified: No litigation, winding-up petitions, or adverse audit opinions found.\n*   Financials show steady revenue growth (2022\u20132024) and consistent net profit margins.\n*   Liquidity remains healthy with a quick ratio consistently above 1.0.\n*   Debt service coverage ratio improved to 2.36 in 2024, indicating stronger capacity to meet obligations.\n\n**2024 Snapshot:** Revenue 24.76M, Profit After Tax 1.18M, Cash 4.10M, Total Equity 18.52M.\n**Profile:** Manufacturing (rubberwood furniture), Perak, incorporated 2017, owned by four individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EsAECr0EAWkUfRMiYBvz05I84H8PjjJBm7m9zY8a7vJF/MVPw3cXANpJ8P725lvnrb2/iNH3sFL/A9jUURP5duRAZS1vQK7H8ZS3aWWGW3wGYURI/kFHSP1WOch0HmFoAmqayBYGI2kOup4PD6rRKP827epufbeGGoF6xMT2GvumpxlfvnG4wjbKSDpDePHJsTZ+kD2pMOQofsBrRyjkkhweKnEF7upP0yBZvsKAFy5RhlAgH5xfEM9Gk0oZkV4/Y8mH3AlZRackIOwbvGcJuVgIhjHWVJ9TWJHO0YBQBmw8ns/7RjQQFzFE5vIVdO9KQ53P1I9iQlPnQV9SHifTIRqWmj51kGzsLbaty+XdrJRjRq0w00rBlNn3nwDClotgeL9HdhiPxseZNkdyJ1DPQPFKrXf6sEnnEPDWPfhcX04DNpJ5I+6U5RUgj0GnthfocQwgzgB8Ne86w88CdlPjWp0a/Yl5PuQ/VmzwOLZ160wF6j4M4kcu5lIZ51U6L3l/129ABuRbXdYqBHFm8pHzIEeOBsHwkHE9tets60o3xxZ/ghdTrz2wndbcm0oTt8B9Xbqxo7KJdrTZjHiEHKd+5erD6WVmy+Nnghyd3mjqKH0hPl2asuDi6tf4EKhAxApO6DtrBc6AE/DQa9nFZ9quWS7EFTDlhJNRlUpIovQzdhstyOaWE2Hlr1DwygYEwOlot/ICwIhovWOUkvaLNKl5CjcYGewY89nf2M5V4NSimPxyDCThjV2Ur9ycN4ZoYMilXIGW"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116102,
+  "id": "P0z_aqPROpbZjNAP_9m58Q0",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 179,
+   "prompt_tokens": 2876,
+   "total_tokens": 3178
+  }
+ }
+}

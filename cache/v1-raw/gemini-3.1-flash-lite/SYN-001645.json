@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "1c6529a5a3bf99e4",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**Low risk**: Consistent profitability, positive cash flow, and clean audit history.\n\n*   No red flags identified: No litigation, winding-up petitions, or adverse audit opinions.\n*   Financial performance is stable, with revenue growing to 21.29M and net profit increasing to 0.93M in 2024.\n*   Liquidity remains healthy with a quick ratio of 1.18 and positive operating cash flow.\n*   Debt levels are manageable, supported by a strong interest coverage ratio of 6.46.\n\n**FY2024:** Revenue 21.29M, Net Profit 0.93M, Cash 1.95M, Total Equity 12.43M.\n**Profile:** Construction (Renovation/Fit-out), Kuala Lumpur, est. 2002, majority-owned by Managing Director (74.26%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Eu8ECuwEAWkUfROeFhDU/uN+0hHijO/GUhX9R6EcE1DUys5NuI3IyyWr6ZEfHHmWngBDjB7Br8f2QrmZehl0GkYXohp3qgVVLUvwbvFQnYz0VcPUt6sInT7DcS2yBnbnnGDkAlrNCqvotUJ5jvG2+mEU5keifpWcfdmQOiqx0SA2ODB9B3SJC2R/WBsIPmbo6q8xuvbpXDDzCxKIsU1vAANyNDutCjm2sAsp8y4qsQ3G0RupnK3EcQL2l9OFHojuCS9FAB6ApnsiK7W435Nb22sG4We6lF+b7IMQUUTVKRPl3JFffAqzD01BJt2lf6YG0HJXX1gkXkIS6EkJ18rMo348eM3gScIjQsggORD4ku4sGQdRZJSrB0yj9G65Md/sNLlecnJJEC6NjoB+juNHzd8tOnGoeCohF8z9FTsXwwWxuJHs4yqMQABlAoN0h/GxKFw3CyXwlHJ+qH7xhULvU8h24BsZdOfkDCXLLrUsID+75P7l1dxeIyFZ96Kt5k4WjTrJWa5TmaL5gBsoOOlvDKF6Gfd/UIlZBWDpROpkHAluotf1CvkG9p1esN8t0ZAxu509ubShrFMNLFFSFMU5ZdDwOkQDqiMwQr1ww7RobtI/LydVz0JnsINZNJLdkl+lxpBe8aKxS+fmOqNqBvdeSCQ6pjZaYTBPQIIDUYj3EDs6TbuC7gKrBBBZ1VquqsqCLXkT3XlIEwwCsIILNRwPkEgJXabyHvvRzUkPxpgI5UNSy5apVovu/ltOx43ZGa+69LED73/ppOZYXl3QEzT02d+U5/CgczX+dbAd+zbImnoSOJLtCdrkHp+Q8naAa95abXI="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795116311,
+  "id": "FE3_aoHLIYPM694Pq57QyA4",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 200,
+   "prompt_tokens": 2775,
+   "total_tokens": 3106
+  }
+ }
+}

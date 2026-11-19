@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "d32d0ebf205f8e40",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Sustained, accelerating financial losses and severe cash burn.\n\n*   **Persistent losses**: Net losses have widened annually for three consecutive years, reaching -7,515,861 in 2024.\n*   **Negative cash flow**: Operating cash flow has been negative for three years, with free cash flow at -8,505,186 in 2024.\n*   **Liquidity crisis**: Net working capital has turned negative (-4,230,894), and the quick ratio has deteriorated to 0.55.\n*   **Unsustainable debt**: Interest coverage ratio is deeply negative (-8.13), indicating an inability to service debt from operations.\n*   **Declining equity**: Total equity has eroded significantly, dropping from 31,214,630 (2022) to 17,578,376 (2024).\n\n**2024 Financials**: Revenue 43,292,441; Net Loss -7,515,861; Cash 5,167,050.\n**Profile**: Hospitality (Travel Agency), Kuala Lumpur, est. 1995, majority owned by Director 1 (47.38%).",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EogFCoUFAWkUfRM1501Rgsng25Sa5mh4lStebjLA1g7iERQ8mpqsLrB3JnFisk7e/5dGS2jxvpJeoMf4+D0luXMLjcKaYYgmVVe4t6jRE4Xo714/3ED235zxy3F+fBb/N+AfaaguXp+IoONxlUvHkCB7Ha+dlyjVWFg583ywXvfkPv7o8F3+4/t9Y2M8PcGtPnrTlbPFwDkk8K/EkUByk7LCietzIJ4klSHSjgKHvSi0qkAoaOQ2YfhhU3V19KFnAfEI6XW9tuk3ZgUfmYWGYfcs+t2AAqcR5bEJ1C+/g+7YX+3MA9TM2qB6KBuLKP+VqVOg/QWGJZlOeoOMLd2OY9PoCYBUs9t/zXIIpPKgcg/DbJvXax9ykn1atndKr/qM3z5cx1KHfT9ZtHdMgIMAl0T0ti93U4YcFnMoWxW2vsq2vlKGUrF8npdPrTGxZUaojhwibb4rMJc9qQhCKeHmH+9ErRLcU6OigA1eNamMmB97V6jn/W2rg+nF/fQKoLAW0F+y7gOR4B3lW+hjwxP8cTXtN40E1rkzZ3q3eQm95MkEdv3Bjq3R+agOD5ieZWx992uP1R+lw72tLrh8usfrVZ8gZiCu/mglSBwKZdhysNkEeZHL5sG11k8SnOKgDRyuLMJsaXvBolx6TdLhEltyBG+7udATvyoi5o+DAILLKpim9FsparMpB1V3punsQIkItf/PsQgBmbt+qD7EIto3oywvc1gCSO1+1aKU3Abays87A3iVVOTPdgctHP2ikbDi+7ieez2nbuKyLPKC4W5EU9UlDy/3rgxL2ZgsaTTZgbdeQ8AP9yPx8dmK4N9hhk47nRa87khIOROAfuVPYVlalNCGbDtX1Aep0xfR"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115860,
+  "id": "UEv_auOJJ8XOz7sPn5mT0Qg",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 288,
+   "prompt_tokens": 2807,
+   "total_tokens": 3236
+  }
+ }
+}

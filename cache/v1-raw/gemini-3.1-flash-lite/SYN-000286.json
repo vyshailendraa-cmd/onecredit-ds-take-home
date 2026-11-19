@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "d8e86df72f0cb05f",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Significant ongoing legal exposure, including a pending winding-up petition.\n\n*   **Winding-up petition**: A petition filed in 2022 remains pending (Case 2022-9003).\n*   **Active litigation**: Judgment entered against the company for a debt recovery claim (Case 2024-5706).\n*   **Legal history**: Multiple recent disputes, including tenancy and employment claims, indicate operational instability.\n*   **Cash flow**: Free cash flow turned negative (-20,288) in the latest financial year.\n*   **Leverage**: High debt levels with borrowings of 2,132,519 against total equity of 1,945,146.\n\n**Financials (2024):** Revenue 4,419,464; Profit After Tax 178,923; Cash 304,883.\n**Profile:** Food & Beverage, Sabah, incorporated 2017, majority-owned by Managing Director.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "Et4ECtsEAWkUfRNkQh+REziZDHrkQDc82eZcEOjw5qdIrVzDbCJQge6C34WGH81zBlQLe91KDWCDPy+Mt6wB447lY4o4YhZ36GZLjv9a82ZJBMmwdW2Ta51VtEDHHPyGw0dLOOWgSgYizoaDqffWmGyhLw7TGHDkPy8Gmt+PPOSvDA6fzxeb6owIwhxBL1QxD4HGQh9GO0pLu6bKrnUZaQiXJ3hQYnAhHke+GbdcfLySxhUH3Y0dlJFPZbCyBZd0m0ILEQTuzmbHRDhcuirQA2O39ELaKGqRlH3G+/gee3AkV8ZE4SLT5GGA3M8eUxCcOStLjMAZtVoHi6UQ6asKjGHvwfZMnChvBSuHthjDPVIGDktKgIlhVnkbxNCeDETOaCetbwnruReOBk+6b52uk3sCUnl8eJM+rDFlPx5cIlrt88hjoWhw0nPSH+iMEVGDjXXisMvtgbbw5cyyyJ0QKBPwvDUvim+57n5yhCfTAk1QWrm6Ms42Kf1dbR8k5n/OmmbEEWyRxZW7vDZhiff0LFZtiN/Lqdq905hbilDnAF0l/CVNTzFKyjoAWwTSdCEvOlS8ikPV4EctYoOum+OsGD8YoP09o/n8VHX+jZMc/lC5ARKOVImQJ1cnc/Eteb7FKVRmRSzqQCbcmKRMiuhxoTPdESWx9RGGvtW7SqVotMq1NMEyIOxgQb8uE3FntHM3pT/1PcvcGXOHHtf56ST2mzMIP76QD4iB1csf/ShfLis2GYbrO+lj1JhOFgkwp3e2Ge7u3PK5DxIOA1wB3VPMXVU4BTRbZszldZrOjz6Lhctd"
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115907,
+  "id": "gUv_apTRLpjQg8UPwf3CkA0",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 235,
+   "prompt_tokens": 2444,
+   "total_tokens": 2811
+  }
+ }
+}

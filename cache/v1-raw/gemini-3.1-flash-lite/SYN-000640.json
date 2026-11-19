@@ -1,0 +1,30 @@
+{
+ "prompt_hash": "71d920e923086db2",
+ "model": "gemini-3.1-flash-lite",
+ "response": {
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "message": {
+     "content": "**High risk**: Significant legal exposure and recent adverse judgment.\n\n*   **Adverse Judgment:** Defendant in a tenancy dispute (CASE-2025-9161) with a claim amount of 310,600.00, status \"Judgment entered\" as of August 2025.\n*   **Litigation History:** Multiple debt recovery cases filed since 2021, including one successful judgment for 2,512,900.00 (CASE-2021-0117) and several dismissed or withdrawn high-value claims.\n*   **Financials:** Consistent profitability and positive operating cash flow, but high leverage relative to equity.\n\n**Financial Snapshot (2024):** Revenue 1,160,005; Profit After Tax 90,125; Cash 59,334; Borrowings 471,172.\n**Profile:** Healthcare (Dental/Orthodontic), Sabah, incorporated 1988, owned by two individual directors.",
+     "extra_content": {
+      "google": {
+       "thought_signature": "EtkECtYEAWkUfRPS9KalFiJRxirI85XvU7xBITAja/Jh8qJcc7NXtgx/24SVYgvC69GT7aauWV+faQ3JRxRLUmr0oXk0SBDPM22IvIJSdo9Dczqb2fqTNaQr1T2YmKEMhzKfjYR6YvXM2K9FdFx1wswtJLImW9vZ4WNSF+oJ3psherafSSVuVK+jyXQexcLeNuzcNIXUe5gCKppEWwRV3UZWL/gGBK8RNeasGlBLNIPrefZwZSe76FzcdwiLF4922uMO9eY4yvfs+oGZkQXW4zCz8zjBWVEQytsjdaC3JDQG9HIHs68lb3B6IAUB5Os03lQLi1Rl1beLJBfSbegvgp7NLm4ATANWZBEhOt4M/+5DnEA+7/T32RQAiZToEbLDhAirurBgPMY/YgMHEj7eLV4Sl3BA53S0Bzlr2bBqqkIJU7SBdm4hnQZkrxJ38gYxm9DvcyHaOZx4cZVk05v6wxfgjr9Gybd1plblCx2GuZdl2B22OIWvSA9sR5RUcKHqkjIq4z6QQ/fCUGIGxAeHRi+bsHaAPIshEDJxWBPD9Occo2oNbMlaUsH8SBV2fgf5pJx0+G4DgKHqJebmrDeNSIWynp86AEKkNDBvTMMmyX9o5/fkzqXNjQ0z0b7z1UfmYI8pGtMdrYVGOTxGkGXqc9lhWOu9LsZxkllUkzsMbmAlhrLhPcfSQNWpowp9apW94XJci3NwZxA9o9gh0dZ26tlckxT17IfC89ghvhlLIGGn5N1rmUZTDuaQqq+N4d++QwjegsdqwKwW95j4hDdKeVsIDwR38SM/OeqAkQ=="
+      }
+     },
+     "role": "assistant"
+    }
+   }
+  ],
+  "created": 1795115993,
+  "id": "1Uv_at_uMdvN694PpPjbuQs",
+  "model": "gemini-3.1-flash-lite",
+  "object": "chat.completion",
+  "usage": {
+   "completion_tokens": 233,
+   "prompt_tokens": 3096,
+   "total_tokens": 3458
+  }
+ }
+}
